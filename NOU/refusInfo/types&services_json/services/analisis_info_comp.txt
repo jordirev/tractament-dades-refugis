@@ -1,0 +1,900 @@
+ANÁLISIS COMPLETO DE LOS CAMPOS 'info_comp'
+==================================================
+
+Total de refugios: 673
+Refugios con info_comp: 673
+Refugios sin info_comp: 0
+
+CAMPO: manque_un_mur
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '0': 603 refugios (89.6%)
+  Valor '1': 53 refugios (7.9%)
+  Valor 'Sans': 17 refugios (2.5%)
+
+Ejemplos por valor:
+
+  Valor '0' (603 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 598 más
+
+  Valor '1' (53 refugios):
+    ID: 5332 - Cabane du Roc de l'Orri d'Ignaux
+    ID: 3757 - Casa forestal de Irabia
+    ID: 3758 - Ancienne cabane Mulucheneko Etchola
+    ID: 3756 - Cabane d'Ugatzé
+    ID: 4834 - Cabane basse d'Ihizelai
+    ... y 48 más
+
+  Valor 'Sans' (17 refugios):
+    ID: 3677 - Cabane de la Rebenne
+    ID: 6249 - Cabane pastorale de l'étang Tort
+    ID: 5175 - Abri pastoral
+    ID: 5554 - Cabane des Clos de Dessus
+    ID: 4802 - Cabane d'Arrious
+    ... y 12 más
+
+==================================================
+
+CAMPO: cheminee
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '1': 357 refugios (53.0%)
+  Valor '0': 265 refugios (39.4%)
+  Valor 'Sans': 50 refugios (7.4%)
+  Valor '2': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '0' (265 refugios):
+    ID: 6055 - Cabane de Poussiergues
+    ID: 5391 - Orri des Ludines
+    ID: 8520 - Cabane de la Jasse des Llerbes
+    ID: 6360 - Abri municipal
+    ID: 6250 - Orri de Cizarols
+    ... y 260 más
+
+  Valor '1' (357 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 352 más
+
+  Valor '2' (1 refugios):
+    ID: 5298 - Cabane de Yèse
+
+  Valor 'Sans' (50 refugios):
+    ID: 3677 - Cabane de la Rebenne
+    ID: 5777 - Cabane de Mirabail
+    ID: 5007 - Abri pastoral de la Tose de Riete
+    ID: 6249 - Cabane pastorale de l'étang Tort
+    ID: 6318 - Cabane de la Jasse de Brougnic
+    ... y 45 más
+
+==================================================
+
+CAMPO: poele
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '0': 516 refugios (76.7%)
+  Valor '1': 99 refugios (14.7%)
+  Valor 'Sans': 57 refugios (8.5%)
+  Valor '2': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '0' (516 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 511 más
+
+  Valor '1' (99 refugios):
+    ID: 6055 - Cabane de Poussiergues
+    ID: 6242 - Cabane de l'Eycherque
+    ID: 4628 - Cabane de la Jasse de Girèys
+    ID: 4629 - Cabane du Roc de Sorgeat
+    ID: 7964 - Cabane du Campalou
+    ... y 94 más
+
+  Valor '2' (1 refugios):
+    ID: 5298 - Cabane de Yèse
+
+  Valor 'Sans' (57 refugios):
+    ID: 3677 - Cabane de la Rebenne
+    ID: 5777 - Cabane de Mirabail
+    ID: 5007 - Abri pastoral de la Tose de Riete
+    ID: 6249 - Cabane pastorale de l'étang Tort
+    ID: 6318 - Cabane de la Jasse de Brougnic
+    ... y 52 más
+
+==================================================
+
+CAMPO: couvertures
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '0': 535 refugios (79.5%)
+  Valor 'Sans': 71 refugios (10.5%)
+  Valor '1': 62 refugios (9.2%)
+  Valor '3': 2 refugios (0.3%)
+  Valor '4': 1 refugios (0.1%)
+  Valor '5': 1 refugios (0.1%)
+  Valor '2': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '0' (535 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ID: 6055 - Cabane de Poussiergues
+    ID: 5770 - Cabane de la Jasse des Esquers du Dessus
+    ... y 530 más
+
+  Valor '1' (62 refugios):
+    ID: 7925 - Cabane de Balledreyt
+    ID: 6278 - Refuge d'Eychouzé (Naguilhes)
+    ID: 5769 - Cabane du Ressec
+    ID: 5796 - Cabane du Larnoum
+    ID: 6287 - Jasse du Pla (Bésines)
+    ... y 57 más
+
+  Valor '2' (1 refugios):
+    ID: 5298 - Cabane de Yèse
+
+  Valor '3' (2 refugios):
+    ID: 5238 - Cabane de la Jasse de Mansèdre
+    ID: 5800 - Cabane de Besse
+
+  Valor '4' (1 refugios):
+    ID: 7926 - Cabane de Tabanière
+
+  Valor '5' (1 refugios):
+    ID: 4628 - Cabane de la Jasse de Girèys
+
+  Valor 'Sans' (71 refugios):
+    ID: 3677 - Cabane de la Rebenne
+    ID: 7933 - Cabane de Bèze
+    ID: 5777 - Cabane de Mirabail
+    ID: 5007 - Abri pastoral de la Tose de Riete
+    ID: 6249 - Cabane pastorale de l'étang Tort
+    ... y 66 más
+
+==================================================
+
+CAMPO: latrines
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '0': 596 refugios (88.6%)
+  Valor '1': 59 refugios (8.8%)
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral': 1 refugios (0.1%)
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo': 1 refugios (0.1%)
+  Valor 'Réservé au berger. Picto IGN...': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.': 1 refugios (0.1%)
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015': 1 refugios (0.1%)
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.': 1 refugios (0.1%)
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.': 1 refugios (0.1%)
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier': 1 refugios (0.1%)
+  Valor 'Occupée en période d'estive. Fermée sinon': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.': 1 refugios (0.1%)
+  Valor 'Cabane fermée visiblement privée.': 1 refugios (0.1%)
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF': 1 refugios (0.1%)
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.': 1 refugios (0.1%)
+  Valor 'Ce point noté abri sur la carte est fermé': 1 refugios (0.1%)
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong': 1 refugios (0.1%)
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral' (1 refugios):
+    ID: 6249 - Cabane pastorale de l'étang Tort
+
+  Valor '0' (596 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 591 más
+
+  Valor '1' (59 refugios):
+    ID: 3677 - Cabane de la Rebenne
+    ID: 3896 - Cabane de la Jasse d'Artaran
+    ID: 5238 - Cabane de la Jasse de Mansèdre
+    ID: 6115 - Cayolar de Pixta Pekoa
+    ID: 6190 - Moulin d'Utziat
+    ... y 54 más
+
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong' (1 refugios):
+    ID: 3522 - Abri de l'Estagny Llong
+
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.' (1 refugios):
+    ID: 4802 - Cabane d'Arrious
+
+  Valor 'Cabane fermée visiblement privée.' (1 refugios):
+    ID: 5137 - Cabane du Bois Nègre
+
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015' (1 refugios):
+    ID: 4596 - Cabane de Gérus
+
+  Valor 'Ce point noté abri sur la carte est fermé' (1 refugios):
+    ID: 4404 - Abri du stade de biathlon
+
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier' (1 refugios):
+    ID: 6102 - Cabanes Sacaze
+
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.' (1 refugios):
+    ID: 4402 - Refuge des Fornels
+
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF' (1 refugios):
+    ID: 3474 - Refuge forestier du Fournet
+
+  Valor 'Occupée en période d'estive. Fermée sinon' (1 refugios):
+    ID: 5195 - Cabane pastorale de la Courbe
+
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places' (1 refugios):
+    ID: 10129 - Cabane de Laujo
+
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.' (1 refugios):
+    ID: 7038 - Cabane de Luzurs
+
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.' (1 refugios):
+    ID: 9931 - Cabane des Courraux n°1
+
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.' (1 refugios):
+    ID: 4900 - Cabane de Linza
+
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo' (1 refugios):
+    ID: 4850 - Refugio Pablo
+
+  Valor 'Réservé au berger. Picto IGN...' (1 refugios):
+    ID: 5175 - Abri pastoral
+
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.' (1 refugios):
+    ID: 9932 - Cabane des Courraux n°2
+
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg' (1 refugios):
+    ID: 4958 - Cabane du Pla del Mig
+
+==================================================
+
+CAMPO: bois
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '1': 416 refugios (61.8%)
+  Valor '0': 229 refugios (34.0%)
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral': 1 refugios (0.1%)
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo': 1 refugios (0.1%)
+  Valor 'Réservé au berger. Picto IGN...': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.': 1 refugios (0.1%)
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015': 1 refugios (0.1%)
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Possibilité de planter une tente immédiatement proximité, la clairière étant en pente. Sur le GR 10. Cabane en pierre équipée d'une grosse plateforme en bois de 6m² permettant de dormir, manger ou s'asseoir.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.': 1 refugios (0.1%)
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.': 1 refugios (0.1%)
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 12 Abri majoritairement en béton (de mémoire...) composé de bas flancs superposés, quelques matelas en mousse, une table, bancs. Confort simple, peu de lumière, l'ensemble est assez sombre. [i][u] A compléter, mon passage dans cet abri commence à dater et pas encore retrouvé les photos...[/u][/i] A proximité de la route, dans les lacets qui montent au Lac de Cap de Long. -': 1 refugios (0.1%)
+  Valor 'Occupée en période d'estive. Fermée sinon': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 cabane ouverte avec cheminée, pas très propre en haut du lac, après le refuge Cabane haute du refuge': 1 refugios (0.1%)
+  Valor 'Cabane fermée visiblement privée.': 1 refugios (0.1%)
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF': 1 refugios (0.1%)
+  Valor 'un bat-flanc une mini cheminée . bref juste de quoi s'abriter en cas d'orage . jolie vue sur les montagnes et calme absolu.': 1 refugios (0.1%)
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.': 1 refugios (0.1%)
+  Valor 'Abri métallique peint en vert, une structure habituelle dans la région. Pas de porte, sol en terre. Abri de secours plutôt spartiate.': 1 refugios (0.1%)
+  Valor 'Ce point noté abri sur la carte est fermé': 1 refugios (0.1%)
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong': 1 refugios (0.1%)
+  Valor 'Toujours noté comme abri par l'IGN mais était en ruine en 2009. C'est impossible à voir sur les photos aériennes à cause des arbres. Merci de vérifier si vous passez par là. Au bord d'un chemin forestier, à proximité du GRP Tour de la Barguillère, sous le pic de Razels.': 1 refugios (0.1%)
+  Valor 'Probablement un groupe d'orris...en très mauvais état': 1 refugios (0.1%)
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg': 1 refugios (0.1%)
+  Valor 'Il s'agit d'un abri sous roche avec place à feux. La partie couchage est fermée par quelques bâches plastique. On peut y dormir abrité à 2 ou 3. Il est situé au dessus du chemin.': 1 refugios (0.1%)
+  Valor 'Abri de pierres sèches, aucun améngement. Il se peut que se trouvent (picto maprefinfo) : - à d du picto une construction rectangulaire - à g et plus bas des tas pouvant être un groupe d'orris...(IGN-photo) A contrôler sur place.': 1 refugios (0.1%)
+  Valor 'Découverte août 2020. Très sommaire. 2 personnes allongées. Quelques déchets et souvenirs prouvent qu'elle sert. Ouverte, absence de verrou. Les chemins de randonnée y croisent une route bitumée qui permet d'accéder aux antennes. La cabane est juste en contrebas des antennes. Cabane sur le HRP': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral' (1 refugios):
+    ID: 6249 - Cabane pastorale de l'étang Tort
+
+  Valor '0' (229 refugios):
+    ID: 7933 - Cabane de Bèze
+    ID: 5389 - Cabane d'En Dela
+    ID: 5777 - Cabane de Mirabail
+    ID: 6360 - Abri municipal
+    ID: 5662 - Cabane de la Jasse d'Appy
+    ... y 224 más
+
+  Valor '1' (416 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 411 más
+
+  Valor 'Abri de pierres sèches, aucun améngement. Il se peut que se trouvent (picto maprefinfo) : - à d du picto une construction rectangulaire - à g et plus bas des tas pouvant être un groupe d'orris...(IGN-photo) A contrôler sur place.' (1 refugios):
+    ID: 5280 - Orri de la Segalisse
+
+  Valor 'Abri métallique peint en vert, une structure habituelle dans la région. Pas de porte, sol en terre. Abri de secours plutôt spartiate.' (1 refugios):
+    ID: 5173 - Abri du Rec de la Llosa
+
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong' (1 refugios):
+    ID: 3522 - Abri de l'Estagny Llong
+
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.' (1 refugios):
+    ID: 4802 - Cabane d'Arrious
+
+  Valor 'Cabane fermée visiblement privée.' (1 refugios):
+    ID: 5137 - Cabane du Bois Nègre
+
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015' (1 refugios):
+    ID: 4596 - Cabane de Gérus
+
+  Valor 'Ce point noté abri sur la carte est fermé' (1 refugios):
+    ID: 4404 - Abri du stade de biathlon
+
+  Valor 'Découverte août 2020. Très sommaire. 2 personnes allongées. Quelques déchets et souvenirs prouvent qu'elle sert. Ouverte, absence de verrou. Les chemins de randonnée y croisent une route bitumée qui permet d'accéder aux antennes. La cabane est juste en contrebas des antennes. Cabane sur le HRP' (1 refugios):
+    ID: 7249 - Cabane technique
+
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier' (1 refugios):
+    ID: 6102 - Cabanes Sacaze
+
+  Valor 'Il s'agit d'un abri sous roche avec place à feux. La partie couchage est fermée par quelques bâches plastique. On peut y dormir abrité à 2 ou 3. Il est situé au dessus du chemin.' (1 refugios):
+    ID: 5291 - Abri (sous roche) du Roc de la Balmère
+
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.' (1 refugios):
+    ID: 4402 - Refuge des Fornels
+
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF' (1 refugios):
+    ID: 3474 - Refuge forestier du Fournet
+
+  Valor 'Occupée en période d'estive. Fermée sinon' (1 refugios):
+    ID: 5195 - Cabane pastorale de la Courbe
+
+  Valor 'Places prévues pour dormir: 12 Abri majoritairement en béton (de mémoire...) composé de bas flancs superposés, quelques matelas en mousse, une table, bancs. Confort simple, peu de lumière, l'ensemble est assez sombre. [i][u] A compléter, mon passage dans cet abri commence à dater et pas encore retrouvé les photos...[/u][/i] A proximité de la route, dans les lacets qui montent au Lac de Cap de Long. -' (1 refugios):
+    ID: 4346 - Abri du Lac de Cap de Long
+
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places' (1 refugios):
+    ID: 10129 - Cabane de Laujo
+
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.' (1 refugios):
+    ID: 7038 - Cabane de Luzurs
+
+  Valor 'Places prévues pour dormir: 3 Possibilité de planter une tente immédiatement proximité, la clairière étant en pente. Sur le GR 10. Cabane en pierre équipée d'une grosse plateforme en bois de 6m² permettant de dormir, manger ou s'asseoir.' (1 refugios):
+    ID: 9930 - Cabane Artigue
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 cabane ouverte avec cheminée, pas très propre en haut du lac, après le refuge Cabane haute du refuge' (1 refugios):
+    ID: 8278 - Cabane de Bachimaña
+
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.' (1 refugios):
+    ID: 9931 - Cabane des Courraux n°1
+
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.' (1 refugios):
+    ID: 4900 - Cabane de Linza
+
+  Valor 'Probablement un groupe d'orris...en très mauvais état' (1 refugios):
+    ID: 5008 - Abri occidental Jaça de la Valleta
+
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo' (1 refugios):
+    ID: 4850 - Refugio Pablo
+
+  Valor 'Réservé au berger. Picto IGN...' (1 refugios):
+    ID: 5175 - Abri pastoral
+
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.' (1 refugios):
+    ID: 9932 - Cabane des Courraux n°2
+
+  Valor 'Toujours noté comme abri par l'IGN mais était en ruine en 2009. C'est impossible à voir sur les photos aériennes à cause des arbres. Merci de vérifier si vous passez par là. Au bord d'un chemin forestier, à proximité du GRP Tour de la Barguillère, sous le pic de Razels.' (1 refugios):
+    ID: 6177 - Refuge forestier de Razels
+
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg' (1 refugios):
+    ID: 4958 - Cabane du Pla del Mig
+
+  Valor 'un bat-flanc une mini cheminée . bref juste de quoi s'abriter en cas d'orage . jolie vue sur les montagnes et calme absolu.' (1 refugios):
+    ID: 5155 - Abri pastoral de la Serrette
+
+==================================================
+
+CAMPO: eau
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '1': 468 refugios (69.5%)
+  Valor '0': 130 refugios (19.3%)
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Toiture refaite. Cheminée avec bois à proximité- Bat-flanc avec 2 matelas. Sûrement une très belle vue sur la carrière... une toute petite photo existe néanmoins : http://piedescale.free.fr/images/PHOTORAQUETTE/RAQUETTE05/PicFourcat090105/fourcat2.gif': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Visitée en 2018. Occupée par un berger en période d'estive 2 places sur bat flanc, table, cheminée. ...à condition de trouver un chemin pour y monter.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 1 Cabane en deux parties. Seule une pièce est ouverte. Très sommaire mais fiable, les murs en pierre sont solides et pas trop de courant d'air. La pièce est équipée d'une unique couchette en rondins de bois. Pas de cheminée. Présence d'une mezzanine offrant plusieurs couchages possibles. Prendre le Gr 10 en direction de Porté Puymorens, la cabane se trouve le long du sentier, dans la forêt domaniale. Compter 50 min/1h de montée depuis l'Hospitalet. ONF ?': 1 refugios (0.1%)
+  Valor 'Fiche qui avait été rentrée avec les renseignements de la [->6804]. De sorte que la "vraie" cabane forestier d'Espousouillette, mentionné sur IGN et située au niveau de cette fiche est inconnue en terme de places, et équipement. Si quelqu'un en sait plus pour nous dire si elle est ouverte et avec quel équipement ? [c]Indiquait avant : Abri très sommaire mais fiable, les murs en pierre sont solides et aucun courant d'air à déplorer. la cabane et équipée d'une unique couchette en rondins de bois, difficile d'y dormir confortablement à plusieurs mais idéal si l'on est surpris par les orages fréquents dans la région.[/c]': 1 refugios (0.1%)
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 1 Cabane pastorale neuve (2017). Cabane ouverte en hiver (bien qu'il y ait une super serrure) Aucun moyen de chauffage, mais l'isolation et royale. Un seul couchage (bas flanc), je ne vois pas comment on tiendrait à deux dedans. Il y a une gazinière dans la cabane. Depuis le parking de l'étang d'Appy, suivre le chemin balisé en direction de l'étang. Passer sous les deux lignes haute tension. Vers 1250m, à la lisière d'un petit bois, prendre à gauche et quitter le sentier pour monter sur la crête. La crête nous mène à la cabane à 1500m. Commune d'Appy': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 3 Belle cabane en bois construite en 2021, elle dispose de 3 couchages, une table, une cuisine et un poêle. Elle semble fonctionnelle et bien isolée. L'eté elle devrait être fermée car utilisée par le Berger. 2022: Quelques couvertures, des poêles, des couverts et des casseroles sont également disponibles. Une chaise et 2 tabourets à l'intérieur, et un banc à l'extérieur. Une des fenêtres est fendue mais continue d'isoler, surtout que les volets sont très efficaces. Temporairement (?) fermée Groupement pastoral ?': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 3 Charmante petite cabane, avec matelas. Poêle/cheminée Modulable > table qui devient un bas-flanc. Ruisseau à 5min à pied de la cabane en continuant de monter sur le sentier (pâturages plus haut, mais eau bu sans la traiter sans problème) qui coule très bien. Divers outils (scies...) dans l'espace juste à côté de la cabane. Casseroles, poêles. Depuis le Castelet, suivre le balisage GRP (jaune / rouge) qui passe sous le nouveau contournement d'Ax. Il passe alors sur une piste qui monte doucement. La piste se finit et le balisage nous mène le long d'un sentier très raide en forêt. Laisser la cabane de Bisort vers 1275m environ. La pente s'addoucit alors mais le balisage continue le long du sentier. Laisser la cabane de Tessoula vers 1535m. La cabane du Mouscadou se trouve vers 1695m. Mairie de Perles et Castelet': 1 refugios (0.1%)
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Aussi appelée "Cabane des aigles" ou "Cabane de la chasse aux Vautours". Grand bas-flanc en plancher pouvant accueillir 4 personnes. Les feux sont interdits (intérieur et extérieur). [b]À pied[/b] Depuis le parking de la Carrière d'Ascain, suivre la piste qui monte vers la Rhune': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 8 Grande cabane restaurée en 2013 par des chantiers d'insertion organisés par les associations Bortükariak et Interface On y trouve table, bancs, bat-flanc en bois sur 2 niveaux, cheminée. Les travaux ont remis en état la cheminée, la maçonnerie, la couverture en bardeaux de châtaignier, les huisseries, etc. Le Cayolar Ganagerre est situé sur le tour des gorges d'Ehüjarre à partir d'Urrutia (RD113) et sur la traversée de la Soule d'Est en Ouest Ancienne cabane pastorale collective qui appartient toujours à un groupe d'éleveurs. Elle est ouverte aux randonneurs.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 C'est une ancienne venta. Cette cabane a bénéficié de quelques travaux depuis 2013. Une pièce semble à disposition avec lits superposés en dur (4 couchages). L'autre pièce est fermée. Cela reste sommaire mais c'était plutôt propre et le toit a été réparé. Depuis le col de Liziunaga, suivre la HRP à contre sens (balises oranges) qui emprunte une piste désservant quelques palombières en feintant quelques pics par la gauche. On arrive à la venta en 15 minutes.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 Cabane en ogive, typique le la région d'Auzat, assez humide. Un coin "âtre". Un matelas pour 2, mais on doit pouvoir dormir par terre à 4 ou 5 avec un bon tapis de sol. Une source est marquée sur la carte un peu en contrebas. pas essayée mais à traiter vue la forte présence d'élevages Depuis Vicdessos la D18, depuis Massat prendre la D18 vers le Port de Lers, depuis Aulus la D8f. La cabane se trouve à un code de la route entre le Port de Lers et l'étang de Lers, à une centaine de mètres au sud du coude, bien visible sur un épaulement. Son peu d'intérêt apparent vu sa proximité avec la route prend tout son sens en hiver car le col n'est pas déneigé.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Le toit qui semble récent étant partiellement envolé (état 2010), la cabane peut servir d'abri en cas de besoin absolu mais n'est guère habitable. Un âtre de coin, une planche d'aglo pour une couchette de 60cm. Sol en ciment. 2 autres places sur le sol si nécessité. Depuis Vicdessos la D18, depuis Massat prendre la D18 vers le Port de Lers, depuis Aulus la D8f. La cabane se trouve au bord de la D18, direction nord, à 100m l'étang de Lers. Son peu d'intérêt apparent vu sa proximité avec la route prend tout son sens en hiver car le col n'est pas déneigé.': 1 refugios (0.1%)
+  Valor 'Réservé au berger. Picto IGN...': 1 refugios (0.1%)
+  Valor 'A priori, cabane fermée si l'on en croit les infos collectées ici ou là. Cabane située au NE, au dessus de la [->5626].': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6': 1 refugios (0.1%)
+  Valor 'Il y a un picto IGN : il concerne une sorte de baraque de chantier où l'équipement est minimal': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.': 1 refugios (0.1%)
+  Valor 'Occupée par des bergers en été. selon info de 2023, utilisée comme réserve de matériel par le berger et de fait inaccessible. Ressources non répertoriées. Bois mort à profusion. Il doit y avoir de l'eau aux "tres fonts" (trois fontaines), 100m derrière la cabane (pas vérifié). Se garer au parking de lac de Vallserra. Continuer la piste, contourner le lac, commencez la montée sur 1km. Prendre un chemin qui monte raide à gauche plein est. Prendre à gauche une fois rejointe la piste. Monter jusqu'au bout de la piste. Communal': 1 refugios (0.1%)
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6 Cabane très propre ... *** le mieux pour le moment est de consulter la page de pyrénées-refuges, en lien ci-dessous ***': 1 refugios (0.1%)
+  Valor 'Refuge situé à l'Est du [->4530], juste un peu au-dessus, au pied de la Tusse de Prat Long. Refuge privé, du Club LHM (Luchon Haute Montagne) Luchonais. Le LHM est affilié à la Fédération française de la montagne et d'escalade (FFME). Site officiel du Club : https://www.lhm31.fr/luchon-haute-montagne-lhm/': 1 refugios (0.1%)
+  Valor 'Une nouvelle cabane pastorale se trouve juste au dessus de celle-ci. Cabane située au bout de la piste qui monte depuis Gouaux de Luchon. Cabane pastorale fermée, utilisée par les bergers.': 1 refugios (0.1%)
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Possibilité de planter une tente immédiatement proximité, la clairière étant en pente. Sur le GR 10. Cabane en pierre équipée d'une grosse plateforme en bois de 6m² permettant de dormir, manger ou s'asseoir.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 Abri de berger avec cheminée. Depuis le col de peyresourde, il faut passer 2-3 barrières avant d'arriver à l'abri.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Située sur le plateau marécageux au-dessus de la [->6490], ne pas les confondre. Cabane pastoral fermée, située à proximité d'une zone de pacage. Une partie est ouverte pour les randonneurs (voir clichés)': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.': 1 refugios (0.1%)
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 C'est une cabane pastorale ouverte en dehors du temps d'estive. Il y a 3 places de couchage sur bas-flanc en bois, 1 table, 1 banc et 1 poêle.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 1 Places sur Matelas: 1 Visible sur de nombreux sites internet et sur les cartes IGN. Zone randonneur ouverte. Un lit une table et une chaise. Une cheminée mais je ne sait pas ce qu’elle vaut. Fonctionnel (Attention c’est pas la cabane pastorale mais la grande bâtisse) ?': 1 refugios (0.1%)
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Attention, dans cette cabane, il n'y a rien. Ni table, ni chaise. Par contre, à la date du 30 mars 2024, c'était super propre et entretenu. Juste une cheminée et environ 4 places de couchage en mezzanine. Pas de matelas. Elle doit être occupée en période d'estive car il y a une partie privée (fermée), un enclos pour des bêtes et un abreuvoir. Prendre la D934, passez Louvie Juzon. Prendre la direction de Bielle. A Bielle, prendre la D294 pour Bilhères jusqu'à la chapelle du Houndas. A la chapelle, tournez à gauche jusqu'au prochain parking.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Petite cabane en pierre, ouverte à tous et équipée de bat-flanc et d'un poêle. Restaurée en 2009 par un chantier international de bénévoles organisé par l'association Concordia. http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1255#15/42.9568/-0.3593 Sur le plateau, au bord du GRP Tour de la Vallée d'Ossau entre Eaux-Bonnes et Gourette. Mairie - 64440 Eaux-Bonnes - 05 59 05 32 69': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 12 Abri majoritairement en béton (de mémoire...) composé de bas flancs superposés, quelques matelas en mousse, une table, bancs. Confort simple, peu de lumière, l'ensemble est assez sombre. [i][u] A compléter, mon passage dans cet abri commence à dater et pas encore retrouvé les photos...[/u][/i] A proximité de la route, dans les lacets qui montent au Lac de Cap de Long. -': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Petite cabane située 15 mn avant d'arriver au Pibeste Cheminée Bois Petite cabane située 15 mn avant d'arriver au Pibeste': 1 refugios (0.1%)
+  Valor 'Occupée en période d'estive. Fermée sinon': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6 Places sur Matelas: 1 http://www.jpdugene.com/images/photos_rando/casque_du_lheris/45_cabane_de_benios.jpg Présente sur Pyrénées.refuges : https://www.pyrenees-refuges.com/fr/affiche.php?numenr=1237': 1 refugios (0.1%)
+  Valor 'abane ouverte sans bas blanc pour dormir (terre et bosselé). Petite cheminée et une partie de l'ancienne cheminée est tombée, il y a eu de ce fait un trou (assez petit mais ouvert) au toit. Peu dépanner pour s'abriter.': 1 refugios (0.1%)
+  Valor 'Cabane en béton en très bon état, beaucoup de bois mais pas vu d'eau. De toute façon, vous pouvez en remonter avec vous depuis Azet. Sol en béton propre, nous l'avons nettoyée et rangée. Petit Placard dans le mur pour ranger ses provisions. petit banc. Cheminée. aucun bas flanc pour dormir. Depuis le centre du village, suivre la D225 qui remonte vers le Col d'Azet. au bout de 15 minutes sur la route, vous verrez 2 bouleaux sur votre gauche et le départ d'un sentier non balisé mais évident qui remonte le flanc de la colline. Poursuivre 15 minutes. Cabane visible depuis le sentier. Cabane située proche du GR10, sur un promontoire rocheux sur les hauteurs d'Azet, d'ailleurs cabane visible depuis le village.': 1 refugios (0.1%)
+  Valor 'Petite cabane sans bat-flanc, meublée d'1 canapé, 1 table et de chaises. https://www.visorando.com/images/inter/m-cabane-en-bon-etat-et-fonctionnelle-visorando-34317.jpg Les chiens sont interdits. Au col de Couradabat, sur le GRP Tour des baronnies de Bigorre. ?': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 La cabane est construite en dur et est en très bon état. Elle contient un balai, une petite table, deux chaises, 4 matelas en mousse et de nombreuses bricoles tel que des piles, du thé, des réservoirs,... Il y a une plateforme en dur recouverte de bois pour dormir. Il n'y a pas d'étage. Il y a bien une cheminée, mais il n'y a pas de bois dans les environs directs de la cabane. Il y a des sources à proximité (voir carte IGN) mais elles sont difficiles à trouver et leur débit est très faible en été (+ ou - 1 litre en 30 minutes). Purifiez l'eau de préférence avant de la consommer, car les sources se situent dans des pâturages. Le refuge se situe à 200m au nord du GR101 au niveau du Col du Prat du Rey légèrement en amont de celui-ci.': 1 refugios (0.1%)
+  Valor 'Cabane sommaire,en bois, des bancs sont présents à l’intérieur et on trouve une table de pique-nique. Accès possible depuis le col du Soulor : se rendre jusqu'au lac de Soum puis suivre le GRP Tour du Val d'Azun par la crête de la Serre. Par le col de Couaduque : suivre le GRP Tour du Val d'Azun': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Cabane sommaire, avec un bas-flanc sale pouvant abriter 2 personnes, et une cheminée, c'est tout. 4 murs en pierre, toute petite, pas de fenêtre, la porte ferme. Un feu doit réchauffer le minuscule espace en 15 minutes. Depuis Ourde, suivre la piste Est - Sud Est puis continuer en fond de vallée sur une piste que l'on peut considérer comme détruite, au col, la cabane est à votre gauche : Ouest.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Entourée d'épinards sauvages. Depuis le Col d'Urdiceto, suivre le GR11 qui descent vers Viados et qui passe devant la cabane. OT de Plan ?': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 cabane ouverte avec cheminée, pas très propre en haut du lac, après le refuge Cabane haute du refuge': 1 refugios (0.1%)
+  Valor 'Cabane aménagée (fenêtre) en 2017 par l'association ACAP (financement partagé avec l’AMA). Porte dure à manoeuvrer. A l’intérieur : une belle table en bois avec 2 bancs en bois aussi, une cheminée, le bois est derrière la cabane sous un appentis. Il y a de la place pour dormir par terre. Mairie de La Fajolle': 1 refugios (0.1%)
+  Valor 'Cabane fermée visiblement privée.': 1 refugios (0.1%)
+  Valor 'Réservée aux bergers Groupement pastoral': 1 refugios (0.1%)
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 2 portes, 2 fenêtres, 2 cheminées : vous ne pourrez pas vous disputer (sauf si vous venez en nombre impair !) Par contre, les 2 parties ne sont pas séparées et si l'une comporte une table, l'autre se réserve le lit à 2 places avec matelas. Il faudra donc vous entendre si vous ne voulez pas avoir à choisir entre dîner et dormir. Il est signalé une source dans la prairie. Je ne l'ai pas cherchée (herbes hautes très humides ce jour là) Bois à profusion. Nota : Les CHEMINÉES DÉFECTUEUSES ont été restaurées Depuis la station de Mijanès, prendre une route forestière (empierrée et interdite aux voitures) vers le sud Après 1km, à la patte d'oie, prendre à droite la route qui continue à monter Après un autre km, à un coude très prononcé à l'entrées d'une grande clairière, la cabane est sur main droite': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 2 Exemple de Remarques diverses à changer: Ce qui ne trouverait pas sa place dans les cases à cocher ci-après comme : -isolation moyenne (courants d'air) -vaisselle -table, bancs -outils disponibles -clés à aller chercher -informations diverses -occupée l'été de X/Y/Z à A/B/C ... Accès par piste forestière depuis Artigues, puis 50 mètres de sentier (balisage peinture sur les arbres) Exemple à changer: Indiquez les éléments qui confirment l'ouverture au public. L'organisme en charge (Association locale, ...) Contact de la mairie de xxx (numéro ou email) Bref, les éléments qui permettrons de confirmer que son propriétaire a bien donné son accord d'occupation, et savoir comment le contacter en cas de problème.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 1 Places sur Matelas: 1 L'essentiel de la cabane est réservé aux bergers, seul un petit abri d'une place existe sur le côté. Toute en bois lambris a l'interieur, bien isolée, un matelas Depuis le lac de soulcem, continuer vers le port de rat': 1 refugios (0.1%)
+  Valor 'un bat-flanc une mini cheminée . bref juste de quoi s'abriter en cas d'orage . jolie vue sur les montagnes et calme absolu.': 1 refugios (0.1%)
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.': 1 refugios (0.1%)
+  Valor 'Abri métallique peint en vert, une structure habituelle dans la région. Pas de porte, sol en terre. Abri de secours plutôt spartiate.': 1 refugios (0.1%)
+  Valor 'Ce point noté abri sur la carte est fermé': 1 refugios (0.1%)
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong': 1 refugios (0.1%)
+  Valor 'Cabane en parpaing sans charme, mais au sec et à l'abri du vent, divisé en deux pièces. Le sol est cimenté mais irrégulier. Une table et deux bancs en béton sont à l'extérieur. S'il n'y a aucun mobilier à l'intérieur, les deux pièces font environ 16m² chacune, permettant à une dizaine de baroudeurs au moins de coucher à la dur par leur propre équipement. Accès facile en contrebas de la piste forestière, accessible en 4x4 Indiqué sur la carte IGN, il n'est pas fait mention de sa situation administrative.': 1 refugios (0.1%)
+  Valor 'Toujours noté comme abri par l'IGN mais était en ruine en 2009. C'est impossible à voir sur les photos aériennes à cause des arbres. Merci de vérifier si vous passez par là. Au bord d'un chemin forestier, à proximité du GRP Tour de la Barguillère, sous le pic de Razels.': 1 refugios (0.1%)
+  Valor 'Assez grand abri en bois fermé sur 3 cotés. Bancs le long des murs, sol en terre, pas de couchage prévu, pas de tables. Au nord ouest de Rabouillet 66, près d' un petit étang. Accessible en voiture.': 1 refugios (0.1%)
+  Valor 'Probablement un groupe d'orris...en très mauvais état': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Orri en pierre qui peut servir d'abri en été, pas en hiver car la neige rentre dedans ou la submerge On peut y dormir à 2 ou 3 max. Attention à la cheminée qui enfume.': 1 refugios (0.1%)
+  Valor 'Cabane en pierre sèche Depuis le refuge de Mariailles, prendre une piste, presque horizontale, plein Sud, en direction de Pla Guillem, balisée GR. Ne surtout pas prendre le GR10 en direction du Canigou. Quand la piste fait deux lacets, le GR les coupe pour arriver à un col, puis continue assez raide. Il arrive à la cabane juste avant le Pla Guillem, qu'on laisse pour arriver, 100m plus loin, à l'abri. ?': 1 refugios (0.1%)
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg': 1 refugios (0.1%)
+  Valor 'Il s'agit d'un abri sous roche avec place à feux. La partie couchage est fermée par quelques bâches plastique. On peut y dormir abrité à 2 ou 3. Il est situé au dessus du chemin.': 1 refugios (0.1%)
+  Valor 'Abri de pierres sèches, aucun améngement. Il se peut que se trouvent (picto maprefinfo) : - à d du picto une construction rectangulaire - à g et plus bas des tas pouvant être un groupe d'orris...(IGN-photo) A contrôler sur place.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 12 Cheminée, table, bancs. Il semble y avoir une source pas loin. Depuis le refuge de Mariailles, prendre une piste, presque horizontale, plein Sud, en direction de Pla Guillem, balisée GR. Ne surtout pas prendre le GR10 en direction du Canigou. Quand la piste fait deux lacets, le GR les coupe pour arriver à un col, puis continue assez raide. Il arrive à la cabane juste avant le Pla Guillem. ?': 1 refugios (0.1%)
+  Valor 'Découverte août 2020. Très sommaire. 2 personnes allongées. Quelques déchets et souvenirs prouvent qu'elle sert. Ouverte, absence de verrou. Les chemins de randonnée y croisent une route bitumée qui permet d'accéder aux antennes. La cabane est juste en contrebas des antennes. Cabane sur le HRP': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 3 Lumineuse et propre, la cabane est une shelter préfabriqué que l'on croise ailleurs dans les Pyrénées : environs 12m², sol en bois. Équipée d'une mini gazinière, de casseroles et de balais. Isolée à l'extrémité d'un chemin en cul-de-sac dans la vallée du torrent de Coumelade. Aucune information sur place ni sur la carte IGN, pointant juste l'existence du bâtiment. Ancienne bâtisse en pierre effondrée, et remplacée par une shelter en tôle.': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Petite cabane 2 personne très sympathique : - l'isolation a l'air correcte - 1 table, 2 bancs - 2 couchettes superposées, pas de matelas - Cheminée à foyer ouvert disponible - Petit enclos extérieur permettant d'installer 2 tentes Accès depuis le chemin Carretera de Varrados (386m de dénivelé depuis le parking) Cabane publique (cf photo)': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places': 1 refugios (0.1%)
+  Valor 'Places prévues pour dormir: 9 Places sur Matelas: 8 Table fixé au sol, bancs fixés contre le mur + tabourets Eau à chercher en dessous ou au-dessus sur les sentiers Accès Depuis le parking du refuge de Conangles Compter environ 2h/2h15': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '**** VANDALISEE CETTE CABANE EST DESORMAIS FERMEE **** Groupement pastoral' (1 refugios):
+    ID: 6249 - Cabane pastorale de l'étang Tort
+
+  Valor '0' (130 refugios):
+    ID: 6242 - Cabane de l'Eycherque
+    ID: 7574 - Cabane de Courtal Marti
+    ID: 7416 - Cabane de Senconac (ou du Pas de la Crabe)
+    ID: 5007 - Abri pastoral de la Tose de Riete
+    ID: 7928 - Cabane du Besset du Haut
+    ... y 125 más
+
+  Valor '1' (468 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 7925 - Cabane de Balledreyt
+    ID: 7926 - Cabane de Tabanière
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 5390 - Cabane des Ludines
+    ... y 463 más
+
+  Valor 'A priori, cabane fermée si l'on en croit les infos collectées ici ou là. Cabane située au NE, au dessus de la [->5626].' (1 refugios):
+    ID: 5641 - Cabane des Maurets (Maourets)
+
+  Valor 'Abri de pierres sèches, aucun améngement. Il se peut que se trouvent (picto maprefinfo) : - à d du picto une construction rectangulaire - à g et plus bas des tas pouvant être un groupe d'orris...(IGN-photo) A contrôler sur place.' (1 refugios):
+    ID: 5280 - Orri de la Segalisse
+
+  Valor 'Abri métallique peint en vert, une structure habituelle dans la région. Pas de porte, sol en terre. Abri de secours plutôt spartiate.' (1 refugios):
+    ID: 5173 - Abri du Rec de la Llosa
+
+  Valor 'Assez grand abri en bois fermé sur 3 cotés. Bancs le long des murs, sol en terre, pas de couchage prévu, pas de tables. Au nord ouest de Rabouillet 66, près d' un petit étang. Accessible en voiture.' (1 refugios):
+    ID: 6048 - Abri de l' étang de Rabouillet
+
+  Valor 'Attention de bien traiter l'eau qui vient des lacs (préférer celle des ruisseau les alimentant à traiter de toute façon : zone d'élevage) [b][u]Détruit par la neige durant l'hiver 2013-2014[/u][/b] Assez difficile à trouver (ne pas confondre les nombreux lacs) Depuis le barrage des Bouillouses, prendre le chemin du pic Carlit (très fréquenté) laisser un premier étang à gauche (Estany Negre), puis un autre à droite (Estany del Viver). A ce niveau, laisser le chemin du Carlit qui part vers le nord et prendre une sente qui se dirige plein est. Continuer la sente, passer l'Estany de la Comassa sur la droite, puis l'Estany Sec sur la gauche. Tout de suite après ce lac, prendre à travers la pelouse plein est (il n'y a pas de trace menant au refuge !) Vous tombez alors sur le grand Estagny Llat dont vous suivez la rive par la droite. Aprés être passé prés du [->3500], remonter le ruisseau d'alimentation de l'Estagny Llat jusqu'à l'Estagny Llong' (1 refugios):
+    ID: 3522 - Abri de l'Estagny Llong
+
+  Valor 'Cabane aménagée (fenêtre) en 2017 par l'association ACAP (financement partagé avec l’AMA). Porte dure à manoeuvrer. A l’intérieur : une belle table en bois avec 2 bancs en bois aussi, une cheminée, le bois est derrière la cabane sous un appentis. Il y a de la place pour dormir par terre. Mairie de La Fajolle' (1 refugios):
+    ID: 5266 - Cabane du col du Pradel
+
+  Valor 'Cabane complètement détruite par une avalanche. Reconstruite et réservée aux bergers.' (1 refugios):
+    ID: 4802 - Cabane d'Arrious
+
+  Valor 'Cabane en béton en très bon état, beaucoup de bois mais pas vu d'eau. De toute façon, vous pouvez en remonter avec vous depuis Azet. Sol en béton propre, nous l'avons nettoyée et rangée. Petit Placard dans le mur pour ranger ses provisions. petit banc. Cheminée. aucun bas flanc pour dormir. Depuis le centre du village, suivre la D225 qui remonte vers le Col d'Azet. au bout de 15 minutes sur la route, vous verrez 2 bouleaux sur votre gauche et le départ d'un sentier non balisé mais évident qui remonte le flanc de la colline. Poursuivre 15 minutes. Cabane visible depuis le sentier. Cabane située proche du GR10, sur un promontoire rocheux sur les hauteurs d'Azet, d'ailleurs cabane visible depuis le village.' (1 refugios):
+    ID: 5596 - Cabane de Pio Det Lurs
+
+  Valor 'Cabane en parpaing sans charme, mais au sec et à l'abri du vent, divisé en deux pièces. Le sol est cimenté mais irrégulier. Une table et deux bancs en béton sont à l'extérieur. S'il n'y a aucun mobilier à l'intérieur, les deux pièces font environ 16m² chacune, permettant à une dizaine de baroudeurs au moins de coucher à la dur par leur propre équipement. Accès facile en contrebas de la piste forestière, accessible en 4x4 Indiqué sur la carte IGN, il n'est pas fait mention de sa situation administrative.' (1 refugios):
+    ID: 9925 - Cabane de Jasse de Palau
+
+  Valor 'Cabane en pierre sèche Depuis le refuge de Mariailles, prendre une piste, presque horizontale, plein Sud, en direction de Pla Guillem, balisée GR. Ne surtout pas prendre le GR10 en direction du Canigou. Quand la piste fait deux lacets, le GR les coupe pour arriver à un col, puis continue assez raide. Il arrive à la cabane juste avant le Pla Guillem, qu'on laisse pour arriver, 100m plus loin, à l'abri. ?' (1 refugios):
+    ID: 6375 - Abri de Pla Guillem
+
+  Valor 'Cabane fermée visiblement privée.' (1 refugios):
+    ID: 5137 - Cabane du Bois Nègre
+
+  Valor 'Cabane mentionnée sur carte mais totalement détruite le 10 janvier 2015' (1 refugios):
+    ID: 4596 - Cabane de Gérus
+
+  Valor 'Cabane sommaire,en bois, des bancs sont présents à l’intérieur et on trouve une table de pique-nique. Accès possible depuis le col du Soulor : se rendre jusqu'au lac de Soum puis suivre le GRP Tour du Val d'Azun par la crête de la Serre. Par le col de Couaduque : suivre le GRP Tour du Val d'Azun' (1 refugios):
+    ID: 4386 - Cabane de Cantau
+
+  Valor 'Ce point noté abri sur la carte est fermé' (1 refugios):
+    ID: 4404 - Abri du stade de biathlon
+
+  Valor 'Découverte août 2020. Très sommaire. 2 personnes allongées. Quelques déchets et souvenirs prouvent qu'elle sert. Ouverte, absence de verrou. Les chemins de randonnée y croisent une route bitumée qui permet d'accéder aux antennes. La cabane est juste en contrebas des antennes. Cabane sur le HRP' (1 refugios):
+    ID: 7249 - Cabane technique
+
+  Valor 'Fiche qui avait été rentrée avec les renseignements de la [->6804]. De sorte que la "vraie" cabane forestier d'Espousouillette, mentionné sur IGN et située au niveau de cette fiche est inconnue en terme de places, et équipement. Si quelqu'un en sait plus pour nous dire si elle est ouverte et avec quel équipement ? [c]Indiquait avant : Abri très sommaire mais fiable, les murs en pierre sont solides et aucun courant d'air à déplorer. la cabane et équipée d'une unique couchette en rondins de bois, difficile d'y dormir confortablement à plusieurs mais idéal si l'on est surpris par les orages fréquents dans la région.[/c]' (1 refugios):
+    ID: 5289 - Refuge forestier d'Espousouillette
+
+  Valor 'GRP Tour de la vallée d'Ossau Privée d'après information anonyme de mai 2023, à vérifier' (1 refugios):
+    ID: 6102 - Cabanes Sacaze
+
+  Valor 'Il s'agit d'un abri sous roche avec place à feux. La partie couchage est fermée par quelques bâches plastique. On peut y dormir abrité à 2 ou 3. Il est situé au dessus du chemin.' (1 refugios):
+    ID: 5291 - Abri (sous roche) du Roc de la Balmère
+
+  Valor 'Il y a un picto IGN : il concerne une sorte de baraque de chantier où l'équipement est minimal' (1 refugios):
+    ID: 4943 - Cabane du col de l Arrech (de Bethmale)
+
+  Valor 'Je confirme que cette cabane est bien fermée par une grosse grille et une porte solide, les deux fermés par de solides cadenas.' (1 refugios):
+    ID: 4402 - Refuge des Fornels
+
+  Valor 'Maison forestière gérée par l'ONF ? Fermée au public Ne pas se fier au pictogramme sur la carte Sur la route forestière du Laurenti ONF' (1 refugios):
+    ID: 3474 - Refuge forestier du Fournet
+
+  Valor 'Occupée en période d'estive. Fermée sinon' (1 refugios):
+    ID: 5195 - Cabane pastorale de la Courbe
+
+  Valor 'Occupée par des bergers en été. selon info de 2023, utilisée comme réserve de matériel par le berger et de fait inaccessible. Ressources non répertoriées. Bois mort à profusion. Il doit y avoir de l'eau aux "tres fonts" (trois fontaines), 100m derrière la cabane (pas vérifié). Se garer au parking de lac de Vallserra. Continuer la piste, contourner le lac, commencez la montée sur 1km. Prendre un chemin qui monte raide à gauche plein est. Prendre à gauche une fois rejointe la piste. Monter jusqu'au bout de la piste. Communal' (1 refugios):
+    ID: 4410 - Refuge pastoral des tres fonts
+
+  Valor 'Petite cabane sans bat-flanc, meublée d'1 canapé, 1 table et de chaises. https://www.visorando.com/images/inter/m-cabane-en-bon-etat-et-fonctionnelle-visorando-34317.jpg Les chiens sont interdits. Au col de Couradabat, sur le GRP Tour des baronnies de Bigorre. ?' (1 refugios):
+    ID: 6175 - Cabane de Couradabat
+
+  Valor 'Places prévues pour dormir: 1 Cabane en deux parties. Seule une pièce est ouverte. Très sommaire mais fiable, les murs en pierre sont solides et pas trop de courant d'air. La pièce est équipée d'une unique couchette en rondins de bois. Pas de cheminée. Présence d'une mezzanine offrant plusieurs couchages possibles. Prendre le Gr 10 en direction de Porté Puymorens, la cabane se trouve le long du sentier, dans la forêt domaniale. Compter 50 min/1h de montée depuis l'Hospitalet. ONF ?' (1 refugios):
+    ID: 6804 - Cabane forestière de l'Hospitalet
+
+  Valor 'Places prévues pour dormir: 1 Cabane pastorale neuve (2017). Cabane ouverte en hiver (bien qu'il y ait une super serrure) Aucun moyen de chauffage, mais l'isolation et royale. Un seul couchage (bas flanc), je ne vois pas comment on tiendrait à deux dedans. Il y a une gazinière dans la cabane. Depuis le parking de l'étang d'Appy, suivre le chemin balisé en direction de l'étang. Passer sous les deux lignes haute tension. Vers 1250m, à la lisière d'un petit bois, prendre à gauche et quitter le sentier pour monter sur la crête. La crête nous mène à la cabane à 1500m. Commune d'Appy' (1 refugios):
+    ID: 6037 - Cabane de Denladel
+
+  Valor 'Places prévues pour dormir: 1 Places sur Matelas: 1 L'essentiel de la cabane est réservé aux bergers, seul un petit abri d'une place existe sur le côté. Toute en bois lambris a l'interieur, bien isolée, un matelas Depuis le lac de soulcem, continuer vers le port de rat' (1 refugios):
+    ID: 5643 - Cabane pastorale de Rat
+
+  Valor 'Places prévues pour dormir: 1 Places sur Matelas: 1 Visible sur de nombreux sites internet et sur les cartes IGN. Zone randonneur ouverte. Un lit une table et une chaise. Une cheminée mais je ne sait pas ce qu’elle vaut. Fonctionnel (Attention c’est pas la cabane pastorale mais la grande bâtisse) ?' (1 refugios):
+    ID: 4902 - Cabane du Col de la Pierre Saint Martin
+
+  Valor 'Places prévues pour dormir: 12 Abri majoritairement en béton (de mémoire...) composé de bas flancs superposés, quelques matelas en mousse, une table, bancs. Confort simple, peu de lumière, l'ensemble est assez sombre. [i][u] A compléter, mon passage dans cet abri commence à dater et pas encore retrouvé les photos...[/u][/i] A proximité de la route, dans les lacets qui montent au Lac de Cap de Long. -' (1 refugios):
+    ID: 4346 - Abri du Lac de Cap de Long
+
+  Valor 'Places prévues pour dormir: 12 Cheminée, table, bancs. Il semble y avoir une source pas loin. Depuis le refuge de Mariailles, prendre une piste, presque horizontale, plein Sud, en direction de Pla Guillem, balisée GR. Ne surtout pas prendre le GR10 en direction du Canigou. Quand la piste fait deux lacets, le GR les coupe pour arriver à un col, puis continue assez raide. Il arrive à la cabane juste avant le Pla Guillem. ?' (1 refugios):
+    ID: 6374 - Refuge de Pla Guillem
+
+  Valor 'Places prévues pour dormir: 2 Cabane sommaire, avec un bas-flanc sale pouvant abriter 2 personnes, et une cheminée, c'est tout. 4 murs en pierre, toute petite, pas de fenêtre, la porte ferme. Un feu doit réchauffer le minuscule espace en 15 minutes. Depuis Ourde, suivre la piste Est - Sud Est puis continuer en fond de vallée sur une piste que l'on peut considérer comme détruite, au col, la cabane est à votre gauche : Ouest.' (1 refugios):
+    ID: 4327 - Cabane d'Arien
+
+  Valor 'Places prévues pour dormir: 2 Cabane très simple en bon état en octobre 2024 Une cheminée Un bas-flanc de deux places' (1 refugios):
+    ID: 10129 - Cabane de Laujo
+
+  Valor 'Places prévues pour dormir: 2 Orri en pierre qui peut servir d'abri en été, pas en hiver car la neige rentre dedans ou la submerge On peut y dormir à 2 ou 3 max. Attention à la cheminée qui enfume.' (1 refugios):
+    ID: 7900 - Orri de la Balmeta (Balmette)
+
+  Valor 'Places prévues pour dormir: 2 Petite cabane 2 personne très sympathique : - l'isolation a l'air correcte - 1 table, 2 bancs - 2 couchettes superposées, pas de matelas - Cheminée à foyer ouvert disponible - Petit enclos extérieur permettant d'installer 2 tentes Accès depuis le chemin Carretera de Varrados (386m de dénivelé depuis le parking) Cabane publique (cf photo)' (1 refugios):
+    ID: 10248 - Cabana de Moredo
+
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Cabane située au bord du GR10D, au Sud du Col de la Core, au 1er lacet au sud du Col, prendre la piste de Luzurs, qui va en aussi en direction de la [->6263]. A la fin de la piste, poursuivre sur le sentier, on atteint alors le haut d'une clairière, la cabane trone au milieu de celle-ci, sur la gauche du chemin. Cabane pastorale occupée en saison estivale par un berger. La cabane n’est pas verrouillée hors saison d’estive. Au rdc, table + bancs + poêle. À l’étage, deux matelas et des couvertures suspendues. Le tout propre et ordonné. Une fenêtre avec volet, qui a l’air bien fonctionnelle.' (1 refugios):
+    ID: 7038 - Cabane de Luzurs
+
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Située sur le plateau marécageux au-dessus de la [->6490], ne pas les confondre. Cabane pastoral fermée, située à proximité d'une zone de pacage. Une partie est ouverte pour les randonneurs (voir clichés)' (1 refugios):
+    ID: 7001 - Cabane supérieure d'Uls
+
+  Valor 'Places prévues pour dormir: 2 Places sur Matelas: 2 Toiture refaite. Cheminée avec bois à proximité- Bat-flanc avec 2 matelas. Sûrement une très belle vue sur la carrière... une toute petite photo existe néanmoins : http://piedescale.free.fr/images/PHOTORAQUETTE/RAQUETTE05/PicFourcat090105/fourcat2.gif' (1 refugios):
+    ID: 5234 - Jasse de la Teste
+
+  Valor 'Places prévues pour dormir: 2 Visitée en 2018. Occupée par un berger en période d'estive 2 places sur bat flanc, table, cheminée. ...à condition de trouver un chemin pour y monter.' (1 refugios):
+    ID: 4942 - Cabane des Coumels
+
+  Valor 'Places prévues pour dormir: 3 C'est une cabane pastorale ouverte en dehors du temps d'estive. Il y a 3 places de couchage sur bas-flanc en bois, 1 table, 1 banc et 1 poêle.' (1 refugios):
+    ID: 5063 - Cabane de Cayalatte
+
+  Valor 'Places prévues pour dormir: 3 Entourée d'épinards sauvages. Depuis le Col d'Urdiceto, suivre le GR11 qui descent vers Viados et qui passe devant la cabane. OT de Plan ?' (1 refugios):
+    ID: 5867 - Cabane de Sallena
+
+  Valor 'Places prévues pour dormir: 3 Le toit qui semble récent étant partiellement envolé (état 2010), la cabane peut servir d'abri en cas de besoin absolu mais n'est guère habitable. Un âtre de coin, une planche d'aglo pour une couchette de 60cm. Sol en ciment. 2 autres places sur le sol si nécessité. Depuis Vicdessos la D18, depuis Massat prendre la D18 vers le Port de Lers, depuis Aulus la D8f. La cabane se trouve au bord de la D18, direction nord, à 100m l'étang de Lers. Son peu d'intérêt apparent vu sa proximité avec la route prend tout son sens en hiver car le col n'est pas déneigé.' (1 refugios):
+    ID: 3455 - Courtal de Bastard
+
+  Valor 'Places prévues pour dormir: 3 Lumineuse et propre, la cabane est une shelter préfabriqué que l'on croise ailleurs dans les Pyrénées : environs 12m², sol en bois. Équipée d'une mini gazinière, de casseroles et de balais. Isolée à l'extrémité d'un chemin en cul-de-sac dans la vallée du torrent de Coumelade. Aucune information sur place ni sur la carte IGN, pointant juste l'existence du bâtiment. Ancienne bâtisse en pierre effondrée, et remplacée par une shelter en tôle.' (1 refugios):
+    ID: 9926 - Cabane Vieille
+
+  Valor 'Places prévues pour dormir: 3 Petite cabane située 15 mn avant d'arriver au Pibeste Cheminée Bois Petite cabane située 15 mn avant d'arriver au Pibeste' (1 refugios):
+    ID: 8735 - Cabane d'Ayzi
+
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 2 Exemple de Remarques diverses à changer: Ce qui ne trouverait pas sa place dans les cases à cocher ci-après comme : -isolation moyenne (courants d'air) -vaisselle -table, bancs -outils disponibles -clés à aller chercher -informations diverses -occupée l'été de X/Y/Z à A/B/C ... Accès par piste forestière depuis Artigues, puis 50 mètres de sentier (balisage peinture sur les arbres) Exemple à changer: Indiquez les éléments qui confirment l'ouverture au public. L'organisme en charge (Association locale, ...) Contact de la mairie de xxx (numéro ou email) Bref, les éléments qui permettrons de confirmer que son propriétaire a bien donné son accord d'occupation, et savoir comment le contacter en cas de problème.' (1 refugios):
+    ID: 9158 - Cabane de Caillong
+
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 3 Belle cabane en bois construite en 2021, elle dispose de 3 couchages, une table, une cuisine et un poêle. Elle semble fonctionnelle et bien isolée. L'eté elle devrait être fermée car utilisée par le Berger. 2022: Quelques couvertures, des poêles, des couverts et des casseroles sont également disponibles. Une chaise et 2 tabourets à l'intérieur, et un banc à l'extérieur. Une des fenêtres est fendue mais continue d'isoler, surtout que les volets sont très efficaces. Temporairement (?) fermée Groupement pastoral ?' (1 refugios):
+    ID: 7964 - Cabane du Campalou
+
+  Valor 'Places prévues pour dormir: 3 Places sur Matelas: 3 Charmante petite cabane, avec matelas. Poêle/cheminée Modulable > table qui devient un bas-flanc. Ruisseau à 5min à pied de la cabane en continuant de monter sur le sentier (pâturages plus haut, mais eau bu sans la traiter sans problème) qui coule très bien. Divers outils (scies...) dans l'espace juste à côté de la cabane. Casseroles, poêles. Depuis le Castelet, suivre le balisage GRP (jaune / rouge) qui passe sous le nouveau contournement d'Ax. Il passe alors sur une piste qui monte doucement. La piste se finit et le balisage nous mène le long d'un sentier très raide en forêt. Laisser la cabane de Bisort vers 1275m environ. La pente s'addoucit alors mais le balisage continue le long du sentier. Laisser la cabane de Tessoula vers 1535m. La cabane du Mouscadou se trouve vers 1695m. Mairie de Perles et Castelet' (1 refugios):
+    ID: 5768 - Cabane du Mouscadou
+
+  Valor 'Places prévues pour dormir: 3 Possibilité de planter une tente immédiatement proximité, la clairière étant en pente. Sur le GR 10. Cabane en pierre équipée d'une grosse plateforme en bois de 6m² permettant de dormir, manger ou s'asseoir.' (1 refugios):
+    ID: 9930 - Cabane Artigue
+
+  Valor 'Places prévues pour dormir: 4 Attention, dans cette cabane, il n'y a rien. Ni table, ni chaise. Par contre, à la date du 30 mars 2024, c'était super propre et entretenu. Juste une cheminée et environ 4 places de couchage en mezzanine. Pas de matelas. Elle doit être occupée en période d'estive car il y a une partie privée (fermée), un enclos pour des bêtes et un abreuvoir. Prendre la D934, passez Louvie Juzon. Prendre la direction de Bielle. A Bielle, prendre la D294 pour Bilhères jusqu'à la chapelle du Houndas. A la chapelle, tournez à gauche jusqu'au prochain parking.' (1 refugios):
+    ID: 9535 - Cabane Les Bordes
+
+  Valor 'Places prévues pour dormir: 4 Aussi appelée "Cabane des aigles" ou "Cabane de la chasse aux Vautours". Grand bas-flanc en plancher pouvant accueillir 4 personnes. Les feux sont interdits (intérieur et extérieur). [b]À pied[/b] Depuis le parking de la Carrière d'Ascain, suivre la piste qui monte vers la Rhune' (1 refugios):
+    ID: 4835 - Arrano Xola
+
+  Valor 'Places prévues pour dormir: 4 C'est une ancienne venta. Cette cabane a bénéficié de quelques travaux depuis 2013. Une pièce semble à disposition avec lits superposés en dur (4 couchages). L'autre pièce est fermée. Cela reste sommaire mais c'était plutôt propre et le toit a été réparé. Depuis le col de Liziunaga, suivre la HRP à contre sens (balises oranges) qui emprunte une piste désservant quelques palombières en feintant quelques pics par la gauche. On arrive à la venta en 15 minutes.' (1 refugios):
+    ID: 4083 - Venta espagnole ou cabane de Kondendiagako
+
+  Valor 'Places prévues pour dormir: 4 Petite cabane en pierre, ouverte à tous et équipée de bat-flanc et d'un poêle. Restaurée en 2009 par un chantier international de bénévoles organisé par l'association Concordia. http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1255#15/42.9568/-0.3593 Sur le plateau, au bord du GRP Tour de la Vallée d'Ossau entre Eaux-Bonnes et Gourette. Mairie - 64440 Eaux-Bonnes - 05 59 05 32 69' (1 refugios):
+    ID: 6139 - Cabane de Bouy
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 2 portes, 2 fenêtres, 2 cheminées : vous ne pourrez pas vous disputer (sauf si vous venez en nombre impair !) Par contre, les 2 parties ne sont pas séparées et si l'une comporte une table, l'autre se réserve le lit à 2 places avec matelas. Il faudra donc vous entendre si vous ne voulez pas avoir à choisir entre dîner et dormir. Il est signalé une source dans la prairie. Je ne l'ai pas cherchée (herbes hautes très humides ce jour là) Bois à profusion. Nota : Les CHEMINÉES DÉFECTUEUSES ont été restaurées Depuis la station de Mijanès, prendre une route forestière (empierrée et interdite aux voitures) vers le sud Après 1km, à la patte d'oie, prendre à droite la route qui continue à monter Après un autre km, à un coude très prononcé à l'entrées d'une grande clairière, la cabane est sur main droite' (1 refugios):
+    ID: 3475 - Cabane du Prat de la Mire
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 Abri de berger avec cheminée. Depuis le col de peyresourde, il faut passer 2-3 barrières avant d'arriver à l'abri.' (1 refugios):
+    ID: 3550 - Cabane de Tarichac
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 2 Cabane en ogive, typique le la région d'Auzat, assez humide. Un coin "âtre". Un matelas pour 2, mais on doit pouvoir dormir par terre à 4 ou 5 avec un bon tapis de sol. Une source est marquée sur la carte un peu en contrebas. pas essayée mais à traiter vue la forte présence d'élevages Depuis Vicdessos la D18, depuis Massat prendre la D18 vers le Port de Lers, depuis Aulus la D8f. La cabane se trouve à un code de la route entre le Port de Lers et l'étang de Lers, à une centaine de mètres au sud du coude, bien visible sur un épaulement. Son peu d'intérêt apparent vu sa proximité avec la route prend tout son sens en hiver car le col n'est pas déneigé.' (1 refugios):
+    ID: 3454 - Courtal de Lers
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 La cabane est construite en dur et est en très bon état. Elle contient un balai, une petite table, deux chaises, 4 matelas en mousse et de nombreuses bricoles tel que des piles, du thé, des réservoirs,... Il y a une plateforme en dur recouverte de bois pour dormir. Il n'y a pas d'étage. Il y a bien une cheminée, mais il n'y a pas de bois dans les environs directs de la cabane. Il y a des sources à proximité (voir carte IGN) mais elles sont difficiles à trouver et leur débit est très faible en été (+ ou - 1 litre en 30 minutes). Purifiez l'eau de préférence avant de la consommer, car les sources se situent dans des pâturages. Le refuge se situe à 200m au nord du GR101 au niveau du Col du Prat du Rey légèrement en amont de celui-ci.' (1 refugios):
+    ID: 3542 - Abri du Col du Prat du Rey
+
+  Valor 'Places prévues pour dormir: 4 Places sur Matelas: 4 cabane ouverte avec cheminée, pas très propre en haut du lac, après le refuge Cabane haute du refuge' (1 refugios):
+    ID: 8278 - Cabane de Bachimaña
+
+  Valor 'Places prévues pour dormir: 4 Une table, une armoire et une grand lit superposé pour au moins 4 personnes. ... Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN. Notamment par rapport à la cabane n°2.' (1 refugios):
+    ID: 9931 - Cabane des Courraux n°1
+
+  Valor 'Places prévues pour dormir: 6' (1 refugios):
+    ID: 8764 - Cabane des Cos
+
+  Valor 'Places prévues pour dormir: 6 Aussi appelé cabane Atxerito Depuis le refuge de Linza, en 50min à pied.' (1 refugios):
+    ID: 4900 - Cabane de Linza
+
+  Valor 'Places prévues pour dormir: 6 Cabane très propre ... *** le mieux pour le moment est de consulter la page de pyrénées-refuges, en lien ci-dessous ***' (1 refugios):
+    ID: 4597 - Cabane du col d'Artigascou
+
+  Valor 'Places prévues pour dormir: 6 Places sur Matelas: 1 http://www.jpdugene.com/images/photos_rando/casque_du_lheris/45_cabane_de_benios.jpg Présente sur Pyrénées.refuges : https://www.pyrenees-refuges.com/fr/affiche.php?numenr=1237' (1 refugios):
+    ID: 5069 - Cabane de Banios
+
+  Valor 'Places prévues pour dormir: 8 Grande cabane restaurée en 2013 par des chantiers d'insertion organisés par les associations Bortükariak et Interface On y trouve table, bancs, bat-flanc en bois sur 2 niveaux, cheminée. Les travaux ont remis en état la cheminée, la maçonnerie, la couverture en bardeaux de châtaignier, les huisseries, etc. Le Cayolar Ganagerre est situé sur le tour des gorges d'Ehüjarre à partir d'Urrutia (RD113) et sur la traversée de la Soule d'Est en Ouest Ancienne cabane pastorale collective qui appartient toujours à un groupe d'éleveurs. Elle est ouverte aux randonneurs.' (1 refugios):
+    ID: 6114 - Cayolar Ganagerre
+
+  Valor 'Places prévues pour dormir: 9 Places sur Matelas: 8 Table fixé au sol, bancs fixés contre le mur + tabourets Eau à chercher en dessous ou au-dessus sur les sentiers Accès Depuis le parking du refuge de Conangles Compter environ 2h/2h15' (1 refugios):
+    ID: 10273 - Refugi nou de Besiberri
+
+  Valor 'Probablement un groupe d'orris...en très mauvais état' (1 refugios):
+    ID: 5008 - Abri occidental Jaça de la Valleta
+
+  Valor 'Refuge qui apparait sur les cartes IGN (Espagnoles) mais qui est en fait un refuge privé appartenant aux chasseurs du coin (et fermé). Chasseurs d'Elizondo' (1 refugios):
+    ID: 4850 - Refugio Pablo
+
+  Valor 'Refuge situé à l'Est du [->4530], juste un peu au-dessus, au pied de la Tusse de Prat Long. Refuge privé, du Club LHM (Luchon Haute Montagne) Luchonais. Le LHM est affilié à la Fédération française de la montagne et d'escalade (FFME). Site officiel du Club : https://www.lhm31.fr/luchon-haute-montagne-lhm/' (1 refugios):
+    ID: 8639 - Refuge du Maupas LHM Luchonais
+
+  Valor 'Réservé au berger. Picto IGN...' (1 refugios):
+    ID: 5175 - Abri pastoral
+
+  Valor 'Réservée aux bergers Groupement pastoral' (1 refugios):
+    ID: 5230 - Cabane pastorale de la Sarrat des Timbals
+
+  Valor 'Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col. Situation administrative à clarifier, mais indiqué sur la carte IGN comme "Cabanes des Courraux". Porte fermée en juillet 2024.' (1 refugios):
+    ID: 9932 - Cabane des Courraux n°2
+
+  Valor 'Toujours noté comme abri par l'IGN mais était en ruine en 2009. C'est impossible à voir sur les photos aériennes à cause des arbres. Merci de vérifier si vous passez par là. Au bord d'un chemin forestier, à proximité du GRP Tour de la Barguillère, sous le pic de Razels.' (1 refugios):
+    ID: 6177 - Refuge forestier de Razels
+
+  Valor 'Une nouvelle cabane pastorale se trouve juste au dessus de celle-ci. Cabane située au bout de la piste qui monte depuis Gouaux de Luchon. Cabane pastorale fermée, utilisée par les bergers.' (1 refugios):
+    ID: 8652 - Cabane du Mouscadé
+
+  Valor 'abane ouverte sans bas blanc pour dormir (terre et bosselé). Petite cheminée et une partie de l'ancienne cheminée est tombée, il y a eu de ce fait un trou (assez petit mais ouvert) au toit. Peu dépanner pour s'abriter.' (1 refugios):
+    ID: 5149 - Cabane des Clotes
+
+  Valor 'http://gilbert.jullien.pagesperso-orange.fr/CORONAT-395.jpg' (1 refugios):
+    ID: 4958 - Cabane du Pla del Mig
+
+  Valor 'un bat-flanc une mini cheminée . bref juste de quoi s'abriter en cas d'orage . jolie vue sur les montagnes et calme absolu.' (1 refugios):
+    ID: 5155 - Abri pastoral de la Serrette
+
+==================================================
+
+CAMPO: places_matelas
+------------------------------
+Refugios con este campo: 673
+Refugios sin este campo: 0
+
+Distribución de valores:
+  Valor '0': 447 refugios (66.4%)
+  Valor '2': 62 refugios (9.2%)
+  Valor '4': 34 refugios (5.1%)
+  Valor '3': 32 refugios (4.8%)
+  Valor '6': 25 refugios (3.7%)
+  Valor '1': 22 refugios (3.3%)
+  Valor '8': 14 refugios (2.1%)
+  Valor '5': 12 refugios (1.8%)
+  Valor '7': 6 refugios (0.9%)
+  Valor '10': 5 refugios (0.7%)
+  Valor '16': 4 refugios (0.6%)
+  Valor '12': 3 refugios (0.4%)
+  Valor '9': 3 refugios (0.4%)
+  Valor '14': 1 refugios (0.1%)
+  Valor '11': 1 refugios (0.1%)
+  Valor '19': 1 refugios (0.1%)
+  Valor '18': 1 refugios (0.1%)
+
+Ejemplos por valor:
+
+  Valor '0' (447 refugios):
+    ID: 7622 - Borde de Gabriel
+    ID: 6293 - Cabane de la Jasse de Sedars
+    ID: 3677 - Cabane de la Rebenne
+    ID: 7933 - Cabane de Bèze
+    ID: 5391 - Orri des Ludines
+    ... y 442 más
+
+  Valor '1' (22 refugios):
+    ID: 6253 - Cabane de l'Anyell Morta
+    ID: 7416 - Cabane de Senconac (ou du Pas de la Crabe)
+    ID: 6287 - Jasse du Pla (Bésines)
+    ID: 5766 - Cabane de Bisort
+    ID: 7205 - Cabane d'Haou
+    ... y 17 más
+
+  Valor '2' (62 refugios):
+    ID: 5389 - Cabane d'En Dela
+    ID: 5771 - Cabane de la Jasse des Esquers du Dessous
+    ID: 5234 - Jasse de la Teste
+    ID: 5662 - Cabane de la Jasse d'Appy
+    ID: 7418 - Cabane basse des Taillades (Caychax)
+    ... y 57 más
+
+  Valor '3' (32 refugios):
+    ID: 6242 - Cabane de l'Eycherque
+    ID: 5796 - Cabane du Larnoum
+    ID: 7574 - Cabane de Courtal Marti
+    ID: 7573 - Cabane du Besset
+    ID: 5238 - Cabane de la Jasse de Mansèdre
+    ... y 27 más
+
+  Valor '4' (34 refugios):
+    ID: 7926 - Cabane de Tabanière
+    ID: 5390 - Cabane des Ludines
+    ID: 8520 - Cabane de la Jasse des Llerbes
+    ID: 5776 - Cabane de l'Etang d'Embizon
+    ID: 3896 - Cabane de la Jasse d'Artaran
+    ... y 29 más
+
+  Valor '5' (12 refugios):
+    ID: 5770 - Cabane de la Jasse des Esquers du Dessus
+    ID: 6251 - Cabane de Cizarols
+    ID: 4628 - Cabane de la Jasse de Girèys
+    ID: 3676 - Cabane de Quioulès
+    ID: 5445 - Cabane de Setut
+    ... y 7 más
+
+  Valor '6' (25 refugios):
+    ID: 6055 - Cabane de Poussiergues
+    ID: 6278 - Refuge d'Eychouzé (Naguilhes)
+    ID: 5804 - Cabane de Pla de las Peyres
+    ID: 6309 - Cabane de Prat Redoun (Redon)
+    ID: 5473 - Refugi Pla de les Pedres
+    ... y 20 más
+
+  Valor '7' (6 refugios):
+    ID: 7294 - Cabane de Boutas
+    ID: 6277 - Cabane de Turguilla
+    ID: 5684 - Cabane du Taus
+    ID: 4279 - Refuge de la Jaceta
+    ID: 6166 - Refuge du Larry
+    ... y 1 más
+
+  Valor '8' (14 refugios):
+    ID: 7925 - Cabane de Balledreyt
+    ID: 5446 - Cabane des Pradettes
+    ID: 6812 - Cabane de la Jasse de Sénard
+    ID: 4086 - Cayolar d'Ardane
+    ID: 4372 - Cabane de la Hilette
+    ... y 9 más
+
+  Valor '9' (3 refugios):
+    ID: 4931 - Refuge de Broate
+    ID: 5352 - Refuge Baiau (Josep Maria Montfort)
+    ID: 5398 - Refuge Mont-Roig "Enric Pujol"
+
+  Valor '10' (5 refugios):
+    ID: 3878 - Cabane du Clot du Lac
+    ID: 10391 - Cabane de Cot Dessus
+    ID: 6863 - Cabane de Prat-Cazeneuve
+    ID: 5749 - Maison Forestière de Mariailles
+    ID: 7627 - Cabane de Bassibès
+
+  Valor '11' (1 refugios):
+    ID: 6288 - Refuge du Lanoux (Maison des Ingénieurs)
+
+  Valor '12' (3 refugios):
+    ID: 6263 - Cabane de Subera
+    ID: 3876 - Cabane d'Aula
+    ID: 6116 - Refuge de Tuquerouye
+
+  Valor '14' (1 refugios):
+    ID: 5840 - Refuge de Armeña
+
+  Valor '16' (4 refugios):
+    ID: 8653 - Cabane Salode
+    ID: 5793 - Cabane de l'Escalette
+    ID: 3743 - Refuge Russel
+    ID: 8544 - Refugio de Urdiceto
+
+  Valor '18' (1 refugios):
+    ID: 5393 - Refuge de Mulleres (de Molières)
+
+  Valor '19' (1 refugios):
+    ID: 6574 - Refuge des Cortalets (refuge d'hiver)
+
+==================================================
+
+RESUMEN ESTADÍSTICO DE CAMPOS
+==============================
+bois: 673/673 refugios (100.0%)
+cheminee: 673/673 refugios (100.0%)
+couvertures: 673/673 refugios (100.0%)
+eau: 673/673 refugios (100.0%)
+latrines: 673/673 refugios (100.0%)
+manque_un_mur: 673/673 refugios (100.0%)
+places_matelas: 673/673 refugios (100.0%)
+poele: 673/673 refugios (100.0%)

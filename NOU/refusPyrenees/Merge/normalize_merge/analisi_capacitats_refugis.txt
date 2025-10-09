@@ -1,0 +1,153 @@
+ANÀLISI DELS CAMPS DE CAPACITAT DELS REFUGIS
+==================================================
+
+Total de refugis analitzats: 1376
+
+CAMP: cap_ete (Capacitat d'estiu)
+-----------------------------------
+Nombre total de valors: 1376
+Valors únics: 56
+
+Valors possibles ordenats:
+  '0' - 323 refugis
+  '1' - 23 refugis
+  '2' - 162 refugis
+  '3' - 83 refugis
+  '4' - 217 refugis
+  '5' - 40 refugis
+  '6' - 109 refugis
+  '7' - 2 refugis
+  '8' - 63 refugis
+  '9' - 8 refugis
+  '10' - 44 refugis
+  '11' - 3 refugis
+  '12' - 21 refugis
+  '14' - 3 refugis
+  '15' - 5 refugis
+  '18' - 3 refugis
+  '20' - 9 refugis
+  '24' - 1 refugis
+  '25' - 1 refugis
+  '30' - 1 refugis
+  '' - 186 refugis
+  '2 2x2 serre' - 1 refugis
+  '4 3' - 1 refugis
+  '15 20' - 1 refugis
+  '8 ou plus ' - 1 refugis
+  '4 a 5' - 1 refugis
+  '1 ou 2' - 2 refugis
+  '0 2' - 1 refugis
+  '2 3' - 4 refugis
+  '1 4 en haut ' - 1 refugis
+  '1 a 2' - 1 refugis
+  '6 3' - 1 refugis
+  '4 hors periode d' - 1 refugis
+  '2 a 3' - 2 refugis
+  '4 sur sol beton' - 1 refugis
+  'env 5 6' - 1 refugis
+  '0 ou 4' - 3 refugis
+  ' ' - 23 refugis
+  '6 8' - 1 refugis
+  '15 env ' - 1 refugis
+  '4 ou plus ' - 2 refugis
+  '2 ou plus ' - 2 refugis
+  '4 8 10' - 1 refugis
+  '0 cabane pour le berger' - 1 refugis
+  '15 16' - 1 refugis
+  '3 4' - 2 refugis
+  '5 6 est ouest ' - 1 refugis
+  '12 20' - 1 refugis
+  '2 ou plus' - 3 refugis
+  '2 3 chacune' - 1 refugis
+  '4 5' - 1 refugis
+  '2 3 assis ' - 1 refugis
+  '4 5 2 3 ' - 1 refugis
+  '8 10 sur sol beton' - 1 refugis
+  '4 6 ' - 1 refugis
+  '5 ou ' - 1 refugis
+
+Rang de valors numèrics: 0 - 30
+
+==================================================
+
+CAMP: cap_hiver (Capacitat d'hivern)
+------------------------------------
+Nombre total de valors: 1376
+Valors únics: 61
+
+Valors possibles ordenats:
+  '0' - 292 refugis
+  '1' - 24 refugis
+  '2' - 166 refugis
+  '3' - 83 refugis
+  '4' - 234 refugis
+  '5' - 42 refugis
+  '6' - 118 refugis
+  '7' - 2 refugis
+  '8' - 64 refugis
+  '9' - 8 refugis
+  '10' - 48 refugis
+  '11' - 2 refugis
+  '12' - 21 refugis
+  '14' - 3 refugis
+  '15' - 5 refugis
+  '16' - 1 refugis
+  '18' - 3 refugis
+  '20' - 9 refugis
+  '24' - 1 refugis
+  '25' - 1 refugis
+  '30' - 1 refugis
+  '' - 181 refugis
+  '2 2x2 serre' - 1 refugis
+  '4 3' - 1 refugis
+  '15 20' - 1 refugis
+  '8 ou plus ' - 1 refugis
+  '4 a 5' - 1 refugis
+  '1 ou 2' - 2 refugis
+  '1 a 2' - 1 refugis
+  '2 3' - 5 refugis
+  '6 3' - 1 refugis
+  '2 3 au sol ' - 1 refugis
+  '2ou plus' - 1 refugis
+  '4 sur sol beton' - 1 refugis
+  'env 5 6' - 1 refugis
+  '2 a 3' - 1 refugis
+  '0 ou 4' - 2 refugis
+  ' ' - 21 refugis
+  '5 6' - 1 refugis
+  '6 8' - 2 refugis
+  '15 env ' - 1 refugis
+  '4 ou plus ' - 2 refugis
+  '2 ou plus ' - 1 refugis
+  '4 ou ' - 1 refugis
+  '4 8 10' - 1 refugis
+  'idem' - 1 refugis
+  '1 2' - 1 refugis
+  '12 a confirmer l' - 1 refugis
+  '15 16' - 1 refugis
+  '3 4' - 1 refugis
+  '6 8 pas de porte ' - 1 refugis
+  '12 20' - 1 refugis
+  '2 ou plus' - 1 refugis
+  '4 5' - 1 refugis
+  '4 ou plus' - 1 refugis
+  '4 5 2 3 ' - 1 refugis
+  '3 maxi partie chauffee ' - 1 refugis
+  '6 ' - 1 refugis
+  '8 10 sur sol beton' - 1 refugis
+  '4 6 ' - 1 refugis
+  '5 ou ' - 1 refugis
+
+Rang de valors numèrics: 0 - 30
+
+==================================================
+
+ESTADÍSTIQUES ADDICIONALS
+-------------------------
+Valors no numèrics en cap_ete: ['', '2 2x2 serre', '4 3', '15 20', '8 ou plus ', '4 a 5', '1 ou 2', '0 2', '2 3', '1 4 en haut ', '1 a 2', '6 3', '4 hors periode d', '2 a 3', '4 sur sol beton', 'env 5 6', '0 ou 4', ' ', '6 8', '15 env ', '4 ou plus ', '2 ou plus ', '4 8 10', '0 cabane pour le berger', '15 16', '3 4', '5 6 est ouest ', '12 20', '2 ou plus', '2 3 chacune', '4 5', '2 3 assis ', '4 5 2 3 ', '8 10 sur sol beton', '4 6 ', '5 ou ']
+Valors no numèrics en cap_hiver: ['', '2 2x2 serre', '4 3', '15 20', '8 ou plus ', '4 a 5', '1 ou 2', '1 a 2', '2 3', '6 3', '2 3 au sol ', '2ou plus', '4 sur sol beton', 'env 5 6', '2 a 3', '0 ou 4', ' ', '5 6', '6 8', '15 env ', '4 ou plus ', '2 ou plus ', '4 ou ', '4 8 10', 'idem', '1 2', '12 a confirmer l', '15 16', '3 4', '6 8 pas de porte ', '12 20', '2 ou plus', '4 5', '4 ou plus', '4 5 2 3 ', '3 maxi partie chauffee ', '6 ', '8 10 sur sol beton', '4 6 ', '5 ou ']
+
+Refugis amb capacitat 0 a l'estiu: 323
+Refugis amb capacitat 0 a l'hivern: 292
+Capacitat màxima d'estiu: 30 places
+Capacitat màxima d'hivern: 30 places

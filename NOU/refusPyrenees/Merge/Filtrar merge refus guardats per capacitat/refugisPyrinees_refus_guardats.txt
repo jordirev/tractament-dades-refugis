@@ -1,0 +1,215 @@
+ 1. Refuge CEC de la Molina
+    Capacitat estiu: 180
+    Capacitat hivern: 0
+    Capacitat màxima: 180 persones
+    Regió: Alp
+    Altitud: 1570
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=839
+
+ 2. Canfranc Refugio
+    Capacitat estiu: 124
+    Capacitat hivern: 0
+    Capacitat màxima: 124 persones
+    Regió: Canfranc
+    Altitud: 1045m
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=800
+
+ 3. Xalet refugi La Basseta
+    Capacitat estiu: 93
+    Capacitat hivern: 93
+    Capacitat màxima: 93 persones
+    Regió: Montferrer i Castellb
+    Altitud: 1690
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=847
+
+ 4. Refuge de La Restanca
+    Capacitat estiu: 92
+    Capacitat hivern: 16
+    Capacitat màxima: 92 persones
+    Regió: Naut Aran
+    Altitud: 2010
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=286
+
+ 5. Refuge UEC de la Molina
+    Capacitat estiu: 90
+    Capacitat hivern: 0
+    Capacitat màxima: 90 persones
+    Regió: Alp
+    Altitud: 1480
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=840
+
+ 6. Refuge de Rebost
+    Capacitat estiu: 70
+    Capacitat hivern: 0
+    Capacitat màxima: 70 persones
+    Regió: Bag
+    Altitud: 1670
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=844
+
+ 7. Cap de Rec
+    Capacitat estiu: 60
+    Capacitat hivern: 0
+    Capacitat màxima: 60 persones
+    Regió: Lles de Cerdanya
+    Altitud: 1986
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=834
+
+ 8. Refuge Angel'Orus - Forcau
+    Capacitat estiu: 55
+    Capacitat hivern: 0
+    Capacitat màxima: 55 persones
+    Regió: Sah
+    Altitud: 2100
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=146
+
+ 9. Ulldeter
+    Capacitat estiu: 51
+    Capacitat hivern: 6
+    Capacitat màxima: 51 persones
+    Regió: Setcases
+    Altitud: 2220
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=850
+
+10. Gîte Can Cortina
+    Capacitat estiu: 50
+    Capacitat hivern: 0
+    Capacitat màxima: 50 persones
+    Regió: Josa i Tuix
+    Altitud: 1190m
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=848
+
+11. Refuge UES de la Molina Pere Carne
+    Capacitat estiu: 50
+    Capacitat hivern: 0
+    Capacitat màxima: 50 persones
+    Regió: Alp
+    Altitud: 1490
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=841
+
+12. Rasos de Peguera
+    Capacitat estiu: 50
+    Capacitat hivern: 0
+    Capacitat màxima: 50 persones
+    Regió: Castellar del Riu
+    Altitud: 1805
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=846
+
+13. Hospice de France
+    Capacitat estiu: 46
+    Capacitat hivern: 46
+    Capacitat màxima: 46 persones
+    Regió: Bagnères-de-Luchon
+    Altitud: 1385
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=167
+
+14. Le Chalet du Clot
+    Capacitat estiu: 43
+    Capacitat hivern: 43
+    Capacitat màxima: 43 persones
+    Regió: Cauterets
+    Altitud: 1562
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=877
+
+15. Refuge de Certascan
+    Capacitat estiu: 40
+    Capacitat hivern: 20
+    Capacitat màxima: 40 persones
+    Regió: Lladorre
+    Altitud: 2240
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=660
+
+16. Refuge de Conangles
+    Capacitat estiu: 36
+    Capacitat hivern: 36
+    Capacitat màxima: 36 persones
+    Regió: Vielha e Mijaran
+    Altitud: 1555
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1082
+
+17. Refuge d'Estana
+    Capacitat estiu: 36
+    Capacitat hivern: 36
+    Capacitat màxima: 36 persones
+    Regió: Montell
+    Altitud: 1500
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=935
+
+18. Auberge du Maillet
+    Capacitat estiu: 32
+    Capacitat hivern: No especificada
+    Capacitat màxima: 32 persones
+    Regió: Gavarnie-Gèdre
+    Altitud: 1830
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1236
+
+19. Niu de l'Aliga
+    Capacitat estiu: 30
+    Capacitat hivern: 0
+    Capacitat màxima: 30 persones
+    Regió: Bag
+    Altitud: 2520
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=838
+
+20. Refuge Callau
+    Capacitat estiu: 30
+    Capacitat hivern: 30
+    Capacitat màxima: 30 persones
+    Regió: Mosset
+    Altitud: 1520
+    Tipus: cabane fermee
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=377
+
+21. Refuge Vall Ferrera
+    Capacitat estiu: 30
+    Capacitat hivern: 0
+    Capacitat màxima: 30 persones
+    Regió: Alins
+    Altitud: 1940
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=830
+
+22. Refuge de Ras de Conques
+    Capacitat estiu: 24
+    Capacitat hivern: 0
+    Capacitat màxima: 24 persones
+    Regió: les Valls de Valira
+    Altitud: 1840
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=675
+
+23. Refige Els Cortals de l'Ingla
+    Capacitat estiu: 22
+    Capacitat hivern: 22
+    Capacitat màxima: 22 persones
+    Regió: Bellver de Cerdanya
+    Altitud: 1610
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=729
+
+24. ANGAKA village Nordique
+    Capacitat estiu: 20
+    Capacitat hivern: 20
+    Capacitat màxima: 20 persones
+    Regió: Albiès
+    Altitud: 1800
+    Tipus: cabane ouverte
+    URL: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1229

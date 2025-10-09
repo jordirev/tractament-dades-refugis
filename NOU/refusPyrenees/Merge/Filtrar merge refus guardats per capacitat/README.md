@@ -1,0 +1,3 @@
+A partir del refultat despres de juntar Completa(serveis) amb Normal, hi ha refus guardats. Executant el codi find_high_capacity... s'obte la llista de refugis amb capacitat +15 (fitxer refugis_alta_capacitat.txt) i com en aquesta llista hi ha refus no guardats, vaig revisar manualment els que son guardats (fitxer refugisPyrinees_refus_guardats.txt).
+Despres, per tenir tambe la llista de refugis no guardats amb capacitat +15, comparo el resultat amb el codi compare_refuges.py i com a resultat obtinc el fitxer refugisPyrenees_refus_no_guardats_filtrats.txt
+Finalment, eliminem els refugis guardats del fitxer refusPyrinees_merged.json amb el codi remove_high_capacity_refuges.py i obtenim al resultat a refusPyrinees_merged_filtered.json

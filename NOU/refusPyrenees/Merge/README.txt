@@ -1,0 +1,1 @@
+Primer fem el merge(Completa+Normal) despres filtrem i despres normalitzem

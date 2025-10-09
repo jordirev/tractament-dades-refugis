@@ -1,0 +1,1 @@
+Passem del fitxer obtingut del endpoint amb XML a json

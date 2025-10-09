@@ -1,0 +1,1 @@
+Per fer el merge dels dos fitxers Completa i Normal ja normalitzats, com els noms difereixen, per a trovar la seva parella comarem els casos que no quedi clar amb altres paratetres unics d'aquell refugi com la altitud o la capacitat a l'estiu o hivern (cap_ete o cap_hiver)

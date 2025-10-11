@@ -1,0 +1,2302 @@
+CLASSIFICACIÓ DELS VALORS DEL CAMP COUCHAGE
+============================================================
+
+GRUP: MATELAS
+----------------------------------------
+Descripció: Valors que contenen informació sobre matalassos
+Total de valors diferents: 67
+
+ 1. VALOR: '1 lit avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Aoubère
+
+ 2. VALOR: '1 lit avec matelas + 3 places '
+    Nombre de refugis: 2
+    Refugis:
+      - Cabana Anes cruzes (Agnes Cruces)
+      - Cabane de Monzarro
+
+ 3. VALOR: '1 lit bois (matelas mousse 2 p'
+    Nombre de refugis: 1
+    Refugis:
+      - Mata Negra
+
+ 4. VALOR: '1 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Tuc
+
+ 5. VALOR: '1 mousse pour 2 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Artigue de Burgalays
+
+ 6. VALOR: '10 places (sur Matelas)'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio Planas d'Abozo de Broto
+
+ 7. VALOR: '2 lits avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Courille
+
+ 8. VALOR: '2 lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'En Gaudu
+
+ 9. VALOR: '2 lits superposés en mousse so'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'En Dela
+
+10. VALOR: '2 lits, 3 matelas, 1 mousse'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Pardines
+
+11. VALOR: '2 matelas'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Courtal Marti
+      - Cabane de Mauvesi
+
+12. VALOR: '2 matelas mousse à l'étage '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Forestier du Laurenti
+
+13. VALOR: '3 matelas : deux sur le bat-fl'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Pradettes
+
+14. VALOR: '3 personnes acvec matelas +un '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Peyregrand
+
+15. VALOR: '3 sur matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Pradioux
+
+16. VALOR: '4 lits avec matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Barbat
+
+17. VALOR: '4 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Hontau
+
+18. VALOR: '4 matelas '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Esprays d'En Bas (LLau)
+
+19. VALOR: '4 matelas / 6 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Cap de Salieres,  Villa
+
+20. VALOR: '4 places en 2 lits matelassés '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Leziou ou des Clots de Dessus
+
+21. VALOR: '4 places sur matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio militar Lopez Huici
+
+22. VALOR: '5 lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Aueran
+
+23. VALOR: '5 places, dont 3 sur matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Col des Cos
+
+24. VALOR: '6 lits avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du lac de Montarrouye
+
+25. VALOR: '6 lits en bas et 6 matelas en '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aula
+
+26. VALOR: '6 matelas + couvertures'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge du Mont Ne
+
+27. VALOR: '6 places sur matelas de mousse'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri dels estanys forcats
+
+28. VALOR: '6 places, sur matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Coumets
+
+29. VALOR: '7 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Yerse / Espadre
+
+30. VALOR: 'Bas flancs + 10 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Alemany
+
+31. VALOR: 'Bas flancs + 4 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Barlonguere
+
+32. VALOR: 'Bas flancs + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estaube
+
+33. VALOR: 'Bas flancs 4 places avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Rieufort de Gascous
+
+34. VALOR: 'Bas flancs Matelas propres'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Edf de Clarans
+
+35. VALOR: 'Bas flancs+matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Prat Redoun
+
+36. VALOR: 'Bas flancs, matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio d'Armena
+
+37. VALOR: 'Bat-flanc pour 6 avec matelas '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Roque Pi
+
+38. VALOR: 'Couchage sur matelas au total '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Cot Dessus
+
+39. VALOR: 'Couchage à l'étage, 2 matelas '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estiouere
+
+40. VALOR: 'Gran bat-flanc avec matelas, p'
+    Nombre de refugis: 1
+    Refugis:
+      - Baraquements de Gnioure
+
+41. VALOR: 'Grand bat-flanc avec 2 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Coumebieres
+
+42. VALOR: 'Lit avec matelas pour 2 person'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Pla de Tabe
+
+43. VALOR: 'Lit metallique + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Prat-Cazeneuve Ou Aygues Tortes
+
+44. VALOR: 'Lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana dels rasos 
+
+45. VALOR: 'Matelas'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane d'Auruzan
+      - Chalet forestier de la Soule
+
+46. VALOR: 'Matelas et bas flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Artigue
+
+47. VALOR: 'Matelas sales ou sol (béton)'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de la trapa / del Mirador
+
+48. VALOR: 'Matelas, 4, 6 en se tassant.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Neych
+
+49. VALOR: 'Non mais 2 matelas que l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Arrouge
+
+50. VALOR: 'Oui avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Antenac Inferieur ou Seridet
+
+51. VALOR: 'Oui, avec 6 matelas plastifiés'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Devesa
+
+52. VALOR: 'bas flancs avec matelas. 2 x 4'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de l'Orri de Riberola
+
+53. VALOR: 'bat-flanc + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - REFUGE DU BALAÏTOUS - LEDORMEUR
+
+54. VALOR: 'bat-flanc avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Beze
+
+55. VALOR: 'deux bat-flancs avec matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Caraussans
+
+56. VALOR: 'lit avec matelas 1 place'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de Linza
+
+57. VALOR: 'lit superposé sur matelas + co'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Lee
+
+58. VALOR: 'matelas en mousse + sommier mé'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Bousadus du Bas
+
+59. VALOR: 'matelas mousse'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Poussiergues
+      - Cabane du Col de l'Araing
+
+60. VALOR: 'matelas, bas-flancs sur 3 nive'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Costabona
+
+61. VALOR: 'mezzanine, matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana Pleta del Duc
+
+62. VALOR: 'mousse'
+    Nombre de refugis: 1
+    Refugis:
+      - Orri de Prat Redoun
+
+63. VALOR: 'non mais 4 ou 5 matelas en mou'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Tabernes
+
+64. VALOR: 'un bas-flanc avec un matelas m'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Escalier
+
+65. VALOR: 'un lit avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Campsaure
+
+66. VALOR: 'un matelas en bas sur un sommi'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Couledoux
+
+67. VALOR: 'un vieux matelas pour 2 sur pa'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge pastoral de Mijanes
+
+============================================================
+
+GRUP: BAS FLANCS
+----------------------------------------
+Descripció: Valors que contenen informació sobre bat-flancs o bas-flancs
+Total de valors diferents: 102
+
+ 1. VALOR: ' bas flanc tout neuf en bois, '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bargueres (du Cecire)
+
+ 2. VALOR: '2 Bas flancs pour 4 personnes '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge du Barrage des Besines
+
+ 3. VALOR: '2 bas flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Caseta Foya Barcal Acherito
+
+ 4. VALOR: '2 bas flancs avec de vieux mat'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de l'Orri
+
+ 5. VALOR: '2 bat flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Maison forestiere ONF de Mariailles
+
+ 6. VALOR: '2 bat-flanc en bois pour 5 per'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Jasse de Peyriguels
+
+ 7. VALOR: '2 bat-flanc superposés en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Eychouzé
+
+ 8. VALOR: '2 bat-flancs 1 place'
+    Nombre de refugis: 1
+    Refugis:
+      - Ayré
+
+ 9. VALOR: '2 larges bas flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Auzut
+
+10. VALOR: '3 places, bas flanc en bois.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Orri (Soussouéou)
+
+11. VALOR: '4 bas flancs en bois + place a'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi forestal Prat Gran
+
+12. VALOR: '4 bas-flancs dans deux pièces '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Coll de Banyuls
+
+13. VALOR: '4 en bas bat-flanc + 4 en haut'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pelates
+
+14. VALOR: '4 places sur bas-flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Besset (du Bas)
+
+15. VALOR: '5 places sur bas flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Cayalatte
+
+16. VALOR: 'Bas Flanc (béton)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Llardaneta
+
+17. VALOR: 'Bas Flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Bousquet
+
+18. VALOR: 'Bas Flancs (bois)'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane Puyarueso
+      - Cabane forestière de Gaffouil (Garfouil)
+      - Refugi pleta de Dorria
+
+19. VALOR: 'Bas Flancs (bois) '
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Cami de Nuria / Cortals de Rigat maia
+
+20. VALOR: 'Bas flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Senconac
+
+21. VALOR: 'Bas flanc 3 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Jaça de Llosa
+
+22. VALOR: 'Bas flanc en bois.'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Montserrat
+
+23. VALOR: 'Bas flancs'
+    Nombre de refugis: 41
+    Refugis:
+      - Abri d'Ardane Gagnekoa
+      - Cabane Aguilous
+      - Cabane Aygues-Cluses
+      - Cabane Bretounels
+      - Cabane Edf de Savignac Ou du Ressec
+      - Cabane Jaceta
+      - Cabane Mounegou
+      - Cabane Sausset
+      - Cabane Trinqué
+      - Cabane d'Agnelle Morto
+      ... i 31 refugis més
+
+24. VALOR: 'Bas flancs + 10 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Alemany
+
+25. VALOR: 'Bas flancs + 4 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Barlonguere
+
+26. VALOR: 'Bas flancs + etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Eychelle
+
+27. VALOR: 'Bas flancs + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estaube
+
+28. VALOR: 'Bas flancs 12 personne'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de La Tagnarede
+
+29. VALOR: 'Bas flancs 4 personnes, deux v'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Bisort
+
+30. VALOR: 'Bas flancs 4 places avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Rieufort de Gascous
+
+31. VALOR: 'Bas flancs Matelas propres'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Edf de Clarans
+
+32. VALOR: 'Bas flancs beton par le passé '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Marcadau
+
+33. VALOR: 'Bas flancs bois superposés'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge cabane Pesson
+
+34. VALOR: 'Bas flancs en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bassia
+
+35. VALOR: 'Bas flancs en bois pour 8'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Hille de l'Etang (Ars)
+
+36. VALOR: 'Bas flancs en béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge du Port de Salau
+
+37. VALOR: 'Bas flancs en béton couvert de bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bouleste
+
+38. VALOR: 'Bas flancs en mezzanine'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane d'Arrègatiou
+      - Cabane de Lapassa (sous refuge Arlet)
+      - Cap de Pount
+
+39. VALOR: 'Bas flancs pour 6 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pla de gril / Coma de Pontells
+
+40. VALOR: 'Bas flancs sans matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Bonne-Aigue
+
+41. VALOR: 'Bas flancs sur 3 étages + mate'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge des Espugues
+
+42. VALOR: 'Bas flancs+matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Prat Redoun
+
+43. VALOR: 'Bas flancs, matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio d'Armena
+
+44. VALOR: 'Bas-flanc 4 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Clarans
+
+45. VALOR: 'Bas-flanc en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Pla de Satlla
+
+46. VALOR: 'Bas-flanc en bois 4-5 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Lac de Lagües
+
+47. VALOR: 'Bat-flanc 2 niveaux. Sup fragi'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Ouillat
+
+48. VALOR: 'Bat-flanc 2 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Oratori (col Dolent)
+
+49. VALOR: 'Bat-flanc béton en bas avec 1 '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Hours
+
+50. VALOR: 'Bat-flanc pour 6 avec matelas '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Roque Pi
+
+51. VALOR: 'Bat-flanc sur deux niveaux pou'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Llassies
+
+52. VALOR: 'Gran bat-flanc avec matelas, p'
+    Nombre de refugis: 1
+    Refugis:
+      - Baraquements de Gnioure
+
+53. VALOR: 'Grand bat-flanc avec 2 matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Coumebieres
+
+54. VALOR: 'Matelas et bas flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Artigue
+
+55. VALOR: 'Pas de bat-flanc pour la nuit'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Barguerasses
+
+56. VALOR: 'Pas de bat-flanc. Un vieux som'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Mine
+
+57. VALOR: 'Un bat-flanc 2 pers, mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Caillaous
+
+58. VALOR: 'Un bat-flanc occupe tout l'esp'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Jasse des Galis
+
+59. VALOR: 'Un bat-flanc pour 4 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Camplong
+
+60. VALOR: 'Un grand bat-flanc pour 6 pers'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Farga
+
+61. VALOR: 'Un petit bat-flanc en bois en '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Millourtere
+
+62. VALOR: 'Un petit bat-flanc pour 2 pers'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estall Serrer
+
+63. VALOR: 'bas flanc en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Toue de Larribet
+
+64. VALOR: 'bas flanc en bois, 4 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Toue Labassa
+
+65. VALOR: 'bas flancs'
+    Nombre de refugis: 7
+    Refugis:
+      - Cabane Benaques
+      - Cabane Pouill
+      - Cabane de Sauquet
+      - Cabane des Ludines
+      - Courtaou de la Lit
+      - Refuge de Coronas (Pescadores Vallivierna)
+      - Refuge du Cap de Long
+
+66. VALOR: 'bas flancs 2 niveaux pour 10-1'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Auloueilh
+
+67. VALOR: 'bas flancs avec matelas. 2 x 4'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de l'Orri de Riberola
+
+68. VALOR: 'bas flancs sans matelas (bien '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Pastorale de l'Estanyol
+
+69. VALOR: 'bas-flanc en bois sans matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Plagne
+
+70. VALOR: 'bat-flanc + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - REFUGE DU BALAÏTOUS - LEDORMEUR
+
+71. VALOR: 'bat-flanc 3 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Jasse de Cizarol
+
+72. VALOR: 'bat-flanc 4 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Tabaniere
+
+73. VALOR: 'bat-flanc 6 places avec matela'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lauzate (ou du Mt-Fourcat)
+
+74. VALOR: 'bat-flanc avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Beze
+
+75. VALOR: 'bat-flanc bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Rieutort
+
+76. VALOR: 'bat-flanc bois 2 personnes (+2'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Estanils
+
+77. VALOR: 'bat-flanc en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Doumblas
+
+78. VALOR: 'bat-flanc en gros demi-rondins'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Ane Labeilla
+
+79. VALOR: 'bat-flanc en mezzanine pour 2-'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Herran (Hosce)
+
+80. VALOR: 'bat-flanc métallique pour 4'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lourdes
+
+81. VALOR: 'bat-flanc métallique pour 6 pe'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Perafita
+
+82. VALOR: 'bat-flanc pour 3 ou 4'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bela
+
+83. VALOR: 'bat-flanc pour 3 personnes ave'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Mails
+
+84. VALOR: 'bat-flanc pour 4 personnes'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane Arcalis (ou Pleta castellar)
+      - Cabane Jasse de Seys
+
+85. VALOR: 'bat-flanc sans matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cap det Courtaou
+
+86. VALOR: 'bat-flanc sur deux niveaux pou'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Saube
+
+87. VALOR: 'bat-flanc sur toute la largeur de la cabane'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aouet
+
+88. VALOR: 'bat-flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de La Plana del Turbon
+
+89. VALOR: 'bat-flancs 3 personnes avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Artigou
+
+90. VALOR: 'bat-flancs métaliques pour 8'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Fontverd
+
+91. VALOR: 'couchage 3-4, bat-flanc, matel'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Lisey
+
+92. VALOR: 'couchage bas flancs 6p'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Nouvelle de Coume Nère
+
+93. VALOR: 'deux bat-flanc superposés avec'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Sauzet
+
+94. VALOR: 'deux bat-flancs avec matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Caraussans
+
+95. VALOR: 'matelas, bas-flancs sur 3 nive'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Costabona
+
+96. VALOR: 'pas de bat-flanc, sol béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Col de Bareges
+
+97. VALOR: 'un bas-flanc avec un matelas m'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Escalier
+
+98. VALOR: 'un bat-flanc 2 places avec mat'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Arrech
+
+99. VALOR: 'un bat-flanc pour 1 personne r'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Pas de Crabe
+
+100. VALOR: 'un bat-flanc pour 3 personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge des Chasseurs de Miglos (Unarde Nord-Est)
+
+101. VALOR: 'un grand bas flanc en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Conques
+
+102. VALOR: 'un grand bat-flanc bois pour 6'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Boutas
+
+============================================================
+
+GRUP: SOL/TERRE
+----------------------------------------
+Descripció: Valors relacionats amb dormir al terra, sol o superfícies dures
+Total de valors diferents: 76
+
+ 1. VALOR: '0 (sol béton)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Les Corones
+
+ 2. VALOR: '1 lit + 3 places au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio Peguera
+
+ 3. VALOR: '1 lit superposé + sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Talaixa (Cal Ferrer)
+
+ 4. VALOR: '1 sommier sans matelas + sol ('
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Saucede / Clot du Laun
+
+ 5. VALOR: '2 (lit) + 2 (sol)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana deth Uelh deth Garona
+
+ 6. VALOR: '2 + 2 places au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio del puerto tendenera
+
+ 7. VALOR: '2 planchers superposés avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Piedarlau
+
+ 8. VALOR: '6, et place au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Buzy (Lurien)
+
+ 9. VALOR: 'Au sol'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Montpius ou de Delà de Gausac
+      - Cabane las Aygues
+
+10. VALOR: 'Bas Flanc (béton)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Llardaneta
+
+11. VALOR: 'Bas flancs beton par le passé '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Marcadau
+
+12. VALOR: 'Bas flancs en béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge du Port de Salau
+
+13. VALOR: 'Bas flancs en béton couvert de bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bouleste
+
+14. VALOR: 'Bat-flanc béton en bas avec 1 '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Hours
+
+15. VALOR: 'Béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Estom
+
+16. VALOR: 'Couchage par terre ou sur mezz'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Plagne
+
+17. VALOR: 'Couchage sur plancher à l'étag'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge forestier du Cualot
+
+18. VALOR: 'Couchages à l'étage (sol bois '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Artiga de Lin
+
+19. VALOR: 'Des Dalles'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pene Blanque
+
+20. VALOR: 'Direct sur le sol béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Lers
+
+21. VALOR: 'En haut : plancher en bois pro'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Lasplanous
+
+22. VALOR: 'Lits en bois RDC + plancher so'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Illau
+
+23. VALOR: 'Matelas sales ou sol (béton)'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de la trapa / del Mirador
+
+24. VALOR: 'Non (sol en terre ?)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de la ribera de boldis
+
+25. VALOR: 'Non, couchage au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana eth Santet
+
+26. VALOR: 'Non, couchage au sol ou sur le'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Turon de Béne
+
+27. VALOR: 'Non, couchage sur le sol'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Tousaus
+      - Cabane de la Coumeders
+
+28. VALOR: 'Non, terre battue'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Trapech du Haut
+
+29. VALOR: 'Non. Plancher en bois à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Tariolle
+
+30. VALOR: 'Par terre'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane de Freychinede
+      - Orri de Boutas
+      - Orri de Bretounels
+
+31. VALOR: 'Plancher'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Salode
+
+32. VALOR: 'Plancher a l etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Ourtiga
+
+33. VALOR: 'Plancher en étage pour dormir'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Etang d'Araing
+
+34. VALOR: 'Plancher sur mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Udapet du Bas
+
+35. VALOR: 'Plancher sur mezzanine avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Gourgue Sec
+
+36. VALOR: 'Planches de bois par terre'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Embalse d'ordizeto
+
+37. VALOR: 'SOL'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estanyol de Tarterès
+
+38. VALOR: 'Sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana del Roures
+
+39. VALOR: 'Sol en béton'
+    Nombre de refugis: 5
+    Refugis:
+      - Refugio Fuente del Paco
+      - Refugio de Pastores (colladeta Durán)
+      - Refugio de la Margalida
+      - Refugio de las planas del boz de Telera
+      - Refugio forestal de Tregura
+
+40. VALOR: 'Sol en béton.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de Lleneali / Resuali
+
+41. VALOR: 'Sol en béton. Lit pour deux personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Saleras
+
+42. VALOR: 'Sol en terre'
+    Nombre de refugis: 2
+    Refugis:
+      - Barraca de Tirapits
+      - Cabanes de Mataporc
+
+43. VALOR: 'Sol, dalles en pierres'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Es Huertos
+
+44. VALOR: 'Sur le sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri de La Neste de Clarabide
+
+45. VALOR: 'Sur le sol (terre)'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri de Caillauas
+
+46. VALOR: 'Sur le sol en béton direct'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Col de Pailheres
+
+47. VALOR: 'Sur plancher en mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Pacheu (Arlet)
+
+48. VALOR: 'bancs béton + sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Plana Canal
+
+49. VALOR: 'béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Garsan
+
+50. VALOR: 'cortal del soler sur le bas '
+    Nombre de refugis: 1
+    Refugis:
+      - refuge roquefumade
+
+51. VALOR: 'couchage au sol, en béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Llavasar
+
+52. VALOR: 'deux bancs en pierre + sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge pastoral de San Vicenda
+
+53. VALOR: 'isolation goudronnée'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aygue Rouye
+
+54. VALOR: 'lits, sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Esclozes
+
+55. VALOR: 'non mais un grand plancher à l'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Contraire
+      - Cabane de Saribarolles
+
+56. VALOR: 'non, sol en béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Capet
+
+57. VALOR: 'non, sol sale'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de la Cuta (dios te salve)
+
+58. VALOR: 'par terre'
+    Nombre de refugis: 2
+    Refugis:
+      - Abri Gaurier
+      - Orri des Ludines
+
+59. VALOR: 'pas de bat-flanc, sol béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Col de Bareges
+
+60. VALOR: 'plancher en bois pour 5 person'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du col des Cassaings
+
+61. VALOR: 'plancher en hauteur pour dormi'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Col de l'Herbe Soulette
+
+62. VALOR: 'plancher sommaire'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Artigues
+
+63. VALOR: 'plancher à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Luzurs
+
+64. VALOR: 'plancher étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Coumeda
+
+65. VALOR: 'rien, de la terre propre'
+    Nombre de refugis: 1
+    Refugis:
+      - Orri de la jasse de Gaberseil
+
+66. VALOR: 'sol'
+    Nombre de refugis: 1
+    Refugis:
+      - abri d'Hortmoier
+
+67. VALOR: 'sol béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estibat
+
+68. VALOR: 'sol carrelé'
+    Nombre de refugis: 1
+    Refugis:
+      - Orri de la Font de Jordana
+
+69. VALOR: 'sol en béton'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabana de Aguas Tuertas
+      - refugio de dios te salve (Plan d'Aniz)
+
+70. VALOR: 'sol en terre, 4 places.'
+    Nombre de refugis: 1
+    Refugis:
+      - Mallata la valle Font Blanca
+
+71. VALOR: 'sol nu (rochers)'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri de pierres estanys Siscarro (baix)
+
+72. VALOR: 'sol sale (prévoir une bâche)'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabana del Sarrau
+      - Cabane de Culrueba
+
+73. VALOR: 'sommier à ressort, sol bétonné'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pourcibo
+
+74. VALOR: 'terre battue'
+    Nombre de refugis: 3
+    Refugis:
+      - Abri Etang La Carança
+      - Cabane du Faig
+      - Orri de Moura
+
+75. VALOR: 'terre batue'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aixeques
+
+76. VALOR: 'à l'étage sur plancher avec de'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Artigueluz
+
+============================================================
+
+GRUP: LITS
+----------------------------------------
+Descripció: Valors relacionats amb llits i estructures de dormir
+Total de valors diferents: 85
+
+ 1. VALOR: '1 avec sommier'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bergueres Milieu
+
+ 2. VALOR: '1 couchette étroite en bas, si'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Embanels
+
+ 3. VALOR: '1 double lit'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Jaça del Pas
+
+ 4. VALOR: '1 lit + 3 places au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio Peguera
+
+ 5. VALOR: '1 lit avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Aoubère
+
+ 6. VALOR: '1 lit avec matelas + 3 places '
+    Nombre de refugis: 2
+    Refugis:
+      - Cabana Anes cruzes (Agnes Cruces)
+      - Cabane de Monzarro
+
+ 7. VALOR: '1 lit bois (matelas mousse 2 p'
+    Nombre de refugis: 1
+    Refugis:
+      - Mata Negra
+
+ 8. VALOR: '1 lit superposé + sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Talaixa (Cal Ferrer)
+
+ 9. VALOR: '1 place sur un sommier avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Plan des Sédères
+
+10. VALOR: '1 sommier métallique double (r'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri pastoral'El sola del cavaller
+
+11. VALOR: '1 sommier sans matelas + sol ('
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Saucede / Clot du Laun
+
+12. VALOR: '14 lits avec couvertures.'
+    Nombre de refugis: 1
+    Refugis:
+      - Gîte Retrouvance® de Terre d’Avenir ou Refuge du Port de Lers
+
+13. VALOR: '1x4 lits superposés'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Taula
+
+14. VALOR: '2 (lit) + 2 (sol)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana deth Uelh deth Garona
+
+15. VALOR: '2 LITS SUPERPOSES EN BAS ET 4-'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Col de l'Estrade
+
+16. VALOR: '2 bat-flanc superposés en bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Eychouzé
+
+17. VALOR: '2 lits'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri de l'Estany de La Pradella
+
+18. VALOR: '2 lits avec couverture'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Sarroua
+
+19. VALOR: '2 lits avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Courille
+
+20. VALOR: '2 lits metalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Caillou de Soques
+
+21. VALOR: '2 lits métalliques avec matela'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Sarrouyes (Ardounes)
+
+22. VALOR: '2 lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'En Gaudu
+
+23. VALOR: '2 lits superposés en mousse so'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'En Dela
+
+24. VALOR: '2 lits superposés fer avec mat'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Barestet
+
+25. VALOR: '2 lits, 3 matelas, 1 mousse'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Pardines
+
+26. VALOR: '2 planchers superposés avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Piedarlau
+
+27. VALOR: '2 sommiers métallique'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Vacher
+
+28. VALOR: '2 sommiers métalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Pla de les Pedres
+
+29. VALOR: '2 sommiers métalliques (matela'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Pla de la Vaca Morta
+
+30. VALOR: '2 sommiers métalliques sur 2 n'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Veirat
+
+31. VALOR: '2 superposés, en branches'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Couret
+
+32. VALOR: '2X2 sommiers métalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Portella
+
+33. VALOR: '3 couchages sur lit de camps p'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Bazet
+
+34. VALOR: '3 lits'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Herechet (ou des Rechets)
+
+35. VALOR: '3 vieux sommiers métallique av'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Coum (Courrau Vieil)
+
+36. VALOR: '4 lits + couchage sous le toit'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabanes de Soussouéou (inferieur)
+
+37. VALOR: '4 lits avec matelas.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Barbat
+
+38. VALOR: '4 lits métalliques en bas avec'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Liat
+
+39. VALOR: '4 lits superposés, sans matela'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Espelunguére
+
+40. VALOR: '4 places en 2 lits matelassés '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Leziou ou des Clots de Dessus
+
+41. VALOR: '4 sommiers métalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Oule
+
+42. VALOR: '5 lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Aueran
+
+43. VALOR: '6 couchettes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Salountere (Vieille)
+
+44. VALOR: '6 lits avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du lac de Montarrouye
+
+45. VALOR: '6 lits en bas et 6 matelas en '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aula
+
+46. VALOR: '6 lits superposés (3x2)'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de La Chapelle de l'Isard
+
+47. VALOR: '6 lits superposés + 1 bat-flan'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Subera
+
+48. VALOR: '7 sommiers métalliques sur deu'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge du Pic du Gar
+
+49. VALOR: 'Bas flancs bois superposés'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge cabane Pesson
+
+50. VALOR: 'Deux lits superposés avec 1 se'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Quillon
+
+51. VALOR: 'Lit'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Isarce
+
+52. VALOR: 'Lit avec matelas pour 2 person'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Pla de Tabe
+
+53. VALOR: 'Lit metallique + matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Prat-Cazeneuve Ou Aygues Tortes
+
+54. VALOR: 'Lit métallique'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Loubère
+
+55. VALOR: 'Lit superpose metallique. plan'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'lhet
+
+56. VALOR: 'Lits + Mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Courrau d'Artigue
+
+57. VALOR: 'Lits en bois RDC + plancher so'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Illau
+
+58. VALOR: 'Lits superposés avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana dels rasos 
+
+59. VALOR: 'Lits superposés pour 4 personn'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Guzettou (Guzet)
+
+60. VALOR: 'Sol en béton. Lit pour deux personnes'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Saleras
+
+61. VALOR: 'Sommier métalique'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugi Sant Jordi (Coll de Jou)
+
+62. VALOR: 'Sommiers métalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Rialp
+
+63. VALOR: 'couchettes'
+    Nombre de refugis: 1
+    Refugis:
+      - Abri de La Jasse de Bernardi
+
+64. VALOR: 'couchettes superposées'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Turguilla
+
+65. VALOR: 'deux bat-flanc superposés avec'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Sauzet
+
+66. VALOR: 'deux lits superposes'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge d'Ouscouaou
+
+67. VALOR: 'deux lits superposés (4 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Jasse Pratmau
+
+68. VALOR: 'deux lits superposés avec mate'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lacure
+
+69. VALOR: 'deux vieux sommiers métallique'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Col de Louron (ou Coume de Baque)
+
+70. VALOR: 'lit avec matelas 1 place'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de Linza
+
+71. VALOR: 'lit superposé sur matelas + co'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Lee
+
+72. VALOR: 'lits métalliques'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane Pleta Serrera
+      - Maison des Ingenieurs du Lanoux
+
+73. VALOR: 'lits superposés'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane Pouey Aspe
+      - Refuge Packe
+      - Refuge du Besiberri (Le Nouveau)
+
+74. VALOR: 'lits, mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane det Caillau
+
+75. VALOR: 'lits, sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Esclozes
+
+76. VALOR: 'matelas en mousse + sommier mé'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Bousadus du Bas
+
+77. VALOR: 'non mais 2 grands lits superpo'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Col de La Terme
+
+78. VALOR: 'non mais présence de lits supe'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Uls
+
+79. VALOR: 'oui (2 places lit superposé + 2x2 places sur planches dans pièce close à l'arrière)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Cortal de Batoua
+
+80. VALOR: 'sommier bois'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Ourdouas
+
+81. VALOR: 'sommier à ressort, sol bétonné'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pourcibo
+
+82. VALOR: 'sommiers métalliques'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane del suel de Baixada
+
+83. VALOR: 'un lit avec matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Campsaure
+
+84. VALOR: 'un vieux sommier et un tres vi'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Sausse Dessus
+
+85. VALOR: 'une couchette 2 places en serr'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Coume d'Anyell
+
+============================================================
+
+GRUP: MEZZANINE/ÉTAGE
+----------------------------------------
+Descripció: Valors relacionats amb dormir en alçada o mezzanines
+Total de valors diferents: 52
+
+ 1. VALOR: '1 étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Aoua
+
+ 2. VALOR: '2 matelas mousse à l'étage '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Forestier du Laurenti
+
+ 3. VALOR: '2 planchers superposés avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Piedarlau
+
+ 4. VALOR: '4 en bas bat-flanc + 4 en haut'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pelates
+
+ 5. VALOR: '4 en bas et 4 en haut'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Taus du Valier
+
+ 6. VALOR: '4 places en haut et 2 places e'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Besset
+
+ 7. VALOR: 'A l etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Quioules
+
+ 8. VALOR: 'Bas flancs + etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Eychelle
+
+ 9. VALOR: 'Bas flancs en mezzanine'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane d'Arrègatiou
+      - Cabane de Lapassa (sous refuge Arlet)
+      - Cap de Pount
+
+10. VALOR: 'Bas flancs sur 3 étages + mate'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge des Espugues
+
+11. VALOR: 'Couchage sur plancher à l'étag'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge forestier du Cualot
+
+12. VALOR: 'Couchage à l'étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane forestiere du col de Crouzette
+
+13. VALOR: 'Couchage à l'étage sur planche'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Sarrouges (ou de la Fontaine de Sarrouges)
+
+14. VALOR: 'Couchage à l'étage, 2 matelas '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Estiouere
+
+15. VALOR: 'Couchages à l'étage (sol bois '
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Artiga de Lin
+
+16. VALOR: 'Dortoir à l'étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de la Gola
+
+17. VALOR: 'En bois, sur 2 étages'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Pla Guillem
+
+18. VALOR: 'En haut : plancher en bois pro'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Lasplanous
+
+19. VALOR: 'Etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Ansabère
+
+20. VALOR: 'Lits + Mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Courrau d'Artigue
+
+21. VALOR: 'Lits en bois RDC + plancher so'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Illau
+
+22. VALOR: 'Mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Brouquenat d'En Haut
+
+23. VALOR: 'Non. Plancher en bois à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Tariolle
+
+24. VALOR: 'Oui + grenier.'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Hourmigue
+
+25. VALOR: 'Place pour 4 sur la mezzanine '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lapassa (Ronglet - Col Iseye)
+
+26. VALOR: 'Plancher'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Salode
+
+27. VALOR: 'Plancher a l etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Ourtiga
+
+28. VALOR: 'Plancher en étage pour dormir'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Etang d'Araing
+
+29. VALOR: 'Plancher sur mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Udapet du Bas
+
+30. VALOR: 'Plancher sur mezzanine avec ma'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Gourgue Sec
+
+31. VALOR: 'Sur plancher en mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Pacheu (Arlet)
+
+32. VALOR: 'Un bat-flanc 2 pers, mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Caillaous
+
+33. VALOR: 'bat-flanc en mezzanine pour 2-'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Herran (Hosce)
+
+34. VALOR: 'couchage en mezzanine (2 matel'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Campuls
+
+35. VALOR: 'couchage pour 3 ou 4 en mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Courtaou du Teilhet
+
+36. VALOR: 'couchage à l etage'
+    Nombre de refugis: 1
+    Refugis:
+      - Refugio de los Fenales
+
+37. VALOR: 'couchage à l'étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Roque
+
+38. VALOR: 'couchage à l'étage '
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane forestiere de Gesties
+
+39. VALOR: 'lits, mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane det Caillau
+
+40. VALOR: 'mezzanine'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lamarda
+
+41. VALOR: 'mezzanine avec matels pour 4'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane des Carmilles (Tartie ou Aynat)
+
+42. VALOR: 'mezzanine avec échelle'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Layous
+
+43. VALOR: 'mezzanine en bois'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane d'Ardinet
+      - Cabane du Cap de La Baitch
+
+44. VALOR: 'mezzanine pour 6 places'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Pontet
+
+45. VALOR: 'mezzanine, matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana Pleta del Duc
+
+46. VALOR: 'non mais un grand plancher à l'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Contraire
+      - Cabane de Saribarolles
+
+47. VALOR: 'plancher en bois pour 5 person'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du col des Cassaings
+
+48. VALOR: 'plancher en hauteur pour dormi'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge Col de l'Herbe Soulette
+
+49. VALOR: 'plancher sommaire'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de l'Artigues
+
+50. VALOR: 'plancher à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Luzurs
+
+51. VALOR: 'plancher étage'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Coumeda
+
+52. VALOR: 'à l'étage sur plancher avec de'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Artigueluz
+
+============================================================
+
+GRUP: NÉGATIF
+----------------------------------------
+Descripció: Valors que indiquen absència de couchage
+Total de valors diferents: 37
+
+ 1. VALOR: 'NON'
+    Nombre de refugis: 4
+    Refugis:
+      - Abri du cimetierre anglo-canadien de Douly
+      - Cabane de Bazets
+      - Cabane de la Labère
+      - Cabane de la Prade
+
+ 2. VALOR: 'Nada'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Bastard
+
+ 3. VALOR: 'Non'
+    Nombre de refugis: 39
+    Refugis:
+      - Abri Michaud
+      - Abri de Port Vieux de Bielsa
+      - Abri de Tarabaus
+      - Borda las bacias (Loma la Estiva)
+      - Cabana Pegueras /chardal
+      - Cabana d'els millars / millares
+      - Cabana de Pomaròla
+      - Cabana de las Pardas
+      - Cabana de salcorz
+      - Cabanas d'els Leners
+      ... i 29 refugis més
+
+ 4. VALOR: 'Non (sol en terre ?)'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de la ribera de boldis
+
+ 5. VALOR: 'Non mais 2 matelas que l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Arrouge
+
+ 6. VALOR: 'Non, couchage au sol'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana eth Santet
+
+ 7. VALOR: 'Non, couchage au sol ou sur le'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Turon de Béne
+
+ 8. VALOR: 'Non, couchage sur le sol'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Tousaus
+      - Cabane de la Coumeders
+
+ 9. VALOR: 'Non, terre battue'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Trapech du Haut
+
+10. VALOR: 'Non. Couchage à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Col d'Eliet
+
+11. VALOR: 'Non. Plancher en bois à l'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Tariolle
+
+12. VALOR: 'Néant'
+    Nombre de refugis: 3
+    Refugis:
+      - Cabane de Counc
+      - Cabane de Peyreget
+      - Orri de Goulier
+
+13. VALOR: 'Négatif'
+    Nombre de refugis: 4
+    Refugis:
+      - Cabane de la Devèze
+      - Cabane de la Trincade
+      - Cabane du Col Mazel
+      - Refuge Eaux & Forêts du Col de Port
+
+14. VALOR: 'Pas de bas flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Maucapera
+
+15. VALOR: 'Pas de bas flancs : couchage s'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Lauzeron
+
+16. VALOR: 'Pas de bat-flanc pour la nuit'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Barguerasses
+
+17. VALOR: 'Pas de bat-flanc. Un vieux som'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Mine
+
+18. VALOR: 'Pas de matelas'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Cortia ou de Delà Cazau
+
+19. VALOR: 'Rien'
+    Nombre de refugis: 1
+    Refugis:
+      - Hospice du Rioumajou
+
+20. VALOR: 'aucun'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Greziolles
+
+21. VALOR: 'neant'
+    Nombre de refugis: 1
+    Refugis:
+      - Mon Fre de l'Orri
+
+22. VALOR: 'non'
+    Nombre de refugis: 57
+    Refugis:
+      - Abri Kondendiagako Lepoa
+      - Abri de La Fontaine de Moreres
+      - Abri de Mariolo
+      - Abri de pierre de la Cabanella
+      - Bergerie de Nabails
+      - Cabana d'Estanho
+      - Cabana de Batisielles
+      - Cabana de Gessa
+      - Cabane Bladas
+      - Cabane Cortail de Prat
+      ... i 47 refugis més
+
+23. VALOR: 'non '
+    Nombre de refugis: 2
+    Refugis:
+      - Barraca de l'Agre
+      - cabana Ordices (ordicez)
+
+24. VALOR: 'non mais 2 grands lits superpo'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du Col de La Terme
+
+25. VALOR: 'non mais 4 ou 5 matelas en mou'
+    Nombre de refugis: 1
+    Refugis:
+      - Refuge de Tabernes
+
+26. VALOR: 'non mais présence de lits supe'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane d'Uls
+
+27. VALOR: 'non mais un grand plancher à l'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Contraire
+      - Cabane de Saribarolles
+
+28. VALOR: 'non, prévoir une bâche.'
+    Nombre de refugis: 1
+    Refugis:
+      - Orri El Carduso
+
+29. VALOR: 'non, rien'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Llegunes-Gelat
+
+30. VALOR: 'non, sol en béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Capet
+
+31. VALOR: 'non, sol sale'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabana de la Cuta (dios te salve)
+
+32. VALOR: 'néant'
+    Nombre de refugis: 2
+    Refugis:
+      - Abri de l'étang glacé du Mont Perdu
+      - cabane pontet de rius
+
+33. VALOR: 'pas de bas flanc'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de la Larri
+
+34. VALOR: 'pas de bas flancs'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane de Artats
+
+35. VALOR: 'pas de bat-flanc, sol béton'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane Col de Bareges
+
+36. VALOR: 'rien pour dormir'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane de Anso
+      - Cabane du Fourquet
+
+37. VALOR: 'rien, de la terre propre'
+    Nombre de refugis: 1
+    Refugis:
+      - Orri de la jasse de Gaberseil
+
+============================================================
+
+GRUP: NUMÉRIC
+----------------------------------------
+Descripció: Valors purament numèrics
+Total de valors diferents: 7
+
+ 1. VALOR: '0'
+    Nombre de refugis: 24
+    Refugis:
+      - Abri de Pla Guillem
+      - Abri sous roche de Gréziolles
+      - Cabane d'Usategieta
+      - Cabane de Aas
+      - Cabane de Cayrol
+      - Cabane de Coma Joan
+      - Cabane de Gainekoborda
+      - Cabane de la Jaça de Palau
+      - Cabane de la Serre Traversière
+      - Cabane des Triadors
+      ... i 14 refugis més
+
+ 2. VALOR: '1'
+    Nombre de refugis: 10
+    Refugis:
+      - Cabane Arrodets
+      - Cabane Col del Pal
+      - Cabane de Hourdouch
+      - Cabane de Scaraouettes
+      - Cabane du Mont-Ceint
+      - Cabane du Planet
+      - Cabane forestière forêt domaniale de l'Hospitalet
+      - Refuge du Coll de Vent
+      - Refuge forestier d'Espousouillette
+      - refuge du Baillat
+
+ 3. VALOR: '2'
+    Nombre de refugis: 10
+    Refugis:
+      - Abri de Coll Roig
+      - Abri du Pla del Buc
+      - Barrage lac Caillaouas
+      - Cabana Foratarruego
+      - Cabana de Moredo
+      - Cabana dels Gonec
+      - Cabane de Coumayret
+      - Cabane de Mazouaous (Mount Agut)
+      - Cabane du pont de Lamary
+      - Orri de Saleix
+
+ 4. VALOR: '3'
+    Nombre de refugis: 1
+    Refugis:
+      - Cabane du campalou
+
+ 5. VALOR: '4'
+    Nombre de refugis: 5
+    Refugis:
+      - Abri de Etang Tort
+      - Coume Grande
+      - Refugi de Quatrepins
+      - Refugio Buenavista
+      - Refugio as ruablas
+
+ 6. VALOR: '5'
+    Nombre de refugis: 2
+    Refugis:
+      - Cabane du col de Castillon
+      - Courtaou de Tire-Moureou
+
+ 7. VALOR: '6'
+    Nombre de refugis: 7
+    Refugis:
+      - Barraque de les Colomates
+      - Cabane Icheus
+      - Cabane de Besse
+      - Cabane de Cuarde
+      - Cabane de Piejau
+      - Cabanes du Col de Beyrède
+      - Refuge de Larry
+
+============================================================
+

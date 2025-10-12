@@ -150,6 +150,9 @@ def main():
     print("Renombrant camps 'nom' i 'places_matelas'...")
     final_data = rename_fields(renamed_data)
     
+    print("Normalitzant camp 'places'...")
+    final_data = normalize_places_field(final_data)
+    
     print(f"Guardant dades normalitzades a {output_file}...")
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -176,6 +179,33 @@ def rename_fields(data):
         refugis_modificats += 1
     
     print(f"S'han modificat {refugis_modificats} refugis: canviat 'nom' → 'name' i 'places_matelas' → 'matelas'.")
+    return data
+
+def normalize_places_field(data):
+    """
+    Normalitza el camp 'places': si és un string i no un número, el posa a null.
+    """
+    refugis_modificats = 0
+    
+    for refugi in data.get("nodes", []):
+        if "places" in refugi:
+            places_val = refugi["places"]
+            
+            # Si és un string, intentar convertir-lo a número
+            if isinstance(places_val, str):
+                try:
+                    # Intentar convertir a enter
+                    refugi["places"] = int(places_val)
+                except ValueError:
+                    try:
+                        # Intentar convertir a float
+                        refugi["places"] = float(places_val)
+                    except ValueError:
+                        # Si no es pot convertir a número, posar null
+                        refugi["places"] = None
+                        refugis_modificats += 1
+    
+    print(f"S'han normalitzat {refugis_modificats} refugis amb 'places' string convertides a null.")
     return data
 
 if __name__ == "__main__":

@@ -1230,7 +1230,7 @@
         "lat": 42.60379
       },
       "altitude": 2065,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Cabane fermée Une source se situe plein Nord dans le plat herbeux. Un tuyau la capte. Pensez à traiter l'eau dans cette zone pastorale. D'après une info de 2024, Le point d'eau indiqué ne fonctionne pas.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -1542,7 +1542,7 @@
         "lat": 42.60942
       },
       "altitude": 2198,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Cabane réservée aux bergers en période d'estive (juin - octobre).",
       "info_comp": {
         "manque_un_mur": 0,
@@ -3791,7 +3791,7 @@
         "lat": 42.78191
       },
       "altitude": 1697,
-      "places": "Fermée",
+      "places": null,
       "remarque": "A noter un robinet à l'extérieur de la cabane (fonctionnel en juin 2021).",
       "info_comp": {
         "manque_un_mur": 0,
@@ -4102,7 +4102,7 @@
         "lat": 42.79769
       },
       "altitude": 1060,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Cabane située à l'entrée du Plat de l'Artigue, face à la cascade d'Arcouzan.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -5349,7 +5349,7 @@
         "lat": 42.87852
       },
       "altitude": 1550,
-      "places": "Fermée",
+      "places": null,
       "remarque": "L'eau coulant au Sud de la Cabane, coté de la mouillère est polluée.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -5401,7 +5401,7 @@
         "lat": 42.83049
       },
       "altitude": 1330,
-      "places": "Fermée",
+      "places": null,
       "info_comp": {
         "manque_un_mur": 0,
         "cheminee": 0,
@@ -5556,7 +5556,7 @@
         "lat": 42.77693
       },
       "altitude": 1892,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Quelques tables de pique-nique autour du refuge. Le 1er arbre est très loin !",
       "info_comp": {
         "manque_un_mur": 0,
@@ -6498,7 +6498,7 @@
         "lat": 42.71427
       },
       "altitude": 2460,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Refuge situé à l'Est du [->4530], juste un peu au-dessus, au pied de la Tusse de Prat Long.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -6525,7 +6525,7 @@
         "lat": 42.85113
       },
       "altitude": 1860,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Une nouvelle cabane pastorale se trouve juste au dessus de celle-ci.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -6681,7 +6681,7 @@
         "lat": 42.86503
       },
       "altitude": null,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Sur le GR 10 à 2h de la basse vallée et 1h30 d'Esclot d'Aou col.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -7098,7 +7098,7 @@
         "lat": 42.9588
       },
       "altitude": 1090,
-      "places": "Bon état général de la cabane - Table, banc - Pas de source mais un petit cours d'eau qui passe à côté, peu d'eau en été - Cheminée - Scies, grilles pour le barbecue, balai - Un étage avec deux matelas",
+      "places": null,
       "remarque": "Bon état général de la cabane - Table, banc - Pas de source mais un petit cours d'eau qui passe à côté, peu d'eau en été - Cheminée - Scies, grilles pour le barbecue, balai - Un étage avec deux matelas",
       "info_comp": {
         "manque_un_mur": 0,
@@ -7669,7 +7669,7 @@
         "lat": 43.01616
       },
       "altitude": 920,
-      "places": "Fermée",
+      "places": null,
       "remarque": "GRP Tour de la vallée d'Ossau",
       "info_comp": {
         "manque_un_mur": 0,
@@ -9333,7 +9333,7 @@
         "lat": 43.0141
       },
       "altitude": 1290,
-      "places": "Cabane utilisé par le berger en été mais ouverte hors période. Cheminée avec un peu de bois. table et banc mais rien pour le couchage",
+      "places": null,
       "remarque": "Cabane utilisé par le berger en été mais ouverte hors période. Cheminée avec un peu de bois. table et banc mais rien pour le couchage",
       "info_comp": {
         "manque_un_mur": 0,
@@ -9696,7 +9696,7 @@
         "lat": 42.7377
       },
       "altitude": 2060,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Ouverte, avec deux pièces : une cuisine, une chambre. Cuisine étonnamment équipée d'un évier mais il n'y a pas d'eau dans la cabane ni à proximité, gazinière, couverts et pas mal de conserves, mais toutes périmées depuis longtemps ! Chambre équipée de matelas et couvertures, toutefois l'état de saleté de cette pièce ainsi que la présence bien visible d'un produits contre les rats n'incite guère à y passer la nuit. Abri néanmoins bien pratique si le temps tourne mal. Source derrière la cabane (dir. Est), captée.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -11076,7 +11076,7 @@
         "lat": 42.8135
       },
       "altitude": 2140,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Fermée (pas pu vérifier).",
       "info_comp": {
         "manque_un_mur": 0,
@@ -11153,7 +11153,7 @@
         "lat": 42.70354
       },
       "altitude": null,
-      "places": "Cabane restaurée en 2020. Poêle. Table. Bancs. Pas de couchages.",
+      "places": null,
       "remarque": "Cabane restaurée en 2020. Poêle. Table. Bancs. Pas de couchages.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -11466,7 +11466,7 @@
         "lat": 42.49724
       },
       "altitude": 1068,
-      "places": "-isolation : inconnu -vaisselle : inconnu -table, bancs : OUI, tout est en béton -outils disponibles : inconnu -clés à aller chercher : ouvert juin 2024; pas d'information sur son ouverture à l'année -refuge austère de grande taille accolé à une très grande bergerie -possibilité de dormir au sol (matelas à prévoir) pour au moins 4 personnes -cheminée ou poêle dans le refuge : oui, à visiter pour en savoir plus -eau : fontaine juste à côté du refuge",
+      "places": null,
       "remarque": "-isolation : inconnu -vaisselle : inconnu -table, bancs : OUI, tout est en béton -outils disponibles : inconnu -clés à aller chercher : ouvert juin 2024; pas d'information sur son ouverture à l'année -refuge austère de grande taille accolé à une très grande bergerie -possibilité de dormir au sol (matelas à prévoir) pour au moins 4 personnes -cheminée ou poêle dans le refuge : oui, à visiter pour en savoir plus -eau : fontaine juste à côté du refuge",
       "info_comp": {
         "manque_un_mur": 0,
@@ -13625,7 +13625,7 @@
         "lat": 42.5089
       },
       "altitude": 1950,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Petite cabane en pierre, notée comme abri sur les cartes IGN et OTM [color=red]mais il s'agit d'une erreur.[/color] http://www.pyrenees-refuges.com/fr/affiche.php?numenr=356#15/42.5090/1.7835 [color=red][b]Cabane fermée au public et réservé au berger[/b][/color]",
       "info_comp": {
         "manque_un_mur": 0,
@@ -16014,7 +16014,7 @@
         "lat": 42.64978
       },
       "altitude": 271,
-      "places": "Cabane sans porte avec canapé et petite table",
+      "places": null,
       "info_comp": {
         "manque_un_mur": 1,
         "cheminee": 0,
@@ -16325,7 +16325,7 @@
         "lat": 42.4562
       },
       "altitude": 640,
-      "places": "Ce n'est pas une cabane/abri/refuge, mais une chapelle très bien restaurée et entretenue par une association, qui reste toujours ouverte. Il n'y a pas de panneau disant que le bivouac ou de dormir à l'intérieur est interdit ou autorisé, mais je pense qu'on peut y dormir à l'intérieur à condition de ne laisser aucune trace bien sur, si ce n'est un mot de remerciement ou un don pour l'asso. :) Le site est très joli, il y a une belle vue, des tables de pique-nique, et la chapelle offre un très joli abri contre le soleil ou les intempéries. Si vous êtes sur une traversée des Pyrénées, passer par ici ainsi que par les gorges de la rivière Mondony est une belle alternative au GR10 ou à la HRP. Il y a une source pas loin.",
+      "places": null,
       "remarque": "Ce n'est pas une cabane/abri/refuge, mais une chapelle très bien restaurée et entretenue par une association, qui reste toujours ouverte. Il n'y a pas de panneau disant que le bivouac ou de dormir à l'intérieur est interdit ou autorisé, mais je pense qu'on peut y dormir à l'intérieur à condition de ne laisser aucune trace bien sur, si ce n'est un mot de remerciement ou un don pour l'asso. :) Le site est très joli, il y a une belle vue, des tables de pique-nique, et la chapelle offre un très joli abri contre le soleil ou les intempéries. Si vous êtes sur une traversée des Pyrénées, passer par ici ainsi que par les gorges de la rivière Mondony est une belle alternative au GR10 ou à la HRP. Il y a une source pas loin.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -16716,7 +16716,7 @@
         "lat": 42.77833
       },
       "altitude": 2250,
-      "places": "Cabane en pierre, aperçue depuis le chemin qui rejoint le Mont Valier depuis le Port d'Aula.",
+      "places": null,
       "remarque": "Cabane en pierre, aperçue depuis le chemin qui rejoint le Mont Valier depuis le Port d'Aula.",
       "info_comp": {
         "manque_un_mur": 0,
@@ -17136,7 +17136,7 @@
         "lat": 42.67822
       },
       "altitude": 1480,
-      "places": "Fermée",
+      "places": null,
       "remarque": "Cabane située au bout de la route qui remonte la vallée de l'Artiga du Lin (route payante après la chapelle en saison estivale), juste après le refuge gardé éponyme.",
       "info_comp": {
         "manque_un_mur": 0,

@@ -1,0 +1,568 @@
+REFUGIS AMB MÚLTIPLES TIPUS
+==================================================
+
+Total refugis amb múltiples tipus: 75
+
+LLISTA DETALLADA:
+----------------------------------------
+  1. Abri de La Jasse de Bernardi
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+  2. Abri de Pla Guillem
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+  3. Barraca de Tirapits
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+  4. Cabana del Tormo ( Turmo)
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+  5. Cabane Aguilous
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+  6. Cabane Benaques
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+  7. Cabane Bentaillou
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+  8. Cabane Campcardos
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+  9. Cabane Campuls
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 10. Cabane Estables
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 11. Cabane Estall Serrer
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 12. Cabane Eychelle
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 13. Cabane Jasse des Llerbes
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 14. Cabane Lucharry
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 15. Cabane Roc de Sorgeat
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 16. Cabane d'Ansabère
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 17. Cabane d'Arrious
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 18. Cabane d'Arrouge
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 19. Cabane d'Auruzan
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 20. Cabane de Aas
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+ 21. Cabane de Barlonguere
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 22. Cabane de Besse
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 23. Cabane de Cayalatte
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 24. Cabane de Cujalate
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 25. Cabane de Gerus
+     Nombre de tipus: 2
+     Tipus:
+       1. Détruite
+       2. cabane ouverte
+
+ 26. Cabane de Hounta
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 27. Cabane de La Jasse de Ganyades
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 28. Cabane de Lacure
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+ 29. Cabane de Lameza
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 30. Cabane de Llassies
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 31. Cabane de Marti-Peyras
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 32. Cabane de Mirabail
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 33. Cabane de Tessoula
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 34. Cabane de Tremul
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 35. Cabane de Yese
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 36. Cabane de l'Artigues
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 37. Cabane de l'Etang d'Embizon
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 38. Cabane de l'Ouillat
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 39. Cabane de la Collada de Meners
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 40. Cabane de la Courbe
+     Nombre de tipus: 2
+     Tipus:
+       1. (buit)
+       2. Fermée
+
+ 41. Cabane de la Devesa
+     Nombre de tipus: 2
+     Tipus:
+       1. (buit)
+       2. cabane ouverte
+
+ 42. Cabane de la Flache de Roumingau
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+ 43. Cabane de la Houradade
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 44. Cabane de la Lude
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+ 45. Cabane de la Rebenne
+     Nombre de tipus: 2
+     Tipus:
+       1. Détruite
+       2. cabane ouverte
+
+ 46. Cabane des Maurets (ou Maourets)
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 47. Cabane des Pugues
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 48. Cabane du Cap de La Baitch
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 49. Cabane du Col de La Terme
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 50. Cabane du Col des Cos
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 51. Cabane du Lustou
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 52. Cabane du campalou
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+ 53. Cabane du pont de Lamary
+     Nombre de tipus: 2
+     Tipus:
+       1. (buit)
+       2. cabane ouverte
+
+ 54. Cabane pastorale d'Arreau (Areou)
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+ 55. Cabane supérieure d'Uls
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+ 56. Cabanes de Gazies
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 57. Cap de Pount
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 58. Orri de Bousadus du Haut
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 59. Orri de Boutas
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 60. Orri de Bretounels
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 61. Orri de Moura
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 62. Orri de la Casteille
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 63. Orri de la Font de Jordana
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 64. Orri des Ludines
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 65. Refuge Alphonse XIII
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane fermee
+
+ 66. Refuge Brougnic
+     Nombre de tipus: 2
+     Tipus:
+       1. Fermée
+       2. cabane ouverte mais ocupee par le berger l ete
+
+ 67. Refuge Forestier de Gaffouil
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+ 68. Refuge de La Fruitiére
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 69. Refuge forestier d'Arreau (ou Areou)
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 70. Refuge forestier du Fournet
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 71. Refuge maupas LHM
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. Fermée
+
+ 72. Refugio de Ganado
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+ 73. Toue Labassa
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 74. Toue de Cetira
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. orri toue abri en pierre
+
+ 75. cabane Route du col du Pradel
+     Nombre de tipus: 2
+     Tipus:
+       1. cabane ouverte
+       2. cabane fermee
+
+
+==================================================
+RESUM PER NOMBRE DE TIPUS:
+------------------------------
+Refugis amb 2 tipus: 75
+
+==================================================
+COMBINACIONS DE TIPUS TROBADES:
+-----------------------------------
+1. Combinació: (buit) + Fermée
+   Refugis amb aquesta combinació (1):
+   - Cabane de la Courbe
+
+2. Combinació: (buit) + cabane ouverte
+   Refugis amb aquesta combinació (2):
+   - Cabane de la Devesa
+   - Cabane du pont de Lamary
+
+3. Combinació: Détruite + cabane ouverte
+   Refugis amb aquesta combinació (2):
+   - Cabane de Gerus
+   - Cabane de la Rebenne
+
+4. Combinació: Fermée + cabane fermee
+   Refugis amb aquesta combinació (6):
+   - Cabana del Tormo ( Turmo)
+   - Cabane de la Lude
+   - Cabane du campalou
+   - Cabane pastorale d'Arreau (Areou)
+   - Cabane supérieure d'Uls
+   - Refuge Alphonse XIII
+
+5. Combinació: Fermée + cabane ouverte
+   Refugis amb aquesta combinació (16):
+   - Abri de La Jasse de Bernardi
+   - Cabane Bentaillou
+   - Cabane Campcardos
+   - Cabane d'Arrious
+   - Cabane de La Jasse de Ganyades
+   - Cabane de Lameza
+   - Cabane de Mirabail
+   - Cabane de Tremul
+   - Cabane de l'Artigues
+   - Cabane des Maurets (ou Maourets)
+   - Cabane des Pugues
+   - Cabane du Lustou
+   - Refuge de La Fruitiére
+   - Refuge forestier d'Arreau (ou Areou)
+   - Refuge forestier du Fournet
+   - Refuge maupas LHM
+
+6. Combinació: Fermée + cabane ouverte mais ocupee par le berger l ete
+   Refugis amb aquesta combinació (1):
+   - Refuge Brougnic
+
+7. Combinació: cabane fermee + cabane ouverte
+   Refugis amb aquesta combinació (7):
+   - Cabane Aguilous
+   - Cabane de Aas
+   - Cabane de Lacure
+   - Cabane de la Flache de Roumingau
+   - Refuge Forestier de Gaffouil
+   - Refugio de Ganado
+   - cabane Route du col du Pradel
+
+8. Combinació: cabane ouverte + cabane ouverte mais ocupee par le berger l ete
+   Refugis amb aquesta combinació (27):
+   - Cabane Benaques
+   - Cabane Campuls
+   - Cabane Estables
+   - Cabane Eychelle
+   - Cabane Jasse des Llerbes
+   - Cabane Lucharry
+   - Cabane Roc de Sorgeat
+   - Cabane d'Ansabère
+   - Cabane d'Arrouge
+   - Cabane d'Auruzan
+   - Cabane de Barlonguere
+   - Cabane de Besse
+   - Cabane de Cayalatte
+   - Cabane de Cujalate
+   - Cabane de Hounta
+   - Cabane de Llassies
+   - Cabane de Marti-Peyras
+   - Cabane de Tessoula
+   - Cabane de Yese
+   - Cabane de l'Etang d'Embizon
+   - Cabane de l'Ouillat
+   - Cabane de la Houradade
+   - Cabane du Cap de La Baitch
+   - Cabane du Col de La Terme
+   - Cabane du Col des Cos
+   - Cabanes de Gazies
+   - Cap de Pount
+
+9. Combinació: cabane ouverte + orri toue abri en pierre
+   Refugis amb aquesta combinació (13):
+   - Abri de Pla Guillem
+   - Barraca de Tirapits
+   - Cabane Estall Serrer
+   - Cabane de la Collada de Meners
+   - Orri de Bousadus du Haut
+   - Orri de Boutas
+   - Orri de Bretounels
+   - Orri de Moura
+   - Orri de la Casteille
+   - Orri de la Font de Jordana
+   - Orri des Ludines
+   - Toue Labassa
+   - Toue de Cetira
+

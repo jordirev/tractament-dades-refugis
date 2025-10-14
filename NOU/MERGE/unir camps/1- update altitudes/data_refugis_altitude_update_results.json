@@ -1,0 +1,820 @@
+{
+  "updated_refuges": [
+    {
+      "name": "Cabane \"Cortal del Cortils\"",
+      "coordinates": {
+        "lat": 42.28209138220432,
+        "long": 1.691519021987915
+      },
+      "new_altitude": 2235.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugi de Fitó",
+      "coordinates": {
+        "lat": 42.45477,
+        "long": 2.88443
+      },
+      "new_altitude": 488.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane des Courraux n°2",
+      "coordinates": {
+        "lat": 42.86503,
+        "long": 0.68213
+      },
+      "new_altitude": 1573.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane des Courraux n°1",
+      "coordinates": {
+        "lat": 42.86542,
+        "long": 0.68209
+      },
+      "new_altitude": 1573.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri nom inconnue",
+      "coordinates": {
+        "lat": 42.937,
+        "long": 0.2593
+      },
+      "new_altitude": 1350.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Caillong",
+      "coordinates": {
+        "lat": 42.70581,
+        "long": 2.05587
+      },
+      "new_altitude": 1492.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane des Calhaus",
+      "coordinates": {
+        "lat": 42.76818,
+        "long": 0.91007
+      },
+      "new_altitude": 1896.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Orri de l'Angoustrine",
+      "coordinates": {
+        "lat": 42.54,
+        "long": 1.99594
+      },
+      "new_altitude": 1945.0,
+      "original_altitude": null
+    },
+    {
+      "name": "cabane d'Ardengost",
+      "coordinates": {
+        "lat": 42.917180731525,
+        "long": 0.44215672881123
+      },
+      "new_altitude": 1657.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Atsout",
+      "coordinates": {
+        "lat": 42.823611,
+        "long": -0.585833
+      },
+      "new_altitude": 1647.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Ayzi",
+      "coordinates": {
+        "lat": 43.0461,
+        "long": -0.0882
+      },
+      "new_altitude": 1215.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri puig de les basses",
+      "coordinates": {
+        "lat": 42.465017743004,
+        "long": 2.9839255233277
+      },
+      "new_altitude": 938.0,
+      "original_altitude": null
+    },
+    {
+      "name": "abri Aigüeta de Batisielles",
+      "coordinates": {
+        "lat": 42.646598333656,
+        "long": 0.49263643233098
+      },
+      "new_altitude": 2316.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana de Batisielles",
+      "coordinates": {
+        "lat": 42.654296070337,
+        "long": 0.50998982001365
+      },
+      "new_altitude": 1943.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Bedeillere",
+      "coordinates": {
+        "lat": 42.704444,
+        "long": 2.0025
+      },
+      "new_altitude": 1683.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabne de Bernède",
+      "coordinates": {
+        "lat": 43.009244700297,
+        "long": 0.045512209633722
+      },
+      "new_altitude": 1294.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de la Besurta",
+      "coordinates": {
+        "lat": 42.6788545,
+        "long": 0.65008163
+      },
+      "new_altitude": 1906.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de BIARSAOU",
+      "coordinates": {
+        "lat": 42.852356676506,
+        "long": 0.64204555161525
+      },
+      "new_altitude": 1457.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Campilles",
+      "coordinates": {
+        "lat": 42.3388178,
+        "long": 2.02878418
+      },
+      "new_altitude": 1700.0,
+      "original_altitude": null
+    },
+    {
+      "name": "cabanes de Camoudiet",
+      "coordinates": {
+        "lat": 42.907896818602,
+        "long": 0.27831668316987
+      },
+      "new_altitude": 1455.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabanyes de Dalt Coma del Catllar",
+      "coordinates": {
+        "lat": 42.365829325904,
+        "long": 2.2720895168815
+      },
+      "new_altitude": 1431.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabanya del Ras de Catllar",
+      "coordinates": {
+        "lat": 42.362824890952,
+        "long": 2.2826349082487
+      },
+      "new_altitude": 1442.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Coma",
+      "coordinates": {
+        "lat": 42.660261062374,
+        "long": 0.52480115142979
+      },
+      "new_altitude": 1758.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabaña Cotatuero",
+      "coordinates": {
+        "lat": 42.657444331882,
+        "long": -0.040533528878979
+      },
+      "new_altitude": 1650.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri de cour Vic",
+      "coordinates": {
+        "lat": 42.7765,
+        "long": 1.120863
+      },
+      "new_altitude": 2013.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Chalet forestier de Courtal-Jouan",
+      "coordinates": {
+        "lat": 42.68,
+        "long": 1.845556
+      },
+      "new_altitude": 1525.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refuge forestier du Cualot",
+      "coordinates": {
+        "lat": 42.817290626842,
+        "long": 0.65416930097485
+      },
+      "new_altitude": 1459.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugi pleta de Dorria",
+      "coordinates": {
+        "lat": 42.344589090664,
+        "long": 2.0570507125827
+      },
+      "new_altitude": 1937.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane Edf",
+      "coordinates": {
+        "lat": 42.7052107,
+        "long": 1.86948242
+      },
+      "new_altitude": 837.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri du Coll de l'Espinas",
+      "coordinates": {
+        "lat": 42.453429767077,
+        "long": 2.9177449918421
+      },
+      "new_altitude": 871.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane d'Estanhs (ou lac de Laujo)",
+      "coordinates": {
+        "lat": 42.8003,
+        "long": 0.7664
+      },
+      "new_altitude": 1821.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de l'Estaque",
+      "coordinates": {
+        "lat": 42.932115348827,
+        "long": 0.41782426350894
+      },
+      "new_altitude": 1666.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane d'Esteil",
+      "coordinates": {
+        "lat": 42.626357145983,
+        "long": 1.7986677210524
+      },
+      "new_altitude": 2023.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugio de Ezcaurre",
+      "coordinates": {
+        "lat": 42.845961772893,
+        "long": -0.84457350762566
+      },
+      "new_altitude": 1597.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugio forestal Jaume Farré",
+      "coordinates": {
+        "lat": 42.399233080042,
+        "long": 2.328855246169
+      },
+      "new_altitude": 1978.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Barraca de la Baga de Feliu",
+      "coordinates": {
+        "lat": 42.360775609496,
+        "long": 2.1036678818612
+      },
+      "new_altitude": 2101.0,
+      "original_altitude": null
+    },
+    {
+      "name": "refuge fontfrèda",
+      "coordinates": {
+        "lat": 42.596452,
+        "long": 2.274602
+      },
+      "new_altitude": 1785.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Orri du col de las Fouzès",
+      "coordinates": {
+        "lat": 42.767718154246,
+        "long": 1.4045873367119
+      },
+      "new_altitude": 1927.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana de Gessa",
+      "coordinates": {
+        "lat": 42.73697,
+        "long": 0.962169
+      },
+      "new_altitude": 1942.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Barraca de Gombrèn",
+      "coordinates": {
+        "lat": 42.385770691785,
+        "long": 2.151276511912
+      },
+      "new_altitude": 2164.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane pastorale du Gourgot ",
+      "coordinates": {
+        "lat": 42.814025,
+        "long": 1.755714
+      },
+      "new_altitude": 1797.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Bordes d'Harpéa",
+      "coordinates": {
+        "lat": 43.032976351149,
+        "long": -1.1808479183738
+      },
+      "new_altitude": 874.0,
+      "original_altitude": null
+    },
+    {
+      "name": "cabane Herraou",
+      "coordinates": {
+        "lat": 42.958554329294,
+        "long": 0.056052687083543
+      },
+      "new_altitude": 1361.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refuge du Barrage de Ip",
+      "coordinates": {
+        "lat": 42.724722,
+        "long": -0.461944
+      },
+      "new_altitude": 2142.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane Vuelta d'Iserias",
+      "coordinates": {
+        "lat": 42.75527799,
+        "long": -0.4797222
+      },
+      "new_altitude": 1773.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Orri de Joucarets",
+      "coordinates": {
+        "lat": 42.67034,
+        "long": 2.11144
+      },
+      "new_altitude": 1656.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri Forestier de  Juzet-d'Izaut",
+      "coordinates": {
+        "lat": 42.9640797,
+        "long": 0.75780334
+      },
+      "new_altitude": 917.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refuge de Lancise",
+      "coordinates": {
+        "lat": 42.83128949,
+        "long": 1.91205024
+      },
+      "new_altitude": 1377.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Larue",
+      "coordinates": {
+        "lat": 42.944165,
+        "long": -0.289823
+      },
+      "new_altitude": 2008.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabanas d'els Leners",
+      "coordinates": {
+        "lat": 42.634763819725,
+        "long": 0.40030407422366
+      },
+      "new_altitude": 2520.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Mailhs",
+      "coordinates": {
+        "lat": 42.907881101947,
+        "long": 0.27837040790977
+      },
+      "new_altitude": 1455.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana d'els millars / millares",
+      "coordinates": {
+        "lat": 42.640032212448,
+        "long": 0.40931629902437
+      },
+      "new_altitude": 2337.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Caseta de Montinier",
+      "coordinates": {
+        "lat": 42.618138821076,
+        "long": 0.19029782464032
+      },
+      "new_altitude": 1648.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Quèbe de Moundelhs",
+      "coordinates": {
+        "lat": 42.854822431097,
+        "long": -0.43745756149292
+      },
+      "new_altitude": 1845.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Narbios",
+      "coordinates": {
+        "lat": 42.980194187962,
+        "long": 0.12971147863022
+      },
+      "new_altitude": 1343.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Nat (Cot de yeou)",
+      "coordinates": {
+        "lat": 42.9116,
+        "long": -0.0079
+      },
+      "new_altitude": 1802.0,
+      "original_altitude": null
+    },
+    {
+      "name": "cabana Ordices (ordicez)",
+      "coordinates": {
+        "lat": 42.552349219316,
+        "long": 0.37032769623058
+      },
+      "new_altitude": 1826.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Orri de Trameillou",
+      "coordinates": {
+        "lat": 42.728687303076,
+        "long": 1.4914206519763
+      },
+      "new_altitude": 1557.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refuge EDF du Past",
+      "coordinates": {
+        "lat": 42.8134749,
+        "long": 0.92481311
+      },
+      "new_altitude": 1919.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Orri Clot de Sant Pere",
+      "coordinates": {
+        "lat": 42.354516365103,
+        "long": 2.3268324312481
+      },
+      "new_altitude": 1731.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugio de las planas del boz de Telera",
+      "coordinates": {
+        "lat": 42.701850178413,
+        "long": -0.34930898748645
+      },
+      "new_altitude": 1538.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refugio de la plana (Tella)",
+      "coordinates": {
+        "lat": 42.604336542419,
+        "long": 0.18400001544801
+      },
+      "new_altitude": 1885.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Planel Dhers",
+      "coordinates": {
+        "lat": 42.803914341067,
+        "long": 1.5132594585608
+      },
+      "new_altitude": 1729.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana Pleta del Duc",
+      "coordinates": {
+        "lat": 42.657969026644,
+        "long": 0.98679051542738
+      },
+      "new_altitude": 2107.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Grange La Poursiouque",
+      "coordinates": {
+        "lat": 43.049501902177,
+        "long": -0.56141805629884
+      },
+      "new_altitude": 1099.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Corral d'a Rabosera",
+      "coordinates": {
+        "lat": 42.39897954791,
+        "long": -0.81351417891454
+      },
+      "new_altitude": 1126.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana dels rasos ",
+      "coordinates": {
+        "lat": 42.504882510622,
+        "long": 1.1179018276063
+      },
+      "new_altitude": 1867.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri de la Rhune",
+      "coordinates": {
+        "lat": 43.307243228591,
+        "long": -1.6289698424833
+      },
+      "new_altitude": 838.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri de la Tosse de Riete",
+      "coordinates": {
+        "lat": 42.6667,
+        "long": 1.6536
+      },
+      "new_altitude": 2147.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Rouglan",
+      "coordinates": {
+        "lat": 42.884167,
+        "long": -0.553888
+      },
+      "new_altitude": 1212.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana del Roures",
+      "coordinates": {
+        "lat": 42.38759331475,
+        "long": 2.4002987136189
+      },
+      "new_altitude": 1503.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de berger du Port de Salau",
+      "coordinates": {
+        "lat": 42.7431,
+        "long": 1.1359
+      },
+      "new_altitude": 1948.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Xalet particular de Salenques (Cap de la Vall)",
+      "coordinates": {
+        "lat": 42.612501417728,
+        "long": 0.69775028496856
+      },
+      "new_altitude": 2414.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de salies",
+      "coordinates": {
+        "lat": 43.051140492396,
+        "long": -0.55635402057206
+      },
+      "new_altitude": 1114.0,
+      "original_altitude": null
+    },
+    {
+      "name": "coutaoù de Sarrède",
+      "coordinates": {
+        "lat": 42.934354050903,
+        "long": 0.22318105908383
+      },
+      "new_altitude": 1446.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane Fontaine de Saudech",
+      "coordinates": {
+        "lat": 42.882139705213,
+        "long": 0.77757759082159
+      },
+      "new_altitude": 1266.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Sencours",
+      "coordinates": {
+        "lat": 42.925571588163,
+        "long": 0.16345363856454
+      },
+      "new_altitude": 1956.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabana de Sendrosa de Baish",
+      "coordinates": {
+        "lat": 42.645473776741,
+        "long": 0.96130416787855
+      },
+      "new_altitude": 2141.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri de pierres estanys Siscarro (baix)",
+      "coordinates": {
+        "lat": 42.5866528,
+        "long": 1.70339584
+      },
+      "new_altitude": 2341.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabanas de Sorquero",
+      "coordinates": {
+        "lat": 42.718515865471,
+        "long": 0.76493427645889
+      },
+      "new_altitude": 1686.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de l'Etang Sourd",
+      "coordinates": {
+        "lat": 42.6961125,
+        "long": 1.40619498
+      },
+      "new_altitude": 1926.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Spelunguette",
+      "coordinates": {
+        "lat": 42.8561683,
+        "long": -0.6287547
+      },
+      "new_altitude": 1819.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri de Tarabaus",
+      "coordinates": {
+        "lat": 42.429502996598,
+        "long": 3.1036538212052
+      },
+      "new_altitude": 577.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane Estanyol de Tarterès",
+      "coordinates": {
+        "lat": 42.464637843371,
+        "long": 1.7813299249274
+      },
+      "new_altitude": 2155.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane de Touroun",
+      "coordinates": {
+        "lat": 43.01932,
+        "long": -0.65771
+      },
+      "new_altitude": 1430.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane deth Vaquer de Saplan",
+      "coordinates": {
+        "lat": 42.83875599,
+        "long": 0.6952777
+      },
+      "new_altitude": 1210.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Barraca de la Vaquerissa",
+      "coordinates": {
+        "lat": 42.351669966705,
+        "long": 2.1125209592039
+      },
+      "new_altitude": 1943.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Refuge du Coll de Vent",
+      "coordinates": {
+        "lat": 42.3129889,
+        "long": 0.61935423
+      },
+      "new_altitude": 1324.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Abri pastoral du Ventaillou",
+      "coordinates": {
+        "lat": 42.796187913286,
+        "long": 0.98143160997391
+      },
+      "new_altitude": 2205.0,
+      "original_altitude": null
+    },
+    {
+      "name": "Cabane du Cot de Yéous",
+      "coordinates": {
+        "lat": 42.900599931063,
+        "long": -0.0061579100211384
+      },
+      "new_altitude": 1479.0,
+      "original_altitude": null
+    }
+  ],
+  "failed_updates": [],
+  "statistics": {
+    "total_null_altitudes": 90,
+    "successful_updates": 90,
+    "failed_updates": 0
+  }
+}

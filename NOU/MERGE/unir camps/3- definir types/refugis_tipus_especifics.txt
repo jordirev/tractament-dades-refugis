@@ -1,0 +1,262 @@
+NOMS DELS REFUGIS AMB TIPUS ESPECÍFICS
+==================================================
+
+Total refugis trobats: 245
+
+TIPUS: 'cabane fermee' (157 refugis)
+----------------------------------------
+  1. Abri Esbas
+  2. Abri pastoral du Ventaillou
+  3. Barraca de l'Orri d'Aristot
+  4. Barraca de la Jaça
+  5. Boca Sur - Hospital de Viella
+  6. Bordes d'Harpéa
+  7. Bordes de Llessui
+  8. Cabana d'els millars / millares
+  9. Cabana de Geles
+ 10. Cabana de Loseron
+ 11. Cabana de Salient
+ 12. Cabana de barbarisa
+ 13. Cabana de la soma de la estiba
+ 14. Cabana del Tormo ( Turmo)
+ 15. Cabanas d'els Leners
+ 16. Cabane Aguilous
+ 17. Cabane Arriousec
+ 18. Cabane Barbat
+ 19. Cabane Beille den Bas
+ 20. Cabane Beille den Haut
+ 21. Cabane Borde de Passette
+ 22. Cabane Claude Tudon
+ 23. Cabane Col de Bazés
+ 24. Cabane Col de La Crouzette
+ 25. Cabane Col de l'Aouet
+ 26. Cabane Cure-Det-Cam
+ 27. Cabane Edf d'Estaens
+ 28. Cabane Escalac
+ 29. Cabane Espiau inf
+ 30. Cabane Gerieys
+ 31. Cabane Grosse
+ 32. Cabane Jaude (ou de Coucougnac)
+ 33. Cabane Jean Forgue
+ 34. Cabane Lac de Badet
+ 35. Cabane Lac de Binaros
+ 36. Cabane Matutano
+ 37. Cabane Mine
+ 38. Cabane Noire du Cuq Crémail
+ 39. Cabane Pastorale Descouloubre
+ 40. Cabane Privee de Sauzet
+ 41. Cabane Rieutort
+ 42. Cabane Tuc de l'Etang
+ 43. Cabane d'Ardane Pekoa
+ 44. Cabane d'Arizes
+ 45. Cabane d'Arrieu Tort
+ 46. Cabane d'Artigusse
+ 47. Cabane d'Aumède
+ 48. Cabane d'Esteil
+ 49. Cabane d'lhet
+ 50. Cabane de Aas
+ 51. Cabane de Atsout
+ 52. Cabane de Barestet
+ 53. Cabane de Berbegue
+ 54. Cabane de Bergout
+ 55. Cabane de Besur
+ 56. Cabane de Caderolles
+ 57. Cabane de Cap de Guerren
+ 58. Cabane de Cardouet
+ 59. Cabane de Casabede
+ 60. Cabane de Cestrede
+ 61. Cabane de Cinquet Débat
+ 62. Cabane de Conques (Viscos)
+ 63. Cabane de Coume Herrere
+ 64. Cabane de Courtal Gelat
+ 65. Cabane de Coussitirou
+ 66. Cabane de En Sur
+ 67. Cabane de Font-Negra
+ 68. Cabane de Fornells
+ 69. Cabane de Goutets
+ 70. Cabane de Hourques
+ 71. Cabane de Labatiadère
+ 72. Cabane de Lacarrats
+ 73. Cabane de Lacure
+ 74. Cabane de Literola
+ 75. Cabane de Lou Boucau
+ 76. Cabane de Mentiès
+ 77. Cabane de Montareing
+ 78. Cabane de Monteillé
+ 79. Cabane de Mouscadé
+ 80. Cabane de Napatch
+ 81. Cabane de Petsiguer
+ 82. Cabane de Planel Dhers
+ 83. Cabane de Port Bielh
+ 84. Cabane de Pouey
+ 85. Cabane de Sencours
+ 86. Cabane de Tousset
+ 87. Cabane de berger du Port de Salau
+ 88. Cabane de l'Estagnole
+ 89. Cabane de l'Estaque
+ 90. Cabane de l'Etang Garbet
+ 91. Cabane de l'Etang Sourd
+ 92. Cabane de la Besurta
+ 93. Cabane de la Flache de Roumingau
+ 94. Cabane de la Glere
+ 95. Cabane de la Grande Estibere
+ 96. Cabane de la Hosse (Payolle)
+ 97. Cabane de la Jasse des Espagnols
+ 98. Cabane de la Lude
+ 99. Cabane de la Plagne
+100. Cabane de la Serre Traversière
+101. Cabane de la Soula
+102. Cabane de la Unarde
+103. Cabane de salies
+104. Cabane du Bastan
+105. Cabane du Cap Detestes
+106. Cabane du Col de Carlong
+107. Cabane du Cot de Yéous
+108. Cabane du Coum
+109. Cabane du Docteur Pic
+110. Cabane du Ha
+111. Cabane du Lac d'Espingo
+112. Cabane du campalou
+113. Cabane pastorale d'Arreau (Areou)
+114. Cabane pastorale la Balmeta (nouvelle)
+115. Cabane supérieure d'Uls
+116. Cabanes de Arras
+117. Cabanes de l'ori / Soussouéou supérieur 
+118. Cabne de Bernède
+119. Caseta forestal dels Pollineres
+120. Centre pastoral de Peyrenère
+121. Chalet de Cillacères ou Sarrasans
+122. Corral des Bous
+123. Couloir de Caillauas
+124. Courtalets
+125. Granges du Moudang
+126. Gîte Retrouvance® de Terre d’Avenir ou Refuge du Port de Lers
+127. Herraou
+128. La Cabaneta
+129. Mailhs
+130. Maison forestiere de Sauzet
+131. Narbios
+132. Ourdou
+133. Refuge Alphonse XIII
+134. Refuge Col de Mente
+135. Refuge EDF du Past
+136. Refuge Forestier de Gaffouil
+137. Refuge Salvador
+138. Refuge de Bartat
+139. Refuge forestier de la Cabanella
+140. Refugi d'Urus / Pleta dels Ordiassos
+141. Refugi de Prat Miró
+142. Refugio Buxerbala
+143. Refugio Guarrinza ( La Cantina)
+144. Refugio de Cuello Arenas
+145. Refugio de Ganado
+146. Refugio de Santa Maria
+147. Refugio de Soaso
+148. Refugio militar de la Mina
+149. Tuhou Gran
+150. Xalet particular de Salenques (Cap de la Vall)
+151. cabane Herraou
+152. cabane La Manolette
+153. cabane Route du col du Pradel
+154. cabane Salle
+155. cabane d'Ardengost
+156. cabanes de Niouères
+157. granges du Dès
+
+TIPUS: 'Fermée' (55 refugis)
+----------------------------------------
+  1. Abri de La Jasse de Bernardi
+  2. Abri du stade de biathlon
+  3. Abri pastoral
+  4. Abri pastoral de Pouilh
+  5. Abri pastoral de la Tose de Riete
+  6. Cabana del Tormo ( Turmo)
+  7. Cabane Bentaillou
+  8. Cabane Campcardos
+  9. Cabane d'Arrious
+ 10. Cabane d'Ugatzé
+ 11. Cabane d'Urduas "Le Louch"
+ 12. Cabane de Campana
+ 13. Cabane de Cruzous
+ 14. Cabane de La Jasse de Ganyades
+ 15. Cabane de Lameza
+ 16. Cabane de Marioulète (dite cabane du Pic de Bazès)
+ 17. Cabane de Mirabail
+ 18. Cabane de Tremul
+ 19. Cabane de l'Artiga du Lin
+ 20. Cabane de l'Artigues
+ 21. Cabane de la Courbe
+ 22. Cabane de la Hosse (Ossau)
+ 23. Cabane de la Lauzate (ou du Mt Fourcat)
+ 24. Cabane de la Lude
+ 25. Cabane des Clos de Dessus
+ 26. Cabane des Courraux n°2
+ 27. Cabane des Maurets (ou Maourets)
+ 28. Cabane des Pugues
+ 29. Cabane du Barestet
+ 30. Cabane du Bois Nègre
+ 31. Cabane du Lustou
+ 32. Cabane du Mouscadé
+ 33. Cabane du Pla del Mig
+ 34. Cabane du campalou
+ 35. Cabane du parking de Frechendech
+ 36. Cabane forestière du col de Gargante
+ 37. Cabane pastorale d'Arreau (Areou)
+ 38. Cabane pastorale de l'Orri Soula Couloumé
+ 39. Cabane pastorale de l'étang Tort
+ 40. Cabane pastorale de la Sarrat des Timbals
+ 41. Cabane pastorale de la Sarrette
+ 42. Cabane supérieure d'Uls
+ 43. Cabanes Sacaze
+ 44. Jasse du Pla (Bésines)
+ 45. Maison forestière de Gastepa
+ 46. Refuge Alphonse XIII
+ 47. Refuge Brougnic
+ 48. Refuge de La Fruitiére
+ 49. Refuge des Fornels
+ 50. Refuge forestier d'Arreau (ou Areou)
+ 51. Refuge forestier de Niave
+ 52. Refuge forestier du Fournet
+ 53. Refuge maupas LHM
+ 54. Refuge pastoral des tres fonts
+ 55. Refugio Pablo
+
+TIPUS: 'Détruite' (13 refugis)
+----------------------------------------
+  1. Abri d'Azabaratza
+  2. Abri de l'Estagny Llong
+  3. Abri du Madres
+  4. Abri du barrage d'Astún
+  5. Abri occidental Jaça de la Valleta
+  6. Cabane de Gerus
+  7. Cabane de l'étang Nègre
+  8. Cabane de la Rauzine
+  9. Cabane de la Rebenne
+ 10. Cabane du Col des Nou Fonts
+ 11. Cabane du Lutour
+ 12. Refuge forestier de Razels
+ 13. Refugi de Sellente
+
+TIPUS: '(buit)' (20 refugis)
+----------------------------------------
+  1. Abri de cour Vic
+  2. Cabana del Puerto (Sahun)
+  3. Cabane de Couyassalès
+  4. Cabane de Douly
+  5. Cabane de Peyrelue
+  6. Cabane de Tourmont
+  7. Cabane de la Courbe
+  8. Cabane de la Devesa
+  9. Cabane du Mont-Ceint
+ 10. Cabane du Pla de Faradu
+ 11. Cabane du pont de Lamary
+ 12. Cabane pastorale du Gourgot 
+ 13. Cayolar anaye (coum)
+ 14. Fonfrède
+ 15. Fontbrenella
+ 16. Majada de Gabardito
+ 17. Marmitou
+ 18. abri pastoral Artigues de En Cases
+ 19. refuge fontfrèda
+ 20. refuge roquefumade
+

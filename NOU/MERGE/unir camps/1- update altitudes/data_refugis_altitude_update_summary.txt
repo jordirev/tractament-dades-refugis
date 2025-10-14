@@ -1,0 +1,103 @@
+RESUM DE L'ACTUALITZACIÓ D'ALTITUDS
+==================================================
+
+Total refugis amb altitud nul·la: 90
+Actualitzacions exitoses: 90
+Actualitzacions fallides: 0
+Percentatge d'èxit: 100.0%
+
+REFUGIS ACTUALITZATS EXITOSAMENT:
+----------------------------------------
+  1. Cabane "Cortal del Cortils" - Nova altitud: 2235.0m
+  2. Refugi de Fitó - Nova altitud: 488.0m
+  3. Cabane des Courraux n°2 - Nova altitud: 1573.0m
+  4. Cabane des Courraux n°1 - Nova altitud: 1573.0m
+  5. Abri nom inconnue - Nova altitud: 1350.0m
+  6. Cabane de Caillong - Nova altitud: 1492.0m
+  7. Cabane des Calhaus - Nova altitud: 1896.0m
+  8. Orri de l'Angoustrine - Nova altitud: 1945.0m
+  9. cabane d'Ardengost - Nova altitud: 1657.0m
+ 10. Cabane de Atsout - Nova altitud: 1647.0m
+ 11. Cabane de Ayzi - Nova altitud: 1215.0m
+ 12. Abri puig de les basses - Nova altitud: 938.0m
+ 13. abri Aigüeta de Batisielles - Nova altitud: 2316.0m
+ 14. Cabana de Batisielles - Nova altitud: 1943.0m
+ 15. Cabane de Bedeillere - Nova altitud: 1683.0m
+ 16. Cabne de Bernède - Nova altitud: 1294.0m
+ 17. Cabane de la Besurta - Nova altitud: 1906.0m
+ 18. Cabane de BIARSAOU - Nova altitud: 1457.0m
+ 19. Cabane de Campilles - Nova altitud: 1700.0m
+ 20. cabanes de Camoudiet - Nova altitud: 1455.0m
+ 21. Cabanyes de Dalt Coma del Catllar - Nova altitud: 1431.0m
+ 22. Cabanya del Ras de Catllar - Nova altitud: 1442.0m
+ 23. Cabane de Coma - Nova altitud: 1758.0m
+ 24. Cabaña Cotatuero - Nova altitud: 1650.0m
+ 25. Abri de cour Vic - Nova altitud: 2013.0m
+ 26. Chalet forestier de Courtal-Jouan - Nova altitud: 1525.0m
+ 27. Refuge forestier du Cualot - Nova altitud: 1459.0m
+ 28. Refugi pleta de Dorria - Nova altitud: 1937.0m
+ 29. Cabane Edf - Nova altitud: 837.0m
+ 30. Abri du Coll de l'Espinas - Nova altitud: 871.0m
+ 31. Cabane d'Estanhs (ou lac de Laujo) - Nova altitud: 1821.0m
+ 32. Cabane de l'Estaque - Nova altitud: 1666.0m
+ 33. Cabane d'Esteil - Nova altitud: 2023.0m
+ 34. Refugio de Ezcaurre - Nova altitud: 1597.0m
+ 35. Refugio forestal Jaume Farré - Nova altitud: 1978.0m
+ 36. Barraca de la Baga de Feliu - Nova altitud: 2101.0m
+ 37. refuge fontfrèda - Nova altitud: 1785.0m
+ 38. Orri du col de las Fouzès - Nova altitud: 1927.0m
+ 39. Cabana de Gessa - Nova altitud: 1942.0m
+ 40. Barraca de Gombrèn - Nova altitud: 2164.0m
+ 41. Cabane pastorale du Gourgot  - Nova altitud: 1797.0m
+ 42. Bordes d'Harpéa - Nova altitud: 874.0m
+ 43. cabane Herraou - Nova altitud: 1361.0m
+ 44. Refuge du Barrage de Ip - Nova altitud: 2142.0m
+ 45. Cabane Vuelta d'Iserias - Nova altitud: 1773.0m
+ 46. Orri de Joucarets - Nova altitud: 1656.0m
+ 47. Abri Forestier de  Juzet-d'Izaut - Nova altitud: 917.0m
+ 48. Refuge de Lancise - Nova altitud: 1377.0m
+ 49. Cabane de Larue - Nova altitud: 2008.0m
+ 50. Cabanas d'els Leners - Nova altitud: 2520.0m
+ 51. Mailhs - Nova altitud: 1455.0m
+ 52. Cabana d'els millars / millares - Nova altitud: 2337.0m
+ 53. Caseta de Montinier - Nova altitud: 1648.0m
+ 54. Quèbe de Moundelhs - Nova altitud: 1845.0m
+ 55. Narbios - Nova altitud: 1343.0m
+ 56. Cabane de Nat (Cot de yeou) - Nova altitud: 1802.0m
+ 57. cabana Ordices (ordicez) - Nova altitud: 1826.0m
+ 58. Orri de Trameillou - Nova altitud: 1557.0m
+ 59. Refuge EDF du Past - Nova altitud: 1919.0m
+ 60. Orri Clot de Sant Pere - Nova altitud: 1731.0m
+ 61. Refugio de las planas del boz de Telera - Nova altitud: 1538.0m
+ 62. Refugio de la plana (Tella) - Nova altitud: 1885.0m
+ 63. Cabane de Planel Dhers - Nova altitud: 1729.0m
+ 64. Cabana Pleta del Duc - Nova altitud: 2107.0m
+ 65. Grange La Poursiouque - Nova altitud: 1099.0m
+ 66. Corral d'a Rabosera - Nova altitud: 1126.0m
+ 67. Cabana dels rasos  - Nova altitud: 1867.0m
+ 68. Abri de la Rhune - Nova altitud: 838.0m
+ 69. Abri de la Tosse de Riete - Nova altitud: 2147.0m
+ 70. Cabane de Rouglan - Nova altitud: 1212.0m
+ 71. Cabana del Roures - Nova altitud: 1503.0m
+ 72. Cabane de berger du Port de Salau - Nova altitud: 1948.0m
+ 73. Xalet particular de Salenques (Cap de la Vall) - Nova altitud: 2414.0m
+ 74. Cabane de salies - Nova altitud: 1114.0m
+ 75. coutaoù de Sarrède - Nova altitud: 1446.0m
+ 76. Cabane Fontaine de Saudech - Nova altitud: 1266.0m
+ 77. Cabane de Sencours - Nova altitud: 1956.0m
+ 78. Cabana de Sendrosa de Baish - Nova altitud: 2141.0m
+ 79. Abri de pierres estanys Siscarro (baix) - Nova altitud: 2341.0m
+ 80. Cabanas de Sorquero - Nova altitud: 1686.0m
+ 81. Cabane de l'Etang Sourd - Nova altitud: 1926.0m
+ 82. Cabane de Spelunguette - Nova altitud: 1819.0m
+ 83. Abri de Tarabaus - Nova altitud: 577.0m
+ 84. Cabane Estanyol de Tarterès - Nova altitud: 2155.0m
+ 85. Cabane de Touroun - Nova altitud: 1430.0m
+ 86. Cabane deth Vaquer de Saplan - Nova altitud: 1210.0m
+ 87. Barraca de la Vaquerissa - Nova altitud: 1943.0m
+ 88. Refuge du Coll de Vent - Nova altitud: 1324.0m
+ 89. Abri pastoral du Ventaillou - Nova altitud: 2205.0m
+ 90. Cabane du Cot de Yéous - Nova altitud: 1479.0m
+
+REFUGIS AMB ERRORS:
+--------------------

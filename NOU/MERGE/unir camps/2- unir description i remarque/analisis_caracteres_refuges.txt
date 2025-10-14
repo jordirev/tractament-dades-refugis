@@ -1,0 +1,32 @@
+ANÁLISIS DE CARACTERES EN REFUGES_NAME_DESCRIPTION_REMARQUE.JSON
+========================================================================
+
+ESTADÍSTICAS GENERALES:
+- Total de refugios analizados: 1676
+
+CAMPO 'DESCRIPTION':
+- Refugios con descripción: 1634
+- Número total de entradas de descripción: 1999
+- Total de caracteres en descripciones: 673,118
+- Promedio de caracteres por refugio con descripción: 411.94
+- Promedio de caracteres por entrada de descripción: 336.73
+
+CAMPO 'REMARQUE':
+- Refugios con remarque: 1660
+- Número total de entradas de remarque: 2024
+- Total de caracteres en remarques: 445,322
+- Promedio de caracteres por refugio con remarque: 268.27
+- Promedio de caracteres por entrada de remarque: 220.02
+
+TOTALES COMBINADOS:
+- Total de caracteres (description + remarque): 1,118,440
+- Total de entradas (description + remarque): 4023
+- Promedio de caracteres por entrada combinada: 278.01
+
+DETALLES ADICIONALES:
+- Refugios solo con description: 16
+- Refugios solo con remarque: 42
+- Refugios con ambos campos: 1618
+- Refugios sin ninguno de los campos: 0
+
+Fecha del análisis: 2025-10-13 17:41:36

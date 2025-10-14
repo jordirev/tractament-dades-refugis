@@ -1,0 +1,26 @@
+VALORS DEL CAMP 'TYPE' EN EL FITXER data_refugis_updated_altitudes.json
+============================================================
+
+Total valors únics: 7
+Total entrades: 1751
+
+LLISTA DE VALORS ÚNICS (ordenats alfabèticament):
+--------------------------------------------------
+  1.  (apareix 20 vegades)
+  2. Détruite (apareix 13 vegades)
+  3. Fermée (apareix 55 vegades)
+  4. cabane fermee (apareix 157 vegades)
+  5. cabane ouverte (apareix 1308 vegades)
+  6. cabane ouverte mais ocupee par le berger l ete (apareix 102 vegades)
+  7. orri toue abri en pierre (apareix 96 vegades)
+
+============================================================
+RESUM PER FREQÜÈNCIA:
+--------------------
+cabane ouverte: 1308
+cabane fermee: 157
+cabane ouverte mais ocupee par le berger l ete: 102
+orri toue abri en pierre: 96
+Fermée: 55
+: 20
+Détruite: 13

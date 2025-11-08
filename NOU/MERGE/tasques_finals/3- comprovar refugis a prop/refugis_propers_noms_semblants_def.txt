@@ -75,52 +75,6 @@ REFUGI 2:
 
 
 ================================================================================
-PARELLA #4
-================================================================================
-
-Distància: 42.64 metres
-Similitud del nom: 70.6%
-Paraules semblants: cizarols
-
-REFUGI 1:
-  Nom: Orri de Cizarols
-  Coordenades: 42.66572, 1.8762
-  Altitud: 1500m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6250/cabane-non-gardee/orri-de-Cizarols/
-
-REFUGI 2:
-  Nom: Cabane de Cizarols
-  Coordenades: 42.665957, 1.87661
-  Altitud: 1500m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6251/cabane-non-gardee/cabane-de-Cizarols/
-
-
-================================================================================
-PARELLA #5
-================================================================================
-
-Distància: 53.18 metres
-Similitud del nom: 48.9%
-Paraules semblants: cizarols~cizarol
-
-REFUGI 1:
-  Nom: Orri de Cizarols
-  Coordenades: 42.66572, 1.8762
-  Altitud: 1500m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6250/cabane-non-gardee/orri-de-Cizarols/
-
-REFUGI 2:
-  Nom: Cabane de la Jasse de Cizarol
-  Coordenades: 42.665957, 1.876765
-  Altitud: 1486m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=179
-
-
-================================================================================
 PARELLA #6
 ================================================================================
 
@@ -154,7 +108,7 @@ Paraules semblants: besset
 REFUGI 1:
   Nom: Cabane du Besset
   Coordenades: 42.829895, 0.996482
-  Altitud: 1600m
+  Altitud: null
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=539
 
@@ -213,29 +167,6 @@ REFUGI 2:
 
 
 ================================================================================
-PARELLA #10
-================================================================================
-
-Distància: 21.54 metres
-Similitud del nom: 63.8%
-Paraules semblants: besines
-
-REFUGI 1:
-  Nom: Cabane des Besines
-  Coordenades: 42.599875, 1.850413
-  Altitud: 1981m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=162
-
-REFUGI 2:
-  Nom: Refuge du Barrage des Besines
-  Coordenades: 42.599837, 1.850671
-  Altitud: 1975m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=52
-
-
-================================================================================
 PARELLA #11
 ================================================================================
 
@@ -279,29 +210,6 @@ REFUGI 2:
   Altitud: 2187m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=300
-
-
-================================================================================
-PARELLA #13
-================================================================================
-
-Distància: 78.75 metres
-Similitud del nom: 80.0%
-Paraules semblants: redoun, prat
-
-REFUGI 1:
-  Nom: Refuge de Prat Redoun
-  Coordenades: 42.65039, 1.76172
-  Altitud: 1809m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=275
-
-REFUGI 2:
-  Nom: Orri de Prat Redoun
-  Coordenades: 42.65102, 1.76216
-  Altitud: 1809m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=881
 
 
 ================================================================================
@@ -535,29 +443,6 @@ REFUGI 2:
 
 
 ================================================================================
-PARELLA #24
-================================================================================
-
-Distància: 2.18 metres
-Similitud del nom: 72.2%
-Paraules semblants: perafita
-
-REFUGI 1:
-  Nom: Cabane de Perafita
-  Coordenades: 42.479741, 1.578223
-  Altitud: 2200m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/5524/cabane-non-gardee/Orry-de-Perafita/
-
-REFUGI 2:
-  Nom: Refuge de Perafita
-  Coordenades: 42.479753, 1.578244
-  Altitud: 2200m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/5451/cabane-non-gardee/refuge-de-Perafita/
-
-
-================================================================================
 PARELLA #25
 ================================================================================
 
@@ -589,7 +474,7 @@ Similitud del nom: 93.3%
 Paraules semblants: rialb~rialp
 
 REFUGI 1:
-  Nom: Refuge de Rialb
+  Nom: Refuge de Rialp
   Coordenades: 42.640373, 1.56128
   Altitud: 1990m
   Tipus: non gardé
@@ -717,6 +602,22 @@ REFUGI 2:
   Tipus: non gardé
   Link: https://www.refuges.info/point/4370/cabane-non-gardee/cabane-de-la-Lacarde/
 
+
+================================================================================
+PARELLA #31.2
+================================================================================
+
+Distància: 45.53 metres
+Similitud del nom: 100.0%
+Paraules semblants: lacarde
+
+REFUGI 1:
+  Nom: Abri de la Lacarde
+  Link: "https://www.refuges.info/point/4371/cabane-non-gardee/abri-de-la-Lacarde/"
+
+REFUGI 2:
+  Nom: Cabane Inferieure de Lacarde
+  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1361
 
 ================================================================================
 PARELLA #32
@@ -1069,7 +970,7 @@ PARELLA #47
 
 Distància: 11.33 metres
 Similitud del nom: 40.7%
-Paraules semblants: pons~pons)
+Paraules semblants: pons~pons
 
 REFUGI 1:
   Nom: Refuge Georges Pons
@@ -1118,7 +1019,7 @@ Similitud del nom: 64.9%
 Paraules semblants: long
 
 REFUGI 1:
-  Nom: Cabane de Pra Long
+  Nom: Cabane de Prat Long
   Coordenades: 42.72432, 0.55456
   Altitud: 1880m
   Tipus: non gardé
@@ -1154,23 +1055,7 @@ REFUGI 2:
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1046
 
-
-================================================================================
-PARELLA #51
-================================================================================
-
-Distància: 99.34 metres
-Similitud del nom: 86.8%
-Paraules semblants: courrau
-
-REFUGI 1:
-  Nom: Cabane de Courrau d'Antenac
-  Coordenades: 42.82949, 0.56949
-  Altitud: 1687m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/4603/cabane-non-gardee/cabane-de-Courrau-d-Antenac/
-
-REFUGI 2:
+REFUGI 3:
   Nom: Cabane Courrau (D Antenac)
   Coordenades: 42.830369, 0.569272
   Altitud: 1741m
@@ -1225,29 +1110,6 @@ REFUGI 2:
 
 
 ================================================================================
-PARELLA #54
-================================================================================
-
-Distància: 43.49 metres
-Similitud del nom: 95.7%
-Paraules semblants: courraux
-
-REFUGI 1:
-  Nom: Cabane des Courraux n°2
-  Coordenades: 42.86503, 0.68213
-  Altitud: 1573m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/9932/cabane-non-gardee/cabane-des-Courraux-n2/
-
-REFUGI 2:
-  Nom: Cabane des Courraux n°1
-  Coordenades: 42.86542, 0.68209
-  Altitud: 1573m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/9931/cabane-non-gardee/cabane-des-Courraux-n1/
-
-
-================================================================================
 PARELLA #55
 ================================================================================
 
@@ -1256,11 +1118,11 @@ Similitud del nom: 73.7%
 Paraules semblants: courraux~courraus
 
 REFUGI 1:
-  Nom: Cabane des Courraux n°2
-  Coordenades: 42.86503, 0.68213
+  Nom: Cabane des Courraux n°1
+  Coordenades: 42.86542, 0.68209
   Altitud: 1573m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/9932/cabane-non-gardee/cabane-des-Courraux-n2/
+  Tipus: non gardé
+  Link: https://www.refuges.info/point/9931/cabane-non-gardee/cabane-des-Courraux-n1/
 
 REFUGI 2:
   Nom: Cabane Courraus
@@ -1291,29 +1153,6 @@ REFUGI 2:
   Altitud: 1456m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=255
-
-
-================================================================================
-PARELLA #57
-================================================================================
-
-Distància: 35.92 metres
-Similitud del nom: 73.7%
-Paraules semblants: courraux~courraus
-
-REFUGI 1:
-  Nom: Cabane des Courraux n°1
-  Coordenades: 42.86542, 0.68209
-  Altitud: 1573m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/9931/cabane-non-gardee/cabane-des-Courraux-n1/
-
-REFUGI 2:
-  Nom: Cabane Courraus
-  Coordenades: 42.865144, 0.681861
-  Altitud: 1586m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=502
 
 
 ================================================================================
@@ -1382,52 +1221,6 @@ REFUGI 2:
   Altitud: 1400m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1797
-
-
-================================================================================
-PARELLA #61
-================================================================================
-
-Distància: 33.65 metres
-Similitud del nom: 96.6%
-Paraules semblants: sesques
-
-REFUGI 1:
-  Nom: Cabane de l'Artigue de Sesques
-  Coordenades: 42.927218, -0.47935
-  Altitud: 1410m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6165/cabane-non-gardee/cabane-de-l-Artigue-de-Sesques/
-
-REFUGI 2:
-  Nom: Cabane de Artigue de Sesques
-  Coordenades: 42.9275, -0.4792
-  Altitud: 1413m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1156
-
-
-================================================================================
-PARELLA #62
-================================================================================
-
-Distància: 7.41 metres
-Similitud del nom: 69.2%
-Paraules semblants: deus, coïgts
-
-REFUGI 1:
-  Nom: Cabanes Deus Coïgts (deux cols)
-  Coordenades: 43.0775, -0.3644
-  Altitud: 1010m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6101/cabane-non-gardee/cabanes-Deus-Coigts-deux-cols/
-
-REFUGI 2:
-  Nom: Cabane de Deus Coïgts
-  Coordenades: 43.077532, -0.36448
-  Altitud: 1011m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=932
 
 
 ================================================================================
@@ -1543,30 +1336,6 @@ REFUGI 2:
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1393
 
-
-================================================================================
-PARELLA #68
-================================================================================
-
-Distància: 6.46 metres
-Similitud del nom: 73.3%
-Paraules semblants: hosse
-
-REFUGI 1:
-  Nom: Cabane de la Hosse (Ossau)
-  Coordenades: 42.83689, -0.47645
-  Altitud: 1715m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/6252/cabane-non-gardee/cabane-de-la-Hosse-Ossau/
-
-REFUGI 2:
-  Nom: Cabane de la Hosse (vallée d'Aspe)
-  Coordenades: 42.836832, -0.476446
-  Altitud: 1700m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=769
-
-
 ================================================================================
 PARELLA #69
 ================================================================================
@@ -1657,29 +1426,6 @@ REFUGI 2:
   Altitud: 1770m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=710
-
-
-================================================================================
-PARELLA #73
-================================================================================
-
-Distància: 44.66 metres
-Similitud del nom: 76.5%
-Paraules semblants: doumblas
-
-REFUGI 1:
-  Nom: Toue de Doumblas
-  Coordenades: 42.868887, -0.266504
-  Altitud: 1563m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/8103/cabane-non-gardee/toue-de-Doumblas/
-
-REFUGI 2:
-  Nom: Cabane de Doumblas
-  Coordenades: 42.869053, -0.266005
-  Altitud: 1575m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=111
 
 
 ================================================================================
@@ -1965,7 +1711,7 @@ Similitud del nom: 97.3%
 Paraules semblants: lliterola~literola
 
 REFUGI 1:
-  Nom: Cabane de Lliterola
+  Nom: Cabane de Literola
   Coordenades: 42.669542, 0.55376
   Altitud: 2035m
   Tipus: non gardé
@@ -2008,7 +1754,7 @@ PARELLA #88
 
 Distància: 8.86 metres
 Similitud del nom: 66.7%
-Paraules semblants: urdiceto~urdicetou)
+Paraules semblants: urdiceto~urdicetou
 
 REFUGI 1:
   Nom: Refugio de Urdiceto
@@ -2080,7 +1826,7 @@ Similitud del nom: 66.7%
 Paraules semblants: refugio
 
 REFUGI 1:
-  Nom: Refugio de Cullivert
+  Nom: Refugio de los Neis
   Coordenades: 42.47921, 0.2999
   Altitud: 1470m
   Tipus: non gardé
@@ -2337,29 +2083,6 @@ REFUGI 1:
   Link: https://www.refuges.info/point/7895/cabane-non-gardee/abri-du-mont-Fourcat/
 
 REFUGI 2:
-  Nom: Cabane de la Lauzate (ou du Mt Fourcat)
-  Coordenades: 42.85794, 1.70865
-  Altitud: 1883m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/6036/cabane-non-gardee/cabane-de-la-Lauzate-ou-du-Mt-Fourcat/
-
-
-================================================================================
-PARELLA #103
-================================================================================
-
-Distància: 56.9 metres
-Similitud del nom: 64.0%
-Paraules semblants: fourcat~mt-fourcat
-
-REFUGI 1:
-  Nom: Abri du mont Fourcat
-  Coordenades: 42.85781, 1.70822
-  Altitud: 1883m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/7895/cabane-non-gardee/abri-du-mont-Fourcat/
-
-REFUGI 2:
   Nom: Cabane de Berger du Mt-Fourcat
   Coordenades: 42.857522, 1.707643
   Altitud: 1900m
@@ -2376,11 +2099,11 @@ Similitud del nom: 53.6%
 Paraules semblants: fourcat~mt-fourcat)
 
 REFUGI 1:
-  Nom: Abri du mont Fourcat
-  Coordenades: 42.85781, 1.70822
+  Nom: Cabane de la Lauzate (ou du Mt Fourcat)
+  Coordenades: 42.85794, 1.70865
   Altitud: 1883m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/7895/cabane-non-gardee/abri-du-mont-Fourcat/
+  Tipus: fermée
+  Link: https://www.refuges.info/point/6036/cabane-non-gardee/cabane-de-la-Lauzate-ou-du-Mt-Fourcat/
 
 REFUGI 2:
   Nom: Cabane de Lauzate (ou du Mt-Fourcat)
@@ -2437,52 +2160,6 @@ REFUGI 2:
 
 
 ================================================================================
-PARELLA #107
-================================================================================
-
-Distància: 94.33 metres
-Similitud del nom: 69.6%
-Paraules semblants: fourcat)~mt-fourcat
-
-REFUGI 1:
-  Nom: Cabane de la Lauzate (ou du Mt Fourcat)
-  Coordenades: 42.85794, 1.70865
-  Altitud: 1883m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/6036/cabane-non-gardee/cabane-de-la-Lauzate-ou-du-Mt-Fourcat/
-
-REFUGI 2:
-  Nom: Cabane de Berger du Mt-Fourcat
-  Coordenades: 42.857522, 1.707643
-  Altitud: 1900m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1253
-
-
-================================================================================
-PARELLA #108
-================================================================================
-
-Distància: 4.28 metres
-Similitud del nom: 93.3%
-Paraules semblants: lauzate
-
-REFUGI 1:
-  Nom: Cabane de la Lauzate (ou du Mt Fourcat)
-  Coordenades: 42.85794, 1.70865
-  Altitud: 1883m
-  Tipus: fermée
-  Link: https://www.refuges.info/point/6036/cabane-non-gardee/cabane-de-la-Lauzate-ou-du-Mt-Fourcat/
-
-REFUGI 2:
-  Nom: Cabane de Lauzate (ou du Mt-Fourcat)
-  Coordenades: 42.857916, 1.708609
-  Altitud: 1850m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=868
-
-
-================================================================================
 PARELLA #109
 ================================================================================
 
@@ -2526,52 +2203,6 @@ REFUGI 2:
   Altitud: 1372m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=651
-
-
-================================================================================
-PARELLA #111
-================================================================================
-
-Distància: 63.63 metres
-Similitud del nom: 79.1%
-Paraules semblants: pratmau
-
-REFUGI 1:
-  Nom: Ancienne cabane de Pratmau
-  Coordenades: 42.82849, 1.80229
-  Altitud: 1552m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/3492/cabane-non-gardee/ancienne-cabane-de-Pratmau/
-
-REFUGI 2:
-  Nom: Cabane de Pratmau
-  Coordenades: 42.82891, 1.80176
-  Altitud: 1560m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/3493/cabane-non-gardee/cabane-de-Pratmau/
-
-
-================================================================================
-PARELLA #112
-================================================================================
-
-Distància: 36.64 metres
-Similitud del nom: 69.6%
-Paraules semblants: pratmau
-
-REFUGI 1:
-  Nom: Ancienne cabane de Pratmau
-  Coordenades: 42.82849, 1.80229
-  Altitud: 1552m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/3492/cabane-non-gardee/ancienne-cabane-de-Pratmau/
-
-REFUGI 2:
-  Nom: Cabane Jasse Pratmau
-  Coordenades: 42.828375, 1.802711
-  Altitud: 1552m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=652
 
 
 ================================================================================
@@ -2847,75 +2478,6 @@ REFUGI 2:
   Altitud: 1968m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=852
-
-
-================================================================================
-PARELLA #125
-================================================================================
-
-Distància: 3.04 metres
-Similitud del nom: 59.4%
-Paraules semblants: mariailles
-
-REFUGI 1:
-  Nom: Refuge pastoral de Mariailles
-  Coordenades: 42.499437, 2.409316
-  Altitud: 1718m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/5750/cabane-non-gardee/refuge-pastoral-de-Mariailles/
-
-REFUGI 2:
-  Nom: Maison forestiere ONF de Mariailles
-  Coordenades: 42.49946, 2.409296
-  Altitud: 1718m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=380
-
-
-================================================================================
-PARELLA #126
-================================================================================
-
-Distància: 25.08 metres
-Similitud del nom: 73.3%
-Paraules semblants: balatg
-
-REFUGI 1:
-  Nom: Refuge de Balatg
-  Coordenades: 42.548998, 2.456818
-  Altitud: 1680m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6576/cabane-non-gardee/refuge-de-Balatg/
-
-REFUGI 2:
-  Nom: Orri de Balatg
-  Coordenades: 42.549223, 2.456839
-  Altitud: 1600m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6577/cabane-non-gardee/orri-de-Balatg/
-
-
-================================================================================
-PARELLA #127
-================================================================================
-
-Distància: 85.63 metres
-Similitud del nom: 80.0%
-Paraules semblants: guillem
-
-REFUGI 1:
-  Nom: Abri de Pla Guillem
-  Coordenades: 42.475436, 2.412754
-  Altitud: 2276m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=263
-
-REFUGI 2:
-  Nom: Refuge de Pla Guillem
-  Coordenades: 42.476188, 2.412979
-  Altitud: 2275m
-  Tipus: non gardé
-  Link: https://www.refuges.info/point/6374/cabane-non-gardee/refuge-de-Pla-Guillem/
 
 
 ================================================================================
@@ -3260,187 +2822,3 @@ REFUGI 2:
   Altitud: 790m
   Tipus: non gardé
   Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=948
-
-
-================================================================================
-PARELLA #143
-================================================================================
-
-Distància: 68.43 metres
-Similitud del nom: 71.0%
-Paraules semblants: cabanella
-
-REFUGI 1:
-  Nom: Refuge forestier de la Cabanella
-  Coordenades: 42.448056, 1.835556
-  Altitud: 1810m
-  Tipus: fermée
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1011
-
-REFUGI 2:
-  Nom: Abri de pierre de la Cabanella
-  Coordenades: 42.448056, 1.834722
-  Altitud: 1820m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1012
-
-
-================================================================================
-PARELLA #144
-================================================================================
-
-Distància: 90.45 metres
-Similitud del nom: 77.8%
-Paraules semblants: caillauas
-
-REFUGI 1:
-  Nom: Abri de Caillauas
-  Coordenades: 42.72101, 0.442133
-  Altitud: 2080m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=702
-
-REFUGI 2:
-  Nom: Refuge de Caillauas
-  Coordenades: 42.7209, 0.44323
-  Altitud: 2160m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=701
-
-
-================================================================================
-PARELLA #145
-================================================================================
-
-Distància: 90.59 metres
-Similitud del nom: 66.7%
-Paraules semblants: caillauas~caillaouas
-
-REFUGI 1:
-  Nom: Abri de Caillauas
-  Coordenades: 42.72101, 0.442133
-  Altitud: 2080m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=702
-
-REFUGI 2:
-  Nom: Barrage lac Caillaouas
-  Coordenades: 42.721129, 0.44323
-  Altitud: 2110m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1778
-
-
-================================================================================
-PARELLA #146
-================================================================================
-
-Distància: 25.46 metres
-Similitud del nom: 68.3%
-Paraules semblants: caillauas~caillaouas
-
-REFUGI 1:
-  Nom: Refuge de Caillauas
-  Coordenades: 42.7209, 0.44323
-  Altitud: 2160m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=701
-
-REFUGI 2:
-  Nom: Barrage lac Caillaouas
-  Coordenades: 42.721129, 0.44323
-  Altitud: 2110m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1778
-
-
-================================================================================
-PARELLA #147
-================================================================================
-
-Distància: 70.03 metres
-Similitud del nom: 71.4%
-Paraules semblants: carol
-
-REFUGI 1:
-  Nom: Cabane de Carol
-  Coordenades: 42.7813, 1.4146
-  Altitud: 1525m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=606
-
-REFUGI 2:
-  Nom: Toue de Carol
-  Coordenades: 42.781158, 1.415436
-  Altitud: 1530m
-  Tipus: orri
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=735
-
-
-================================================================================
-PARELLA #148
-================================================================================
-
-Distància: 79.96 metres
-Similitud del nom: 79.2%
-Paraules semblants: estany~estanys
-
-REFUGI 1:
-  Nom: Cabane de Estany Forcat
-  Coordenades: 42.598216, 1.450056
-  Altitud: 2629m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=968
-
-REFUGI 2:
-  Nom: Abri dels estanys forcats
-  Coordenades: 42.598429, 1.449123
-  Altitud: 2615m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1725
-
-
-================================================================================
-PARELLA #149
-================================================================================
-
-Distància: 90.11 metres
-Similitud del nom: 75.8%
-Paraules semblants: mt-fourcat~mt-fourcat)
-
-REFUGI 1:
-  Nom: Cabane de Berger du Mt-Fourcat
-  Coordenades: 42.857522, 1.707643
-  Altitud: 1900m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1253
-
-REFUGI 2:
-  Nom: Cabane de Lauzate (ou du Mt-Fourcat)
-  Coordenades: 42.857916, 1.708609
-  Altitud: 1850m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=868
-
-
-================================================================================
-PARELLA #150
-================================================================================
-
-Distància: 53.42 metres
-Similitud del nom: 64.7%
-
-REFUGI 1:
-  Nom: Cabane de Llubriqeto
-  Coordenades: 42.5664, 0.82593
-  Altitud: 2000m
-  Tipus: cabane ouverte mais ocupee par le berger l ete
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1240
-
-REFUGI 2:
-  Nom: Cabane de Wily
-  Coordenades: 42.56681, 0.82627
-  Altitud: 2020m
-  Tipus: non gardé
-  Link: http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1241
-

@@ -1328,7 +1328,7 @@
       "long": 0.996482,
       "lat": 42.829895
     },
-    "altitude": 1600,
+    "altitude": null,
     "name": "Cabane du Besset",
     "surname": "Cabane du Besset",
     "links": [
@@ -4495,7 +4495,7 @@
       "lat": 42.490759
     },
     "altitude": 2425,
-    "places": null,
+    "places": 0,
     "remarque": [
       "Je n'ai pas jeté un œil à l'intérieur pour voir ce qu'on y trouve. On peut néanmoins dire que cette cabane propose un abri sommaire ..."
     ],
@@ -4639,7 +4639,7 @@
     ],
     "type": "non gardé",
     "modified_at": "2024-12-29",
-    "name": "Refuge de Rialb",
+    "name": "Refuge de Rialp",
     "region": null,
     "departement": null
   },
@@ -5777,19 +5777,15 @@
     },
     "altitude": 1990,
     "name": "Cabane de la Lacarde",
-    "surname": "Abri de la Lacarde",
     "links": [
-      "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=177",
-      "https://www.refuges.info/point/4371/cabane-non-gardee/abri-de-la-Lacarde/"
+      "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=177"
     ],
     "type": "non gardé",
     "description": [
-      "Il s'agit en réalité d'un simple mur de pierre contre un rocher offrant le refuge pour 2 personne, mais la cabane de la Lacarde à 30min de là est beaucoup plus confortable. Le toit est fait de morceaux de tôles, les mur de pierre, impossibilité de chauffer. Depuis le parking de la Peyre (terminus de la route allant au cirque de Cagateille), suivre le sentier en direction du lac d'Arlet balisé en jaune. Après 800m de montée (depuis la passerelle se trouvant en contrebas du parking), la cabane se trouve après le lac herbeux, sur la droite, à 50m du sentier le long d'un ruisseau.",
-      "renovee en 2007 par la communautee de commune d oust un poele a bois bas flancs tables bancs si soucis merci de le signaler a la communaute de communes du canton d oust attention de ne pas confondre avec la vieille cabane situee au point 1782m sur la carte"
+      "Il s'agit en réalité d'un simple mur de pierre contre un rocher offrant le refuge pour 2 personne, mais la cabane de la Lacarde à 30min de là est beaucoup plus confortable. Le toit est fait de morceaux de tôles, les mur de pierre, impossibilité de chauffer. Depuis le parking de la Peyre (terminus de la route allant au cirque de Cagateille), suivre le sentier en direction du lac d'Arlet balisé en jaune. Après 800m de montée (depuis la passerelle se trouvant en contrebas du parking), la cabane se trouve après le lac herbeux, sur la droite, à 50m du sentier le long d'un ruisseau."
     ],
     "remarque": [
-      "Il s'agit en réalité d'un simple mur de pierre contre un rocher offrant le refuge pour 2 personne, mais la cabane de la Lacarde à 30min de là est beaucoup plus confortable. Le toit est fait de morceaux de tôles, les mur de pierre, impossibilité de chauffer.",
-      "cabane toujours ok, accés difficile avec la neige attention "
+      "Il s'agit en réalité d'un simple mur de pierre contre un rocher offrant le refuge pour 2 personne, mais la cabane de la Lacarde à 30min de là est beaucoup plus confortable. Le toit est fait de morceaux de tôles, les mur de pierre, impossibilité de chauffer."
     ],
     "places": 6,
     "info_comp": {
@@ -5799,7 +5795,7 @@
       "couchage": 1,
       "bas_flancs": 1,
       "poele": 0,
-      "manque_un_mur": 1,
+      "manque_un_mur": 0,
       "mezzanine/etage": 0,
       "bois": 0,
       "lits": 0,
@@ -5808,7 +5804,42 @@
     },
     "modified_at": "2014-06-09",
     "region": "Ustou",
-    "info_couchage": "Bas flancs",
+    "info_couchage": " 6 Bas flancs",
+    "departement": "Ariège"
+  },
+  {
+    "coord": {
+      "long": 1.27332,
+      "lat": 42.74609
+    },
+    "altitude": 1990,
+    "name": "Abri de la Lacarde",
+    "links": [
+      "https://www.refuges.info/point/4371/cabane-non-gardee/abri-de-la-Lacarde/"
+    ],
+    "type": "non gardé",
+    "description": [
+      "renovee en 2007 par la communautee de commune d oust un poele a bois bas flancs tables bancs si soucis merci de le signaler a la communaute de communes du canton d oust attention de ne pas confondre avec la vieille cabane situee au point 1782m sur la carte"
+    ],
+    "remarque": [
+      "cabane toujours ok, accés difficile avec la neige attention "
+    ],
+    "places": 0,
+    "info_comp": {
+      "latrines": 0,
+      "matelas": 0,
+      "couvertures": 0,
+      "couchage": 0,
+      "bas_flancs": 0,
+      "poele": 0,
+      "manque_un_mur": 1,
+      "mezzanine/etage": 0,
+      "bois": 0,
+      "lits": 0,
+      "cheminee": 0,
+      "eau": 1
+    },
+    "region": "Ustou",
     "departement": "Ariège"
   },
   {
@@ -9275,7 +9306,7 @@
     ],
     "type": "non gardé",
     "modified_at": "2022-12-18",
-    "name": "Cabane de Pra Long",
+    "name": "Cabane de Prat Long",
     "region": null,
     "departement": null
   },
@@ -16147,7 +16178,7 @@
     ],
     "type": "non gardé",
     "modified_at": "2017-06-26",
-    "name": "Cabane de Lliterola",
+    "name": "Cabane de Literola",
     "region": null,
     "departement": null
   },
@@ -16965,7 +16996,7 @@
     ],
     "type": "non gardé",
     "modified_at": "2024-08-26",
-    "name": "Refugio de Cullivert",
+    "name": "Refugio de los Neis",
     "region": null,
     "departement": null
   },
@@ -18010,7 +18041,7 @@
     "links": [
       "https://www.refuges.info/point/3489/cabane-non-gardee/bergerie-Prat-Baillat/"
     ],
-    "type": "non gardé",
+    "type": "cabane ouverte mais ocupee par le berger l ete",
     "modified_at": "2013-08-06",
     "name": "Bergerie Prat Baillat",
     "region": null,
@@ -51385,7 +51416,7 @@
     "name": "Chalet pastoral du Prat Baillat",
     "region": "Quérigut",
     "altitude": 1700,
-    "type": "non gardé",
+    "type": "cabane ouverte mais ocupee par le berger l ete",
     "departement": "Ariège",
     "places": 10,
     "info_comp": {

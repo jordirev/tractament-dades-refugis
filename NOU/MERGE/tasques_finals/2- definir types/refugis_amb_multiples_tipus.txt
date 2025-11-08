@@ -464,19 +464,7 @@ Refugis amb 2 tipus: 75
 ==================================================
 COMBINACIONS DE TIPUS TROBADES:
 -----------------------------------
-1. Combinació: (buit) + Fermée
-   Refugis amb aquesta combinació (1):
-   - Cabane de la Courbe
 
-2. Combinació: (buit) + cabane ouverte
-   Refugis amb aquesta combinació (2):
-   - Cabane de la Devesa
-   - Cabane du pont de Lamary
-
-3. Combinació: Détruite + cabane ouverte
-   Refugis amb aquesta combinació (2):
-   - Cabane de Gerus
-   - Cabane de la Rebenne
 
 4. Combinació: Fermée + cabane fermee
    Refugis amb aquesta combinació (6):
@@ -506,15 +494,8 @@ COMBINACIONS DE TIPUS TROBADES:
    - Refuge forestier du Fournet
    - Refuge maupas LHM
 
-6. Combinació: Fermée + cabane ouverte mais ocupee par le berger l ete
-   Refugis amb aquesta combinació (1):
-   - Refuge Brougnic
-
 7. Combinació: cabane fermee + cabane ouverte
    Refugis amb aquesta combinació (7):
-   - Cabane Aguilous
-   - Cabane de Aas
-   - Cabane de Lacure
    - Cabane de la Flache de Roumingau
    - Refuge Forestier de Gaffouil
    - Refugio de Ganado

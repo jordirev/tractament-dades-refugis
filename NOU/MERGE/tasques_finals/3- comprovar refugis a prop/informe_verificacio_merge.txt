@@ -1,0 +1,36 @@
+================================================================================
+INFORME DE VERIFICACIÓ DEL MERGE DE REFUGIS DUPLICATS
+================================================================================
+
+Refugis originals: 1662
+Refugis després del merge: 1542
+Reducció: 120 refugis
+
+ESTRUCTURA:
+  with_coord: 1542 (100.0%)
+  with_name: 1542 (100.0%)
+  with_surname: 487 (31.6%)
+  with_altitude: 1542 (100.0%)
+  with_type: 1542 (100.0%)
+  with_links: 1542 (100.0%)
+  with_description: 1504 (97.5%)
+  with_remarque: 1529 (99.2%)
+  with_places: 1137 (73.7%)
+  with_info_comp: 1542 (100.0%)
+  with_departement: 1331 (86.3%)
+  with_region: 1331 (86.3%)
+
+REFUGIS FUSIONATS:
+  with_both_names: 487
+  with_multiple_links: 491
+  with_refuges_info_link: 657
+  with_pyrenees_refuges_link: 1370
+  with_both_links: 485
+  with_multiple_descriptions: 476
+  with_multiple_remarques: 477
+
+QUALITAT:
+  Sense coordenades: 0
+  Sense altitud: 0
+  Sense tipus: 0
+  Sense departement: 211

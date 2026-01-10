@@ -44,7 +44,7 @@ def extract_refuges_info(input_file, output_file):
     print(f"Refugios con remarque: {with_remarque}")
 
 if __name__ == "__main__":
-    input_file = "data_refugis_updated_altitudes.json"
+    input_file = "data_refugis_sense_repetits.json"
     output_file = "refuges_name_description_remarque.json"
     
     extract_refuges_info(input_file, output_file)

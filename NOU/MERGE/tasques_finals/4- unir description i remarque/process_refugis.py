@@ -19,10 +19,12 @@ def process_refugis(input_file, output_file):
         # Crear una còpia del refugi sense remarque
         processed_refuge = {k: v for k, v in refuge.items() if k != 'remarque'}
         
-        # 1. Convertir info_comp: mezzanine/etage -> mezzanine_etage
+        # 1. Convertir info_comp: clau "mezzanine/etage" -> "mezzanine_etage"
         if 'info_comp' in processed_refuge and processed_refuge['info_comp']:
-            if isinstance(processed_refuge['info_comp'], str):
-                processed_refuge['info_comp'] = processed_refuge['info_comp'].replace('mezzanine/etage', 'mezzanine_etage')
+            if isinstance(processed_refuge['info_comp'], dict):
+                # Si la clau "mezzanine/etage" existeix, canviar-la per "mezzanine_etage"
+                if 'mezzanine/etage' in processed_refuge['info_comp']:
+                    processed_refuge['info_comp']['mezzanine_etage'] = processed_refuge['info_comp'].pop('mezzanine/etage')
         
         # 2. Convertir description de llista a valor únic
         if 'description' in processed_refuge:

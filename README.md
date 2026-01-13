@@ -13,5 +13,5 @@ Per una banda, pyrenees-refuges és la font més gran d'informació de refugis l
   9. Comprovació final de refugis que no s’han unit correctament ja que les dades difereixen molt tot i ser el mateix refugi. Primer es filtren per les coordenades i s’obtenen aquelles parelles de refugis que estan a menys de 100 metres entre sí. Posteriorment, de forma manual s’analitza cada parella per a comprovar si són el mateix refugi i es guarda la parella en un document per a posteriorment, unir-les de la mateixa manera que en el punt 6. 
   10. Unir les descripcions i remarques de cada refugi provinents de les dues fonts d'informació unides en un sol json mitjançant una crida al LLM GPT 4 turbo preview.
 
-Finalment, s’obté un json amb tota la informació unida en un sol document anomenat data_final_refuges.json i donant com a resultat en un total de 1542 refugis. D’aquesta manera obtenim les dades més completes fins al moment de refugis lliures i la base per a començar a desenvolupar l’aplicació.
+Finalment, s’obté un json amb tota la informació unida en un sol document anomenat final_data_refuges.json i donant com a resultat en un total de 1542 refugis. D’aquesta manera obtenim les dades més completes fins al moment de refugis lliures i la base per a començar a desenvolupar l’aplicació.
 

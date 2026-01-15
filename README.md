@@ -1,3 +1,5 @@
+PROCÉS DEL TRACTAMENT DE LES DADES
+
 Per a poblar l’app amb dades reals de refugis lliures, primer es van buscar quines alternatives existents hi havia actualment. De totes les anomenades al punt 2.1, només https://www.pyrenees-refuges.com/ i  https://www.refuges.info/ tenien una api d’ús públic, la informació de la qual pot ser explotada. Alhora, aquestes dos webs són les més populars i  contenen molta informació. 
 Per una banda, pyrenees-refuges és la font més gran d'informació de refugis lliures del Pirineu, amb quasi 1200 refugis lliures i 400 de guardats. Conté fotos, comentaris i informació diversa sobre aquests. Per l’altra banda, refuges.info en conte 643, però aquests estan més ben documentats i amb més participació de la comunitat. Donat que un dels objectius de l’aplicació és ser la font d’informació més completa de refugis lliures fins a l’actualitat, s’ha optat per unificar les dues fonts d’informació en un sol json normalitzat i adaptat a les necessitats de l’aplicació seguint el següent procediment:
   
